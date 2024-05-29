@@ -38,6 +38,9 @@ jobs:
       - name: Run zbget
         run: python ${{ github.workspace }}/py/zbget.py
 
+      - name: Run sortzb
+        run: python ${{ github.workspace }}/py/sortzb.py
+
 
       - name: 提交更改
         run: |
