@@ -26,28 +26,36 @@ driver = webdriver.Chrome(options=chrome_options)
 
 
 
+# 定义一个信号量，限制并发量为 3
+semaphore = asyncio.Semaphore(3)
+
 async def fetch(url, session, values, valid_values):
-    try:
-        cmd = ['ffprobe', '-v', 'error', '-print_format', 'json', '-show_streams', '-select_streams', 'v', url]
-        process = await asyncio.create_subprocess_exec(*cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        stdout, stderr = await asyncio.wait_for(process.communicate(), timeout=35)
-        info = json.loads(stdout.decode())
-        width = info['streams'][0]['width']
-        height = info['streams'][0]['height']
-        print(f"{url} 分辨率: {width}x{height}")
-        for value in values:
-            if value in url:
-                valid_values.add(value)
-                print(f"Valid value found: {value}")
-        return True
-    except asyncio.TimeoutError:
-        process.kill()
-    except Exception as e:
-        pass
-    finally:
-        if process:
-            await process.wait()
-    return False
+    async with semaphore:  # 使用信号量限制并发
+        process = None
+        try:
+            cmd = ['ffprobe', '-v', 'error', '-print_format', 'json', '-show_streams', '-select_streams', 'v', url]
+            process = await asyncio.create_subprocess_exec(*cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            stdout, stderr = await asyncio.wait_for(process.communicate(), timeout=10)
+            info = json.loads(stdout.decode())
+            width = info['streams'][0]['width']
+            height = info['streams'][0]['height']
+            print(f"{url} 分辨率: {width}x{height}")
+            for value in values:
+                if value in url:
+                    valid_values.add(value)
+                    print(f"Valid value found: {value}")
+            return True
+        except asyncio.TimeoutError:
+            if process:
+                process.kill()
+        except Exception as e:
+            pass
+        finally:
+            if process:
+                await process.wait()
+        return False
+
+
 
 async def process_file(file_name, session, h, values):  
     file_path_cm = f"c/cm{h}.txt"
