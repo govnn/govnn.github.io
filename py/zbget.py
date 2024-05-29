@@ -72,6 +72,7 @@ async def process_file(file_name, session, h, values):
         lines_cn = file_cn.readlines()
         
         tasks = []
+        print(f"\n链接：")
         for lines, file_type, valid_values in zip((lines_cm, lines_cn), ("cm", "cn"), (valid_values_cm, valid_values_cn)):
             for line in lines:
                 for value in values:
