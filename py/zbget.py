@@ -30,7 +30,7 @@ async def fetch(url, session, values, valid_values):
     try:
         cmd = ['ffprobe', '-v', 'error', '-print_format', 'json', '-show_streams', '-select_streams', 'v', url]
         process = await asyncio.create_subprocess_exec(*cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        stdout, stderr = await asyncio.wait_for(process.communicate(), timeout=15)
+        stdout, stderr = await asyncio.wait_for(process.communicate(), timeout=35)
         info = json.loads(stdout.decode())
         width = info['streams'][0]['width']
         height = info['streams'][0]['height']
