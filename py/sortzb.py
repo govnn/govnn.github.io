@@ -1,5 +1,6 @@
 import os
 import re
+import random
 
 
 cctv_channels = []
@@ -31,7 +32,9 @@ in1_file_path = f"e/888"
 with open(in1_file_path, 'r',  encoding='utf-8') as file:
     lines = file.readlines()
     lines = [line.strip() for line in lines if line.strip() and 'http' in line]
-    
+
+    random.shuffle(lines)
+
     for line in lines:
         if ',' not in line:
             print(f"Skipping invalid data: {line}")
