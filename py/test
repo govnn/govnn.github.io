@@ -45,7 +45,7 @@ async def main():
             results = await asyncio.gather(*chunk)
             valid_lines.extend(filter(None, results))
 
-        with open("e/999", "w", encoding="utf-8") as f:
+        with open("e/888", "w", encoding="utf-8") as f:
             for line in valid_lines:
                 if line is not None and isinstance(line, str):
                     f.write(line)
