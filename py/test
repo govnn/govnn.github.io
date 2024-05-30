@@ -1,0 +1,61 @@
+import aiohttp
+import asyncio
+import os
+
+async def fetch(session, url):
+    try:
+        async with session.get(url, timeout=1) as response:
+            if response.status == 200:
+                return True
+            else:
+                return False
+    except aiohttp.ClientError:
+        return False
+    except asyncio.TimeoutError:
+        return False
+
+async def process_line(session, line, invalid_lines):
+    if any(keyword in line for keyword in ["购", "酒店", "视频", "优选"]):
+        # 如果行包含关键字，则跳过处理该行
+        return None, None
+    
+    if line.strip():
+        index_http = line.find("http")
+        if index_http != -1:
+            url = line[index_http:]
+            valid = await fetch(session, url)
+            if valid:
+                return line
+    invalid_lines.append(line)
+
+async def main():
+   
+    concurrent_limit = 100
+
+    async with aiohttp.ClientSession() as session:
+        valid_lines = []
+        invalid_lines = []
+
+        with open("e/888", "r", encoding="utf-8") as f:
+            lines = f.readlines()
+
+        tasks = [process_line(session, line, invalid_lines) for line in lines]
+        for i in range(0, len(tasks), concurrent_limit):
+            chunk = tasks[i:i + concurrent_limit]
+            results = await asyncio.gather(*chunk)
+            valid_lines.extend(filter(None, results))
+
+        with open("e/999", "w", encoding="utf-8") as f:
+            for line in valid_lines:
+                if line is not None and isinstance(line, str):
+                    f.write(line)
+
+        print("已完成检测，并保存有效数据")
+
+        if invalid_lines:
+            print("无效数据所在行：")
+            #for line in invalid_lines:
+                #print(line.strip())
+
+if __name__ == "__main__":
+    asyncio.run(main())
