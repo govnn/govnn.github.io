@@ -150,7 +150,13 @@ async def main():
             "https://fofa.info/result?qbase64=cmVnaW9uPSLlm5vlt50iICYmICJ1ZHB4eSI%3D",
             "https://fofa.info/result?qbase64=cmVnaW9uPSJmdWppYW4iICYmICJ1ZHB4eSI%3D",
             "https://fofa.info/result?qbase64=cmVnaW9uPSJjaG9uZ3FpbmciICYmICJ1ZHB4eSI%3D",
-            "https://fofa.info/result?qbase64=cmVnaW9uPSJnYW5zdSIgJiYgInVkcHh5Ig%3D%3D"
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iamlhbmdzdSI=",
+
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0ic2hhbmRvbmci",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iYW5odWki",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iaHVuYW4i",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iaHViZWki",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iU2hhYW54aSI=",
               
         ]
         all_new_data = []
