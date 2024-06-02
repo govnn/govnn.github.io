@@ -23,6 +23,10 @@ chongqing_channels = []
 beijing_channels = []
 movie_channels = []
 
+anhui_channels = []
+hubei_channels = []
+shan3xi_channels = []
+shanxi_channels = []
 
 other_channels2 = []
 
@@ -76,6 +80,10 @@ with open(in1_file_path, 'r',  encoding='utf-8') as file:
 			'beijing_channels': ['北京', '密云', '房山', '通州'],
 			'gat_channels': ["凤凰中文", "凤凰卫视", "凤凰资讯", "凤凰香港"],
 			'movie_channels': ["电影", "影院", "剧场", "影视"],
+		'anhui_channels': ["安徽", "临泉", "义安", "亳州", "六安", "南陵", "合肥", "太湖", "徽州", "寿县", "桐城", "池州", "泗县", "淮北", "淮南", "湾沚", "滁州", "祁门", "繁昌", "蒙城", "阜南", "阜阳", "霍山", "霍邱", "黄山"],
+            'hubei_channels': ["湖北", "武汉", "蔡甸", "房县", "阳新", "房县"],
+            'shan3xi_channels': ["陕西", "佛坪", "千阳", "合阳", "商洛", "太白", "宁强", "安康", "宝鸡", "岚皋", "扶风", "榆林", "洋县", "渭南", "眉县", "紫阳", "西乡", "陈仓", "眉县", "眉县"],
+            'shanxi_channels': ["山西", "晋中", "盐湖", "运城", "清徐", "大同"],
 			
         }
 
@@ -145,6 +153,11 @@ chongqing_channels_sorted = group_and_sort_channels(chongqing_channels)
 beijing_channels_sorted = group_and_sort_channels(beijing_channels)
 movie_channels_sorted = group_and_sort_channels(movie_channels)
 
+anhui_channels_sorted = group_and_sort_channels(anhui_channels)
+hubei_channels_sorted = group_and_sort_channels(hubei_channels)
+shan3xi_channels_sorted = group_and_sort_channels(shan3xi_channels)
+shanxi_channels_sorted = group_and_sort_channels(shanxi_channels)
+
 other_channels2_sorted = group_and_sort_channels(other_channels2)
 
 
@@ -194,6 +207,12 @@ channel_lists = {
 	"四川":sichuan_channels_sorted,
 	"重庆":chongqing_channels_sorted,
 	"北京":beijing_channels_sorted,
+
+	"安徽":anhui_channels_sorted,
+    "湖北":hubei_channels_sorted,
+    "陕西":shan3xi_channels_sorted,
+    "山西":shanxi_channels_sorted,
+	
 	
 }
 
