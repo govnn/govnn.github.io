@@ -2,7 +2,7 @@ name: tested
 
 on:
   schedule:
-    - cron: '0 3,7 * * *'
+    - cron: '0 7,23 * * *'
   #push:
     #branches:
       #- main
