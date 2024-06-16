@@ -143,10 +143,10 @@ async def main():
         urls = [
             "https://fofa.info/result?qbase64=cmVnaW9uPSLlsbHopb8iICYmICJ1ZHB4eSI%3D",
             "https://fofa.info/result?qbase64=cmVnaW9uPSLlub%2FkuJwiICYmICJ1ZHB4eSI%3D",
-            "https://fofa.info/result?qbase64=cmVnaW9uPSJzaGFuZ2hhaSIgJiYgInVkcHh5Ig%3D%3D",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0ic2hhbmdoYWki&page=1&page_size=20",   # sh
             "https://fofa.info/result?qbase64=cmVnaW9uPSLlub%2Fopb8iICYmICJ1ZHB4eSI%3D",
             "https://fofa.info/result?qbase64=cmVnaW9uPSLmtZnmsZ8iICYmICJ1ZHB4eSI%3D",
-            "https://fofa.info/result?qbase64=cmVnaW9uPSLljJfkuqwiICYmICJ1ZHB4eSI%3D",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iYmVpamluZyI=&page=1&page_size=20",    # BJ
             "https://fofa.info/result?qbase64=cmVnaW9uPSLlm5vlt50iICYmICJ1ZHB4eSI%3D",
             "https://fofa.info/result?qbase64=cmVnaW9uPSJmdWppYW4iICYmICJ1ZHB4eSI%3D",
             "https://fofa.info/result?qbase64=cmVnaW9uPSJjaG9uZ3FpbmciICYmICJ1ZHB4eSI%3D",
@@ -183,7 +183,7 @@ async def write_to_file(all_new_data):
     output_folder = "e"
     output_file_path = f"{output_folder}/888"
     #output_file_path = os.path.join("e", "888")
-    with open(output_file_path, "w", encoding="utf-8") as file:
+    with open(output_file_path, "a", encoding="utf-8") as file:
         for line in all_new_data:
             file.write(line + "\n")
 
