@@ -141,22 +141,22 @@ async def process_folder(file_name_to_read, valid_values, h):
 async def main():
     async with ClientSession() as session:
         urls = [
-            "https://fofa.info/result?qbase64=cmVnaW9uPSLlsbHopb8iICYmICJ1ZHB4eSI%3D",
-            "https://fofa.info/result?qbase64=cmVnaW9uPSLlub%2FkuJwiICYmICJ1ZHB4eSI%3D",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0ic2hhbnhpIg==&page=1&page_size=20",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iZ3Vhbmdkb25nIg==&page=1&page_size=20",
             "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0ic2hhbmdoYWki&page=1&page_size=20",   # sh
-            "https://fofa.info/result?qbase64=cmVnaW9uPSLlub%2Fopb8iICYmICJ1ZHB4eSI%3D",
-            "https://fofa.info/result?qbase64=cmVnaW9uPSLmtZnmsZ8iICYmICJ1ZHB4eSI%3D",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iZ3Vhbmd4aSI=&page=1&page_size=20",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iemhlamlhbmci&page=1&page_size=20",
             "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iYmVpamluZyI=&page=1&page_size=20",    # BJ
-            "https://fofa.info/result?qbase64=cmVnaW9uPSLlm5vlt50iICYmICJ1ZHB4eSI%3D",
-            "https://fofa.info/result?qbase64=cmVnaW9uPSJmdWppYW4iICYmICJ1ZHB4eSI%3D",
-            "https://fofa.info/result?qbase64=cmVnaW9uPSJjaG9uZ3FpbmciICYmICJ1ZHB4eSI%3D",
-            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iamlhbmdzdSI=",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0ic2ljaHVhbiI=&page=1&page_size=20",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iZnVqaWFuIg==&page=1&page_size=20",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iY2hvbmdxaW5nIg==&page=1&page_size=20",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iamlhbmdzdSI=&page=1&page_size=20",
 
-            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0ic2hhbmRvbmci",
-            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iYW5odWki",
-            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iaHVuYW4i",
-            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iaHViZWki",
-            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iU2hhYW54aSI=",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0ic2hhbmRvbmci&page=1&page_size=20",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iYW5odWki&page=1&page_size=20",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iaHVuYW4i&page=1&page_size=20",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iaHViZWki&page=1&page_size=20",
+            "https://fofa.info/result?qbase64=IlNlcnZlcjogdWRweHkiICYmIHJlZ2lvbj0iU2hhYW54aSI=&page=1&page_size=20",
               
         ]
         all_new_data = []
