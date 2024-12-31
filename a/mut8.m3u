@@ -4,29 +4,29 @@ http://114.83.223.132:9999/udp/239.45.3.145:5140
 #EXTINF:-1 group-title="央视",CCTV1
 http://114.83.223.132:9999/udp/239.45.3.145:5140
 #EXTINF:-1 group-title="央视",CCTV2
-http://101.93.223.15:6666/udp/239.45.0.1:5140
+http://14.112.68.51:8000/rtp/239.20.0.197:2192
 #EXTINF:-1 group-title="央视",CCTV2
 http://114.83.223.132:9999/udp/239.45.0.1:5140
 #EXTINF:-1 group-title="央视",CCTV2
-http://14.112.68.51:8000/rtp/239.20.0.197:2192
+http://101.93.223.15:6666/udp/239.45.0.1:5140
 #EXTINF:-1 group-title="央视",CCTV4
 http://101.93.223.15:6666/udp/239.45.0.2:5140
 #EXTINF:-1 group-title="央视",CCTV4
 http://14.112.68.51:8000/rtp/239.20.0.16:3340
 #EXTINF:-1 group-title="央视",CCTV5
-http://14.112.68.51:8000/rtp/239.20.0.30:3284
-#EXTINF:-1 group-title="央视",CCTV5
 http://114.95.156.205:4022/udp/239.45.1.69:5140
-#EXTINF:-1 group-title="央视",CCTV5+
-http://114.83.223.132:9999/udp/239.45.0.34:5140
+#EXTINF:-1 group-title="央视",CCTV5
+http://14.112.68.51:8000/rtp/239.20.0.30:3284
 #EXTINF:-1 group-title="央视",CCTV5+
 http://14.112.68.51:8000/rtp/239.20.0.203:2204
+#EXTINF:-1 group-title="央视",CCTV5+
+http://114.83.223.132:9999/udp/239.45.0.34:5140
+#EXTINF:-1 group-title="央视",CCTV6
+http://114.83.223.132:9999/udp/239.45.1.70:5140
 #EXTINF:-1 group-title="央视",CCTV6
 http://101.93.223.15:6666/udp/239.45.1.70:5140
 #EXTINF:-1 group-title="央视",CCTV6
 http://14.112.68.51:8000/rtp/239.20.0.29:3288
-#EXTINF:-1 group-title="央视",CCTV6
-http://114.83.223.132:9999/udp/239.45.1.70:5140
 #EXTINF:-1 group-title="央视",CCTV7
 http://114.83.223.132:9999/udp/239.45.3.56:5140
 #EXTINF:-1 group-title="央视",CCTV8
@@ -46,19 +46,19 @@ http://14.112.68.51:8000/rtp/239.21.0.35:3480
 #EXTINF:-1 group-title="央视",CCTV11
 http://114.83.223.132:9999/udp/239.45.0.18:5140
 #EXTINF:-1 group-title="央视",CCTV12
-http://114.83.223.132:9999/udp/239.45.3.10:5140
-#EXTINF:-1 group-title="央视",CCTV12
 http://14.112.68.51:8000/rtp/239.20.0.201:2200
+#EXTINF:-1 group-title="央视",CCTV12
+http://114.83.223.132:9999/udp/239.45.3.10:5140
 #EXTINF:-1 group-title="央视",CCTV13
 http://14.112.68.51:8000/rtp/239.21.0.88:3692
 #EXTINF:-1 group-title="央视",CCTV14
-http://14.112.68.51:8000/rtp/239.20.0.202:2202
-#EXTINF:-1 group-title="央视",CCTV14
 http://114.83.223.132:9999/udp/239.45.3.23:5140
-#EXTINF:-1 group-title="央视",CCTV15
-http://14.112.68.51:8000/rtp/239.21.0.36:3484
+#EXTINF:-1 group-title="央视",CCTV14
+http://14.112.68.51:8000/rtp/239.20.0.202:2202
 #EXTINF:-1 group-title="央视",CCTV15
 http://114.83.223.132:9999/udp/239.45.0.20:5140
+#EXTINF:-1 group-title="央视",CCTV15
+http://14.112.68.51:8000/rtp/239.21.0.36:3484
 #EXTINF:-1 group-title="央视",CCTV15
 http://101.93.223.15:6666/udp/239.45.0.20:5140
 #EXTINF:-1 group-title="央视",CCTV16
@@ -86,9 +86,9 @@ http://14.112.68.51:8000/rtp/239.21.0.79:3656
 #EXTINF:-1 group-title="央视",CCTV高尔夫网球
 http://14.112.68.51:8000/rtp/239.21.0.72:3628
 #EXTINF:-1 group-title="卫视",东南卫视
-http://114.83.223.132:9999/udp/239.45.1.121:5140
-#EXTINF:-1 group-title="卫视",东南卫视
 http://14.112.68.51:8000/rtp/239.20.0.58:3168
+#EXTINF:-1 group-title="卫视",东南卫视
+http://114.83.223.132:9999/udp/239.45.1.121:5140
 #EXTINF:-1 group-title="卫视",东方卫视
 http://14.112.68.51:8000/rtp/239.20.0.173:2144
 #EXTINF:-1 group-title="卫视",东方卫视
@@ -100,9 +100,9 @@ http://14.112.68.51:8000/rtp/239.21.0.84:3676
 #EXTINF:-1 group-title="卫视",吉林卫视
 http://14.112.68.51:8000/rtp/239.20.0.54:3184
 #EXTINF:-1 group-title="卫视",四川卫视
-http://14.112.68.51:8000/rtp/239.20.0.194:2186
-#EXTINF:-1 group-title="卫视",四川卫视
 http://114.83.223.132:9999/udp/239.45.1.83:5140
+#EXTINF:-1 group-title="卫视",四川卫视
+http://14.112.68.51:8000/rtp/239.20.0.194:2186
 #EXTINF:-1 group-title="卫视",四川卫视
 http://114.83.223.132:9999/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="卫视",天津卫视
@@ -114,9 +114,9 @@ http://114.83.223.132:9999/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="卫视",广西卫视
 http://114.83.223.132:9999/udp/239.45.0.5:5140
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://114.83.223.132:9999/udp/239.45.3.177:5140
-#EXTINF:-1 group-title="卫视",江苏卫视
 http://14.112.68.51:8000/rtp/239.20.0.170:2138
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://114.83.223.132:9999/udp/239.45.3.177:5140
 #EXTINF:-1 group-title="卫视",江西卫视
 http://114.83.223.132:9999/udp/239.45.1.122:5140
 #EXTINF:-1 group-title="卫视",河北卫视
@@ -134,25 +134,25 @@ http://101.93.223.15:6666/udp/239.45.1.84:5140
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://114.83.223.132:9999/udp/239.45.3.232:5140
 #EXTINF:-1 group-title="体育",CCTV5
-http://14.112.68.51:8000/rtp/239.20.0.30:3284
-#EXTINF:-1 group-title="体育",CCTV5
 http://114.95.156.205:4022/udp/239.45.1.69:5140
-#EXTINF:-1 group-title="体育",CCTV5+
-http://114.83.223.132:9999/udp/239.45.0.34:5140
+#EXTINF:-1 group-title="体育",CCTV5
+http://14.112.68.51:8000/rtp/239.20.0.30:3284
 #EXTINF:-1 group-title="体育",CCTV5+
 http://14.112.68.51:8000/rtp/239.20.0.203:2204
+#EXTINF:-1 group-title="体育",CCTV5+
+http://114.83.223.132:9999/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="体育",五星体育
 http://139.227.21.168:6000/rtp/225.0.0.8:6140
 #EXTINF:-1 group-title="体育",百事通超级体育
 http://114.83.223.132:9999/udp/239.45.3.139:5140
 #EXTINF:-1 group-title="少儿",CCTV14
-http://14.112.68.51:8000/rtp/239.20.0.202:2202
-#EXTINF:-1 group-title="少儿",CCTV14
 http://114.83.223.132:9999/udp/239.45.3.23:5140
-#EXTINF:-1 group-title="少儿",动漫秀场
-http://139.227.21.168:6000/rtp/225.0.0.161:6140
+#EXTINF:-1 group-title="少儿",CCTV14
+http://14.112.68.51:8000/rtp/239.20.0.202:2202
 #EXTINF:-1 group-title="少儿",动漫秀场
 http://114.83.223.132:9999/udp/239.45.3.134:5140
+#EXTINF:-1 group-title="少儿",动漫秀场
+http://139.227.21.168:6000/rtp/225.0.0.161:6140
 #EXTINF:-1 group-title="少儿",哈哈炫动
 http://114.83.223.132:9999/udp/239.45.1.55:5140
 #EXTINF:-1 group-title="少儿",金鹰卡通
@@ -162,11 +162,11 @@ http://101.93.223.15:6666/udp/239.45.3.140:5140
 #EXTINF:-1 group-title="其它",CETV4
 http://114.83.223.132:9999/udp/239.45.0.21:5140
 #EXTINF:-1 group-title="其它",七彩戏剧
-http://139.227.21.168:6000/rtp/225.0.0.225:6140
-#EXTINF:-1 group-title="其它",七彩戏剧
 http://114.83.223.132:9999/udp/239.45.0.16:5140
 #EXTINF:-1 group-title="其它",七彩戏剧
 http://101.93.223.15:6666/udp/239.45.0.16:5140
+#EXTINF:-1 group-title="其它",七彩戏剧
+http://139.227.21.168:6000/rtp/225.0.0.225:6140
 #EXTINF:-1 group-title="其它",上海外语
 http://101.93.223.15:6666/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="其它",上海教育
@@ -184,9 +184,9 @@ http://114.83.223.132:9999/udp/239.45.1.54:5140
 #EXTINF:-1 group-title="其它",新闻综合
 http://139.227.21.168:6000/rtp/225.0.0.1:6140
 #EXTINF:-1 group-title="其它",法治天地
-http://139.227.21.168:6000/rtp/225.0.0.160:6140
-#EXTINF:-1 group-title="其它",法治天地
 http://114.83.223.132:9999/udp/239.45.1.46:5140
+#EXTINF:-1 group-title="其它",法治天地
+http://139.227.21.168:6000/rtp/225.0.0.160:6140
 #EXTINF:-1 group-title="其它",游戏风云
 http://114.83.223.132:9999/udp/239.45.3.131:5140
 #EXTINF:-1 group-title="其它",游戏风云
@@ -196,9 +196,9 @@ http://139.227.21.168:6000/rtp/225.0.0.163:6140
 #EXTINF:-1 group-title="其它",第一财经
 http://139.227.21.168:6000/rtp/225.0.0.7:6140
 #EXTINF:-1 group-title="其它",纪实人文
-http://139.227.21.168:6000/rtp/225.0.0.6:6140
-#EXTINF:-1 group-title="其它",纪实人文
 http://114.83.223.132:9999/udp/239.45.3.212:5140
+#EXTINF:-1 group-title="其它",纪实人文
+http://139.227.21.168:6000/rtp/225.0.0.6:6140
 #EXTINF:-1 group-title="其它",纺织
 http://114.83.223.132:9999/udp/239.45.1.8:5140
 #EXTINF:-1 group-title="其它",绿色生态
@@ -218,9 +218,9 @@ http://139.227.21.168:6000/rtp/225.0.0.5:6140
 #EXTINF:-1 group-title="剧场",欢笑剧场
 http://114.83.223.132:9999/udp/239.45.3.196:5140
 #EXTINF:-1 group-title="剧场",欢笑剧场
-http://114.83.223.132:9999/udp/239.45.3.196:5140
-#EXTINF:-1 group-title="剧场",欢笑剧场
 http://139.227.21.168:6000/rtp/225.0.0.158:6140
+#EXTINF:-1 group-title="剧场",欢笑剧场
+http://114.83.223.132:9999/udp/239.45.3.196:5140
 #EXTINF:-1 group-title="剧场",都市剧场
 http://114.83.223.132:9999/udp/239.45.3.136:5140
 #EXTINF:-1 group-title="剧场",都市剧场
@@ -238,9 +238,9 @@ http://114.83.223.132:9999/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="广西",广西卫视
 http://114.83.223.132:9999/udp/239.45.0.5:5140
 #EXTINF:-1 group-title="四川",四川卫视
-http://14.112.68.51:8000/rtp/239.20.0.194:2186
-#EXTINF:-1 group-title="四川",四川卫视
 http://114.83.223.132:9999/udp/239.45.1.83:5140
+#EXTINF:-1 group-title="四川",四川卫视
+http://14.112.68.51:8000/rtp/239.20.0.194:2186
 #EXTINF:-1 group-title="四川",四川卫视
 http://114.83.223.132:9999/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="重庆",重庆卫视
