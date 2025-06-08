@@ -16,9 +16,9 @@ http://116.234.79.167:10000/udp/239.45.3.56:5140
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://116.234.79.167:10000/udp/239.45.3.4:5140
 #EXTINF:-1 group-title="央视频道",CCTV11
-http://14.145.128.200:4022/rtp/239.77.1.238:5146
-#EXTINF:-1 group-title="央视频道",CCTV11
 http://116.234.79.167:10000/udp/239.45.0.18:5140
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://14.145.128.200:4022/rtp/239.77.1.238:5146
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://14.145.128.200:4022/rtp/239.77.1.239:5146
 #EXTINF:-1 group-title="央视频道",CCTV15
