@@ -1,86 +1,74 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视",CCTV1
-http://218.1.171.151:4022/udp/239.45.3.145:5140
-#EXTINF:-1 group-title="央视",CCTV1
 http://183.7.17.30:8888/rtp/239.77.0.129:5146
 #EXTINF:-1 group-title="央视",CCTV1
-http://14.145.141.239:10000/rtp/239.20.0.104:2006
+http://58.41.22.161:8880/udp/239.45.3.145:5140
 #EXTINF:-1 group-title="央视",CCTV1
 http://116.22.146.21:54321/rtp/239.77.0.129:5146
 #EXTINF:-1 group-title="央视",CCTV1
 http://58.62.235.86:10000/rtp/239.77.0.129:5146
 #EXTINF:-1 group-title="央视",CCTV1
-http://183.7.17.30:8888/rtp/239.77.0.129:5146
-#EXTINF:-1 group-title="央视",CCTV1
-http://58.41.22.161:8880/udp/239.45.3.145:5140
+http://116.233.63.217:5555/udp/239.45.3.145:5140
 #EXTINF:-1 group-title="央视",CCTV1
 http://116.237.148.215:8881/udp/239.45.3.145:5140
 #EXTINF:-1 group-title="央视",CCTV1
-http://116.233.63.217:5555/udp/239.45.3.145:5140
+http://183.7.17.30:8888/rtp/239.77.0.129:5146
 #EXTINF:-1 group-title="央视",CCTV1
 http://222.68.2.238:4002/udp/239.45.3.145:5140
-#EXTINF:-1 group-title="央视",CCTV2
-http://222.68.2.238:4002/udp/239.45.0.1:5140
-#EXTINF:-1 group-title="央视",CCTV2
-http://116.237.148.215:8881/udp/239.45.0.1:5140
-#EXTINF:-1 group-title="央视",CCTV2
-http://183.53.109.67:9090/rtp/239.77.0.137:5146
-#EXTINF:-1 group-title="央视",CCTV2
-http://58.62.235.86:10000/rtp/239.77.0.137:5146
-#EXTINF:-1 group-title="央视",CCTV2
-http://183.7.17.30:8888/rtp/239.77.0.137:5146
-#EXTINF:-1 group-title="央视",CCTV2
-http://58.41.22.161:8880/udp/239.45.0.1:5140
 #EXTINF:-1 group-title="央视",CCTV2
 http://116.22.146.21:54321/rtp/239.77.0.137:5146
 #EXTINF:-1 group-title="央视",CCTV2
 http://114.95.208.43:3333/udp/239.45.0.1:5140
 #EXTINF:-1 group-title="央视",CCTV2
+http://222.68.2.238:4002/udp/239.45.0.1:5140
+#EXTINF:-1 group-title="央视",CCTV2
+http://58.41.22.161:8880/udp/239.45.0.1:5140
+#EXTINF:-1 group-title="央视",CCTV2
 http://116.233.38.0:8888/udp/239.45.0.1:5140
+#EXTINF:-1 group-title="央视",CCTV2
+http://116.237.148.215:8881/udp/239.45.0.1:5140
 #EXTINF:-1 group-title="央视",CCTV2
 http://14.145.141.239:10000/rtp/239.20.0.197:2192
 #EXTINF:-1 group-title="央视",CCTV3
-http://113.65.5.151:85/rtp/239.77.0.169:5146
-#EXTINF:-1 group-title="央视",CCTV3
-http://116.233.38.0:8888/udp/239.45.1.68:5140
-#EXTINF:-1 group-title="央视",CCTV3
-http://58.62.235.86:10000/rtp/239.77.0.169:5146
-#EXTINF:-1 group-title="央视",CCTV3
-http://14.145.141.239:10000/rtp/239.20.0.28:3292
-#EXTINF:-1 group-title="央视",CCTV3
-http://116.237.138.54:10000/udp/239.45.1.68:5140
-#EXTINF:-1 group-title="央视",CCTV3
 http://114.95.208.43:3333/udp/239.45.1.68:5140
-#EXTINF:-1 group-title="央视",CCTV3
-http://58.41.22.161:8880/udp/239.45.1.68:5140
-#EXTINF:-1 group-title="央视",CCTV3
-http://218.1.171.151:4022/udp/239.45.1.68:5140
 #EXTINF:-1 group-title="央视",CCTV3
 http://116.233.63.217:5555/udp/239.45.1.68:5140
 #EXTINF:-1 group-title="央视",CCTV3
+http://218.1.171.151:4022/udp/239.45.1.68:5140
+#EXTINF:-1 group-title="央视",CCTV3
+http://183.7.17.30:8888/rtp/239.77.0.169:5146
+#EXTINF:-1 group-title="央视",CCTV3
+http://116.233.38.0:8888/udp/239.45.1.68:5140
+#EXTINF:-1 group-title="央视",CCTV3
+http://14.145.141.239:10000/rtp/239.20.0.28:3292
+#EXTINF:-1 group-title="央视",CCTV3
 http://119.131.25.78:9003/rtp/239.77.0.169:5146
-#EXTINF:-1 group-title="央视",CCTV4
-http://14.145.141.239:10000/rtp/239.20.0.16:3340
-#EXTINF:-1 group-title="央视",CCTV4
-http://116.233.63.217:5555/udp/239.45.0.2:5140
+#EXTINF:-1 group-title="央视",CCTV3
+http://222.68.2.238:4002/udp/239.45.1.68:5140
+#EXTINF:-1 group-title="央视",CCTV3
+http://58.41.22.161:8880/udp/239.45.1.68:5140
+#EXTINF:-1 group-title="央视",CCTV3
+http://116.237.138.54:10000/udp/239.45.1.68:5140
 #EXTINF:-1 group-title="央视",CCTV4
 http://58.41.22.161:8880/udp/239.45.0.2:5140
 #EXTINF:-1 group-title="央视",CCTV4
-http://116.237.148.215:8881/udp/239.45.0.2:5140
-#EXTINF:-1 group-title="央视",CCTV4
-http://116.233.38.0:8888/udp/239.45.0.2:5140
-#EXTINF:-1 group-title="央视",CCTV4
-http://183.53.109.67:9090/rtp/239.77.1.163:5146
+http://116.235.252.109:8888/udp/239.45.0.2:5140
 #EXTINF:-1 group-title="央视",CCTV4
 http://116.233.63.217:5555/udp/239.45.0.2:5140
 #EXTINF:-1 group-title="央视",CCTV4
-http://222.68.2.238:4002/udp/239.45.0.2:5140
+http://116.233.38.0:8888/udp/239.45.0.2:5140
 #EXTINF:-1 group-title="央视",CCTV4
-http://58.62.235.86:10000/rtp/239.77.1.163:5146
+http://116.233.38.0:8888/udp/239.45.0.2:5140
+#EXTINF:-1 group-title="央视",CCTV4
+http://116.237.148.215:8881/udp/239.45.0.2:5140
+#EXTINF:-1 group-title="央视",CCTV4
+http://183.7.17.30:8888/rtp/239.77.1.163:5146
 #EXTINF:-1 group-title="央视",CCTV4
 http://116.235.252.109:8888/udp/239.45.0.2:5140
-#EXTINF:-1 group-title="央视",CCTV4欧洲
-http://183.7.17.30:8888/rtp/239.253.43.120:5146
+#EXTINF:-1 group-title="央视",CCTV4
+http://116.233.63.217:5555/udp/239.45.0.2:5140
+#EXTINF:-1 group-title="央视",CCTV4
+http://114.95.208.43:3333/udp/239.45.0.2:5140
 #EXTINF:-1 group-title="央视",CCTV4欧洲
 http://58.62.235.86:10000/rtp/239.253.43.120:5146
 #EXTINF:-1 group-title="央视",CCTV4欧洲
@@ -88,329 +76,313 @@ http://116.22.146.21:54321/rtp/239.253.43.120:5146
 #EXTINF:-1 group-title="央视",CCTV4欧洲
 http://183.7.17.30:8888/rtp/239.253.43.120:5146
 #EXTINF:-1 group-title="央视",CCTV4美洲
+http://116.22.146.21:54321/rtp/239.253.43.121:5146
+#EXTINF:-1 group-title="央视",CCTV4美洲
 http://183.7.17.30:8888/rtp/239.253.43.121:5146
 #EXTINF:-1 group-title="央视",CCTV4美洲
 http://183.53.109.67:9090/rtp/239.253.43.121:5146
 #EXTINF:-1 group-title="央视",CCTV4美洲
 http://58.62.235.86:10000/rtp/239.253.43.121:5146
-#EXTINF:-1 group-title="央视",CCTV4美洲
-http://116.22.146.21:54321/rtp/239.253.43.121:5146
-#EXTINF:-1 group-title="央视",CCTV5
-http://116.233.38.0:8888/udp/239.45.1.69:5140
-#EXTINF:-1 group-title="央视",CCTV5
-http://119.131.25.78:9003/rtp/239.77.0.170:5146
 #EXTINF:-1 group-title="央视",CCTV5
 http://183.7.17.30:8888/rtp/239.77.0.170:5146
 #EXTINF:-1 group-title="央视",CCTV5
-http://183.53.109.67:9090/rtp/239.77.0.170:5146
+http://116.235.252.109:8888/udp/239.45.1.69:5140
 #EXTINF:-1 group-title="央视",CCTV5
-http://116.233.63.217:5555/udp/239.45.1.69:5140
+http://222.68.2.238:4002/udp/239.45.1.69:5140
+#EXTINF:-1 group-title="央视",CCTV5
+http://218.1.171.151:4022/udp/239.45.1.69:5140
+#EXTINF:-1 group-title="央视",CCTV5
+http://183.53.109.67:9090/rtp/239.77.0.170:5146
 #EXTINF:-1 group-title="央视",CCTV5
 http://114.95.208.43:3333/udp/239.45.1.69:5140
 #EXTINF:-1 group-title="央视",CCTV5
-http://116.233.38.0:8888/udp/239.45.1.69:5140
+http://58.62.235.86:10000/rtp/239.77.0.170:5146
+#EXTINF:-1 group-title="央视",CCTV5
+http://116.22.146.21:54321/rtp/239.77.0.170:5146
 #EXTINF:-1 group-title="央视",CCTV5
 http://58.35.112.73:6666/udp/239.45.1.69:5140
 #EXTINF:-1 group-title="央视",CCTV5
-http://58.41.22.161:8880/udp/239.45.1.69:5140
-#EXTINF:-1 group-title="央视",CCTV5
-http://222.68.2.238:4002/udp/239.45.1.69:5140
+http://116.233.38.0:8888/udp/239.45.1.69:5140
+#EXTINF:-1 group-title="央视",CCTV5+
+http://116.233.24.27:4022/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="央视",CCTV5+
 http://58.41.22.161:8880/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="央视",CCTV5+
-http://222.68.2.238:4002/udp/239.45.0.34:5140
-#EXTINF:-1 group-title="央视",CCTV5+
-http://183.7.17.30:8888/rtp/239.77.0.87:5146
-#EXTINF:-1 group-title="央视",CCTV5+
 http://116.233.38.0:8888/udp/239.45.0.34:5140
+#EXTINF:-1 group-title="央视",CCTV5+
+http://58.62.235.86:10000/rtp/239.77.0.87:5146
+#EXTINF:-1 group-title="央视",CCTV5+
+http://222.68.2.238:4002/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="央视",CCTV5+
 http://116.237.148.215:8881/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="央视",CCTV5+
 http://218.1.171.151:4022/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="央视",CCTV5+
+http://183.7.17.30:8888/rtp/239.77.0.87:5146
+#EXTINF:-1 group-title="央视",CCTV5+
 http://114.95.208.43:3333/udp/239.45.0.34:5140
-#EXTINF:-1 group-title="央视",CCTV5+
-http://116.233.24.27:4022/udp/239.45.0.34:5140
-#EXTINF:-1 group-title="央视",CCTV5+
-http://116.22.146.21:54321/rtp/239.77.0.87:5146
 #EXTINF:-1 group-title="央视",CCTV5+
 http://116.233.63.217:5555/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="央视",CCTV6
-http://116.237.148.215:8881/udp/239.45.1.70:5140
+http://58.62.235.86:10000/rtp/239.77.0.171:5146
 #EXTINF:-1 group-title="央视",CCTV6
-http://183.53.109.67:9090/rtp/239.77.0.171:5146
+http://222.68.2.238:4002/udp/239.45.1.70:5140
+#EXTINF:-1 group-title="央视",CCTV6
+http://116.237.138.54:10000/udp/239.45.1.70:5140
 #EXTINF:-1 group-title="央视",CCTV6
 http://116.235.252.109:8888/udp/239.45.1.70:5140
 #EXTINF:-1 group-title="央视",CCTV6
 http://116.22.146.21:54321/rtp/239.77.0.171:5146
 #EXTINF:-1 group-title="央视",CCTV6
-http://116.233.38.0:8888/udp/239.45.1.70:5140
+http://116.233.24.27:4022/udp/239.45.1.70:5140
 #EXTINF:-1 group-title="央视",CCTV6
-http://116.235.252.109:8888/udp/239.45.1.70:5140
+http://183.53.109.67:9090/rtp/239.77.0.171:5146
 #EXTINF:-1 group-title="央视",CCTV6
-http://58.62.235.86:10000/rtp/239.77.0.171:5146
+http://58.41.22.161:8880/udp/239.45.1.70:5140
 #EXTINF:-1 group-title="央视",CCTV6
 http://183.7.17.30:8888/rtp/239.77.0.171:5146
 #EXTINF:-1 group-title="央视",CCTV6
-http://116.237.138.54:10000/udp/239.45.1.70:5140
-#EXTINF:-1 group-title="央视",CCTV6
-http://116.233.24.27:4022/udp/239.45.1.70:5140
+http://116.233.38.0:8888/udp/239.45.1.70:5140
 #EXTINF:-1 group-title="央视",CCTV7
-http://116.233.63.217:5555/udp/239.45.3.56:5140
-#EXTINF:-1 group-title="央视",CCTV7
-http://222.68.2.238:4002/udp/239.45.3.56:5140
+http://116.22.146.21:54321/rtp/239.77.0.138:5146
 #EXTINF:-1 group-title="央视",CCTV7
 http://116.233.38.0:8888/udp/239.45.3.56:5140
 #EXTINF:-1 group-title="央视",CCTV7
 http://183.53.109.67:9090/rtp/239.77.0.138:5146
 #EXTINF:-1 group-title="央视",CCTV7
-http://116.237.138.54:10000/udp/239.45.3.56:5140
-#EXTINF:-1 group-title="央视",CCTV7
-http://116.22.146.21:54321/rtp/239.77.0.138:5146
+http://218.1.171.151:4022/udp/239.45.3.56:5140
 #EXTINF:-1 group-title="央视",CCTV7
 http://58.62.235.86:10000/rtp/239.77.0.138:5146
 #EXTINF:-1 group-title="央视",CCTV7
-http://114.95.208.43:3333/udp/239.45.3.56:5140
-#EXTINF:-1 group-title="央视",CCTV7
 http://14.145.141.239:10000/rtp/239.20.0.198:2194
 #EXTINF:-1 group-title="央视",CCTV7
+http://183.7.17.30:8888/rtp/239.77.0.138:5146
+#EXTINF:-1 group-title="央视",CCTV7
+http://114.95.208.43:3333/udp/239.45.3.56:5140
+#EXTINF:-1 group-title="央视",CCTV7
 http://58.41.22.161:8880/udp/239.45.3.56:5140
+#EXTINF:-1 group-title="央视",CCTV7
+http://116.233.63.217:5555/udp/239.45.3.56:5140
 #EXTINF:-1 group-title="央视",CCTV8
-http://116.233.63.217:5555/udp/239.45.1.71:5140
+http://116.22.146.21:54321/rtp/239.77.0.172:5146
 #EXTINF:-1 group-title="央视",CCTV8
-http://183.53.109.67:9090/rtp/239.77.0.172:5146
-#EXTINF:-1 group-title="央视",CCTV8
-http://183.7.17.30:8888/rtp/239.77.0.172:5146
-#EXTINF:-1 group-title="央视",CCTV8
-http://58.62.235.86:10000/rtp/239.77.0.172:5146
+http://116.237.138.54:10000/udp/239.45.1.71:5140
 #EXTINF:-1 group-title="央视",CCTV8
 http://222.68.2.238:4002/udp/239.45.1.71:5140
 #EXTINF:-1 group-title="央视",CCTV8
 http://58.41.22.161:8880/udp/239.45.1.71:5140
 #EXTINF:-1 group-title="央视",CCTV8
-http://116.237.138.54:10000/udp/239.45.1.71:5140
+http://183.53.109.67:9090/rtp/239.77.0.172:5146
 #EXTINF:-1 group-title="央视",CCTV8
-http://116.22.146.21:54321/rtp/239.77.0.172:5146
+http://183.7.17.30:8888/rtp/239.77.0.172:5146
+#EXTINF:-1 group-title="央视",CCTV8
+http://116.233.63.217:5555/udp/239.45.1.71:5140
+#EXTINF:-1 group-title="央视",CCTV8
+http://58.62.235.86:10000/rtp/239.77.0.172:5146
 #EXTINF:-1 group-title="央视",CCTV8
 http://218.1.171.151:4022/udp/239.45.1.71:5140
-#EXTINF:-1 group-title="央视",CCTV8
-http://114.95.208.43:3333/udp/239.45.1.71:5140
-#EXTINF:-1 group-title="央视",CCTV9
-http://116.22.146.21:54321/rtp/239.77.0.135:5146
-#EXTINF:-1 group-title="央视",CCTV9
-http://116.233.63.217:5555/udp/239.45.3.4:5140
-#EXTINF:-1 group-title="央视",CCTV9
-http://58.41.22.161:8880/udp/239.45.3.4:5140
-#EXTINF:-1 group-title="央视",CCTV9
-http://58.62.235.86:10000/rtp/239.77.0.135:5146
 #EXTINF:-1 group-title="央视",CCTV9
 http://183.53.109.67:9090/rtp/239.77.0.135:5146
 #EXTINF:-1 group-title="央视",CCTV9
-http://114.95.208.43:3333/udp/239.45.3.4:5140
-#EXTINF:-1 group-title="央视",CCTV9
-http://116.237.138.54:10000/udp/239.45.3.4:5140
+http://116.233.63.217:5555/udp/239.45.3.4:5140
 #EXTINF:-1 group-title="央视",CCTV9
 http://183.7.17.30:8888/rtp/239.77.0.135:5146
+#EXTINF:-1 group-title="央视",CCTV9
+http://58.62.235.86:10000/rtp/239.77.0.135:5146
+#EXTINF:-1 group-title="央视",CCTV9
+http://116.233.63.217:5555/udp/239.45.3.4:5140
+#EXTINF:-1 group-title="央视",CCTV9
+http://114.95.208.43:3333/udp/239.45.3.4:5140
 #EXTINF:-1 group-title="央视",CCTV9
 http://222.68.2.238:4002/udp/239.45.3.4:5140
 #EXTINF:-1 group-title="央视",CCTV9
 http://14.145.141.239:10000/rtp/239.20.0.199:2196
-#EXTINF:-1 group-title="央视",CCTV10
-http://116.233.63.217:5555/udp/239.45.3.8:5140
-#EXTINF:-1 group-title="央视",CCTV10
-http://114.95.208.43:3333/udp/239.45.3.8:5140
-#EXTINF:-1 group-title="央视",CCTV10
-http://116.237.138.54:10000/udp/239.45.3.8:5140
+#EXTINF:-1 group-title="央视",CCTV9
+http://58.41.22.161:8880/udp/239.45.3.4:5140
 #EXTINF:-1 group-title="央视",CCTV10
 http://58.41.22.161:8880/udp/239.45.3.8:5140
 #EXTINF:-1 group-title="央视",CCTV10
+http://116.233.63.217:5555/udp/239.45.3.8:5140
+#EXTINF:-1 group-title="央视",CCTV10
+http://116.237.138.54:10000/udp/239.45.3.8:5140
+#EXTINF:-1 group-title="央视",CCTV10
 http://116.235.252.109:8888/udp/239.45.3.8:5140
-#EXTINF:-1 group-title="央视",CCTV10
-http://14.145.141.239:10000/rtp/239.20.0.200:2198
-#EXTINF:-1 group-title="央视",CCTV10
-http://116.233.38.0:8888/udp/239.45.3.8:5140
 #EXTINF:-1 group-title="央视",CCTV10
 http://222.68.2.238:4002/udp/239.45.3.8:5140
 #EXTINF:-1 group-title="央视",CCTV10
 http://116.22.146.21:54321/rtp/239.77.0.134:5146
 #EXTINF:-1 group-title="央视",CCTV10
+http://14.145.141.239:10000/rtp/239.20.0.200:2198
+#EXTINF:-1 group-title="央视",CCTV10
+http://114.95.208.43:3333/udp/239.45.3.8:5140
+#EXTINF:-1 group-title="央视",CCTV10
 http://58.62.235.86:10000/rtp/239.77.0.134:5146
-#EXTINF:-1 group-title="央视",CCTV11
-http://222.68.2.238:4002/udp/239.45.0.18:5140
 #EXTINF:-1 group-title="央视",CCTV11
 http://116.237.138.54:10000/udp/239.45.0.18:5140
 #EXTINF:-1 group-title="央视",CCTV11
-http://218.1.171.151:4022/udp/239.45.0.18:5140
-#EXTINF:-1 group-title="央视",CCTV11
 http://116.237.148.215:8881/udp/239.45.0.18:5140
 #EXTINF:-1 group-title="央视",CCTV11
-http://14.145.141.239:10000/rtp/239.21.0.35:3480
-#EXTINF:-1 group-title="央视",CCTV11
-http://116.233.63.217:5555/udp/239.45.0.18:5140
-#EXTINF:-1 group-title="央视",CCTV11
-http://183.7.17.30:8888/rtp/239.77.1.238:5146
-#EXTINF:-1 group-title="央视",CCTV11
-http://183.7.17.30:8888/rtp/239.77.1.238:5146
+http://58.62.235.86:10000/rtp/239.77.1.238:5146
 #EXTINF:-1 group-title="央视",CCTV11
 http://114.95.208.43:3333/udp/239.45.0.18:5140
 #EXTINF:-1 group-title="央视",CCTV11
-http://58.62.235.86:10000/rtp/239.77.1.238:5146
-#EXTINF:-1 group-title="央视",CCTV12
-http://222.68.2.238:4002/udp/239.45.3.10:5140
+http://116.237.148.215:8881/udp/239.45.0.18:5140
+#EXTINF:-1 group-title="央视",CCTV11
+http://222.68.2.238:4002/udp/239.45.0.18:5140
+#EXTINF:-1 group-title="央视",CCTV11
+http://58.41.22.161:8880/udp/239.45.0.18:5140
+#EXTINF:-1 group-title="央视",CCTV11
+http://218.1.171.151:4022/udp/239.45.0.18:5140
+#EXTINF:-1 group-title="央视",CCTV11
+http://14.145.141.239:10000/rtp/239.21.0.35:3480
+#EXTINF:-1 group-title="央视",CCTV11
+http://183.7.17.30:8888/rtp/239.77.1.238:5146
 #EXTINF:-1 group-title="央视",CCTV12
 http://218.1.171.151:4022/udp/239.45.3.10:5140
 #EXTINF:-1 group-title="央视",CCTV12
-http://116.237.138.54:10000/udp/239.45.3.10:5140
-#EXTINF:-1 group-title="央视",CCTV12
-http://113.65.5.151:85/rtp/239.77.0.136:5146
-#EXTINF:-1 group-title="央视",CCTV12
-http://116.233.63.217:5555/udp/239.45.3.10:5140
-#EXTINF:-1 group-title="央视",CCTV12
-http://58.62.235.86:10000/rtp/239.77.0.136:5146
-#EXTINF:-1 group-title="央视",CCTV12
 http://114.95.208.43:3333/udp/239.45.3.10:5140
 #EXTINF:-1 group-title="央视",CCTV12
-http://218.79.218.40:8899/udp/239.45.3.10:5140
+http://222.68.2.238:4002/udp/239.45.3.10:5140
+#EXTINF:-1 group-title="央视",CCTV12
+http://116.22.146.21:54321/rtp/239.77.0.136:5146
 #EXTINF:-1 group-title="央视",CCTV12
 http://116.237.148.215:8881/udp/239.45.3.10:5140
 #EXTINF:-1 group-title="央视",CCTV12
-http://116.22.146.21:54321/rtp/239.77.0.136:5146
-#EXTINF:-1 group-title="央视",CCTV13
-http://218.1.171.151:4022/udp/239.45.0.19:5140
-#EXTINF:-1 group-title="央视",CCTV13
-http://116.237.148.215:8881/udp/239.45.0.19:5140
-#EXTINF:-1 group-title="央视",CCTV13
-http://58.41.22.161:8880/udp/239.45.0.19:5140
-#EXTINF:-1 group-title="央视",CCTV13
-http://14.145.141.239:10000/rtp/239.21.0.88:3692
-#EXTINF:-1 group-title="央视",CCTV13
-http://222.68.2.238:4002/udp/239.45.0.19:5140
-#EXTINF:-1 group-title="央视",CCTV13
-http://116.237.138.54:10000/udp/239.45.0.19:5140
+http://58.41.22.161:8880/udp/239.45.3.10:5140
+#EXTINF:-1 group-title="央视",CCTV12
+http://116.237.138.54:10000/udp/239.45.3.10:5140
+#EXTINF:-1 group-title="央视",CCTV12
+http://218.79.218.40:8899/udp/239.45.3.10:5140
 #EXTINF:-1 group-title="央视",CCTV13
 http://119.131.25.78:9003/rtp/239.253.43.196:5146
 #EXTINF:-1 group-title="央视",CCTV13
 http://114.95.208.43:3333/udp/239.45.0.19:5140
 #EXTINF:-1 group-title="央视",CCTV13
+http://116.237.138.54:10000/udp/239.45.0.19:5140
+#EXTINF:-1 group-title="央视",CCTV13
 http://58.62.235.86:10000/rtp/239.253.43.196:5146
+#EXTINF:-1 group-title="央视",CCTV13
+http://14.145.141.239:10000/rtp/239.21.0.88:3692
+#EXTINF:-1 group-title="央视",CCTV13
+http://58.41.22.161:8880/udp/239.45.0.19:5140
+#EXTINF:-1 group-title="央视",CCTV13
+http://116.237.148.215:8881/udp/239.45.0.19:5140
+#EXTINF:-1 group-title="央视",CCTV13
+http://218.1.171.151:4022/udp/239.45.0.19:5140
+#EXTINF:-1 group-title="央视",CCTV13
+http://222.68.2.238:4002/udp/239.45.0.19:5140
 #EXTINF:-1 group-title="央视",CCTV13
 http://116.233.38.0:8888/udp/239.45.0.19:5140
 #EXTINF:-1 group-title="央视",CCTV14
-http://116.233.38.0:8888/udp/239.45.3.23:5140
+http://218.1.171.151:4022/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="央视",CCTV14
 http://222.68.2.238:4002/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="央视",CCTV14
-http://114.95.208.43:3333/udp/239.45.3.23:5140
+http://116.233.63.217:5555/udp/239.45.3.23:5140
+#EXTINF:-1 group-title="央视",CCTV14
+http://116.22.146.21:54321/rtp/239.77.0.133:5146
 #EXTINF:-1 group-title="央视",CCTV14
 http://183.7.17.30:8888/rtp/239.77.0.133:5146
 #EXTINF:-1 group-title="央视",CCTV14
-http://116.237.138.54:10000/udp/239.45.3.23:5140
+http://116.233.38.0:8888/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="央视",CCTV14
-http://116.233.63.217:5555/udp/239.45.3.23:5140
+http://116.237.138.54:10000/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="央视",CCTV14
 http://58.41.22.161:8880/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="央视",CCTV14
-http://218.1.171.151:4022/udp/239.45.3.23:5140
-#EXTINF:-1 group-title="央视",CCTV14
-http://116.235.252.109:8888/udp/239.45.3.23:5140
-#EXTINF:-1 group-title="央视",CCTV14
 http://58.62.235.86:10000/rtp/239.77.0.133:5146
-#EXTINF:-1 group-title="央视",CCTV15
-http://183.7.17.30:8888/rtp/239.77.1.239:5146
+#EXTINF:-1 group-title="央视",CCTV14
+http://14.145.141.239:10000/rtp/239.20.0.202:2202
 #EXTINF:-1 group-title="央视",CCTV15
 http://116.233.63.217:5555/udp/239.45.0.20:5140
 #EXTINF:-1 group-title="央视",CCTV15
-http://222.68.2.238:4002/udp/239.45.0.20:5140
-#EXTINF:-1 group-title="央视",CCTV15
-http://116.235.252.109:8888/udp/239.45.0.20:5140
+http://218.1.171.151:4022/udp/239.45.0.20:5140
 #EXTINF:-1 group-title="央视",CCTV15
 http://116.22.146.21:54321/rtp/239.77.1.239:5146
 #EXTINF:-1 group-title="央视",CCTV15
-http://14.145.141.239:10000/rtp/239.21.0.36:3484
+http://116.235.252.109:8888/udp/239.45.0.20:5140
 #EXTINF:-1 group-title="央视",CCTV15
-http://58.41.22.161:8880/udp/239.45.0.20:5140
+http://116.237.148.215:8881/udp/239.45.0.20:5140
 #EXTINF:-1 group-title="央视",CCTV15
 http://116.235.252.109:8888/udp/239.45.0.20:5140
 #EXTINF:-1 group-title="央视",CCTV15
-http://116.233.38.0:8888/udp/239.45.0.20:5140
+http://222.68.2.238:4002/udp/239.45.0.20:5140
+#EXTINF:-1 group-title="央视",CCTV15
+http://58.41.22.161:8880/udp/239.45.0.20:5140
 #EXTINF:-1 group-title="央视",CCTV15
 http://116.233.38.0:8888/udp/239.45.0.20:5140
+#EXTINF:-1 group-title="央视",CCTV15
+http://114.95.208.43:3333/udp/239.45.0.20:5140
+#EXTINF:-1 group-title="央视",CCTV16
+http://183.7.17.30:8888/rtp/239.77.1.76:5146
 #EXTINF:-1 group-title="央视",CCTV16
 http://116.237.138.54:10000/udp/239.45.0.10:5140
 #EXTINF:-1 group-title="央视",CCTV16
-http://116.22.146.21:54321/rtp/239.77.1.76:5146
+http://116.233.38.0:8888/udp/239.45.0.10:5140
 #EXTINF:-1 group-title="央视",CCTV16
 http://116.233.38.0:8888/udp/239.45.0.10:5140
 #EXTINF:-1 group-title="央视",CCTV16
-http://183.7.17.30:8888/rtp/239.77.1.76:5146
+http://116.233.63.217:5555/udp/239.45.0.10:5140
 #EXTINF:-1 group-title="央视",CCTV16
 http://218.1.171.151:4022/udp/239.45.0.10:5140
 #EXTINF:-1 group-title="央视",CCTV16
-http://58.62.235.86:10000/rtp/239.77.1.76:5146
-#EXTINF:-1 group-title="央视",CCTV16
 http://119.131.25.78:9003/rtp/239.77.1.76:5146
 #EXTINF:-1 group-title="央视",CCTV16
-http://183.7.17.30:8888/rtp/239.77.1.76:5146
+http://116.235.252.109:8888/udp/239.45.0.10:5140
 #EXTINF:-1 group-title="央视",CCTV16
-http://116.233.38.0:8888/udp/239.45.0.10:5140
+http://58.62.235.86:10000/rtp/239.77.1.76:5146
 #EXTINF:-1 group-title="央视",CCTV16
-http://116.237.148.215:8881/udp/239.45.0.10:5140
+http://58.41.22.161:8880/udp/239.45.0.10:5140
 #EXTINF:-1 group-title="央视",CCTV17
 http://58.41.22.161:8880/udp/239.45.3.52:5140
 #EXTINF:-1 group-title="央视",CCTV17
-http://116.233.63.217:5555/udp/239.45.3.52:5140
-#EXTINF:-1 group-title="央视",CCTV17
-http://116.235.252.109:8888/udp/239.45.3.52:5140
+http://58.62.235.86:10000/rtp/239.77.0.198:5146
 #EXTINF:-1 group-title="央视",CCTV17
 http://116.237.148.215:8881/udp/239.45.3.52:5140
 #EXTINF:-1 group-title="央视",CCTV17
-http://114.95.208.43:3333/udp/239.45.3.52:5140
+http://116.233.63.217:5555/udp/239.45.3.52:5140
+#EXTINF:-1 group-title="央视",CCTV17
+http://116.237.148.215:8881/udp/239.45.3.52:5140
 #EXTINF:-1 group-title="央视",CCTV17
 http://116.22.146.21:54321/rtp/239.77.0.198:5146
 #EXTINF:-1 group-title="央视",CCTV17
-http://116.237.148.215:8881/udp/239.45.3.52:5140
-#EXTINF:-1 group-title="央视",CCTV17
-http://14.145.141.239:10000/rtp/239.20.0.7:3376
-#EXTINF:-1 group-title="央视",CCTV17
-http://116.237.138.54:10000/udp/239.45.3.52:5140
-#EXTINF:-1 group-title="央视",CCTV17
 http://222.68.2.238:4002/udp/239.45.3.52:5140
+#EXTINF:-1 group-title="央视",CCTV17
+http://114.95.208.43:3333/udp/239.45.3.52:5140
+#EXTINF:-1 group-title="央视",CCTV17
+http://116.235.252.109:8888/udp/239.45.3.52:5140
+#EXTINF:-1 group-title="央视",CCTV世界地理
+http://119.131.25.78:9003/rtp/239.253.43.7:5146
 #EXTINF:-1 group-title="央视",CCTV世界地理
 http://183.7.17.30:8888/rtp/239.253.43.7:5146
-#EXTINF:-1 group-title="央视",CCTV世界地理
-http://14.145.141.239:10000/rtp/239.21.0.74:3636
 #EXTINF:-1 group-title="央视",CCTV世界地理
 http://116.22.146.21:54321/rtp/239.253.43.7:5146
 #EXTINF:-1 group-title="央视",CCTV世界地理
 http://58.62.235.86:10000/rtp/239.253.43.7:5146
 #EXTINF:-1 group-title="央视",CCTV世界地理
-http://119.131.25.78:9003/rtp/239.253.43.7:5146
-#EXTINF:-1 group-title="央视",CCTV兵器科技
-http://58.62.235.86:10000/rtp/239.253.43.9:5146
+http://14.145.141.239:10000/rtp/239.21.0.74:3636
 #EXTINF:-1 group-title="央视",CCTV兵器科技
 http://116.22.146.21:54321/rtp/239.253.43.9:5146
+#EXTINF:-1 group-title="央视",CCTV兵器科技
+http://58.62.235.86:10000/rtp/239.253.43.9:5146
 #EXTINF:-1 group-title="央视",CCTV央视台球
 http://58.62.235.86:10000/rtp/239.253.43.11:5146
 #EXTINF:-1 group-title="央视",CCTV央视台球
-http://14.145.141.239:10000/rtp/239.21.0.71:3624
-#EXTINF:-1 group-title="央视",CCTV央视台球
-http://183.7.17.30:8888/rtp/239.253.43.11:5146
-#EXTINF:-1 group-title="央视",CCTV央视台球
 http://119.131.25.78:9003/rtp/239.253.43.11:5146
 #EXTINF:-1 group-title="央视",CCTV央视台球
-http://183.7.17.30:8888/rtp/239.253.43.11:5146
+http://14.145.141.239:10000/rtp/239.21.0.71:3624
 #EXTINF:-1 group-title="央视",CCTV央视台球
 http://116.22.146.21:54321/rtp/239.253.43.11:5146
+#EXTINF:-1 group-title="央视",CCTV央视台球
+http://183.7.17.30:8888/rtp/239.253.43.11:5146
 #EXTINF:-1 group-title="央视",CCTV央视精品
 http://14.145.141.239:10000/rtp/239.21.0.77:3648
-#EXTINF:-1 group-title="央视",CCTV女性时尚
-http://119.131.25.78:9003/rtp/239.253.43.8:5146
-#EXTINF:-1 group-title="央视",CCTV女性时尚
-http://116.22.146.21:54321/rtp/239.253.43.8:5146
 #EXTINF:-1 group-title="央视",CCTV女性时尚
 http://183.7.17.30:8888/rtp/239.253.43.8:5146
 #EXTINF:-1 group-title="央视",CCTV女性时尚
 http://14.145.141.239:10000/rtp/239.21.0.73:3632
+#EXTINF:-1 group-title="央视",CCTV女性时尚
+http://116.22.146.21:54321/rtp/239.253.43.8:5146
 #EXTINF:-1 group-title="央视",CCTV女性时尚
 http://58.62.235.86:10000/rtp/239.253.43.8:5146
 #EXTINF:-1 group-title="央视",CCTV怀旧剧场
@@ -418,515 +390,475 @@ http://183.7.17.30:8888/rtp/239.253.43.5:5146
 #EXTINF:-1 group-title="央视",CCTV怀旧剧场
 http://183.7.17.30:8888/rtp/239.253.43.5:5146
 #EXTINF:-1 group-title="央视",CCTV怀旧剧场
-http://58.62.235.86:10000/rtp/239.253.43.5:5146
-#EXTINF:-1 group-title="央视",CCTV怀旧剧场
 http://14.145.141.239:10000/rtp/239.21.0.75:3640
 #EXTINF:-1 group-title="央视",CCTV文化精品
 http://58.62.235.86:10000/rtp/239.253.43.27:5146
 #EXTINF:-1 group-title="央视",CCTV第一剧场
 http://14.145.141.239:10000/rtp/239.21.0.78:3652
 #EXTINF:-1 group-title="央视",CCTV风云剧场
-http://116.22.146.21:54321/rtp/239.253.43.16:5146
+http://183.7.17.30:8888/rtp/239.253.43.16:5146
 #EXTINF:-1 group-title="央视",CCTV风云剧场
 http://14.145.141.239:10000/rtp/239.21.0.76:3644
 #EXTINF:-1 group-title="央视",CCTV风云剧场
-http://183.7.17.30:8888/rtp/239.253.43.16:5146
-#EXTINF:-1 group-title="央视",CCTV风云剧场
-http://58.62.235.86:10000/rtp/239.253.43.16:5146
+http://116.22.146.21:54321/rtp/239.253.43.16:5146
 #EXTINF:-1 group-title="央视",CCTV风云足球
 http://183.7.17.30:8888/rtp/239.253.43.14:5146
 #EXTINF:-1 group-title="央视",CCTV风云足球
-http://58.62.235.86:10000/rtp/239.253.43.14:5146
-#EXTINF:-1 group-title="央视",CCTV风云足球
 http://14.145.141.239:10000/rtp/239.21.0.70:3620
-#EXTINF:-1 group-title="央视",CCTV风云音乐
-http://58.62.235.86:10000/rtp/239.253.43.6:5146
-#EXTINF:-1 group-title="央视",CCTV风云音乐
-http://116.22.146.21:54321/rtp/239.253.43.6:5146
+#EXTINF:-1 group-title="央视",CCTV风云足球
+http://58.62.235.86:10000/rtp/239.253.43.14:5146
 #EXTINF:-1 group-title="央视",CCTV风云音乐
 http://14.145.141.239:10000/rtp/239.21.0.79:3656
 #EXTINF:-1 group-title="央视",CCTV风云音乐
 http://183.7.17.30:8888/rtp/239.253.43.6:5146
+#EXTINF:-1 group-title="央视",CCTV风云音乐
+http://58.62.235.86:10000/rtp/239.253.43.6:5146
+#EXTINF:-1 group-title="央视",CCTV风云音乐
+http://116.22.146.21:54321/rtp/239.253.43.6:5146
 #EXTINF:-1 group-title="央视",CCTV高尔夫网球
-http://14.145.141.239:10000/rtp/239.21.0.72:3628
-#EXTINF:-1 group-title="央视",CCTV高尔夫网球
-http://58.62.235.86:10000/rtp/239.253.43.22:5146
+http://116.22.146.21:54321/rtp/239.253.43.22:5146
 #EXTINF:-1 group-title="央视",CCTV高尔夫网球
 http://183.7.17.30:8888/rtp/239.253.43.22:5146
 #EXTINF:-1 group-title="央视",CCTV高尔夫网球
-http://116.22.146.21:54321/rtp/239.253.43.22:5146
+http://58.62.235.86:10000/rtp/239.253.43.22:5146
 #EXTINF:-1 group-title="卫视",三沙卫视
 http://58.62.235.86:10000/rtp/239.253.43.113:5146
 #EXTINF:-1 group-title="卫视",三沙卫视
 http://116.22.146.21:54321/rtp/239.253.43.113:5146
-#EXTINF:-1 group-title="卫视",三沙卫视
-http://183.7.17.30:8888/rtp/239.253.43.113:5146
 #EXTINF:-1 group-title="卫视",东南卫视
-http://116.237.138.54:10000/udp/239.45.1.121:5140
-#EXTINF:-1 group-title="卫视",东南卫视
-http://218.1.171.151:4022/udp/239.45.1.121:5140
-#EXTINF:-1 group-title="卫视",东南卫视
-http://116.233.63.217:5555/udp/239.45.1.121:5140
-#EXTINF:-1 group-title="卫视",东南卫视
-http://58.62.235.86:10000/rtp/239.77.1.104:5146
-#EXTINF:-1 group-title="卫视",东南卫视
-http://14.145.141.239:10000/rtp/239.20.0.58:3168
+http://116.233.38.0:8888/udp/239.45.1.121:5140
 #EXTINF:-1 group-title="卫视",东南卫视
 http://183.7.17.30:8888/rtp/239.77.1.104:5146
 #EXTINF:-1 group-title="卫视",东南卫视
-http://116.22.146.21:54321/rtp/239.77.1.104:5146
+http://116.233.63.217:5555/udp/239.45.1.121:5140
 #EXTINF:-1 group-title="卫视",东南卫视
 http://58.41.22.161:8880/udp/239.45.1.121:5140
 #EXTINF:-1 group-title="卫视",东南卫视
 http://183.7.17.30:8888/rtp/239.77.1.104:5146
 #EXTINF:-1 group-title="卫视",东南卫视
+http://116.22.146.21:54321/rtp/239.77.1.104:5146
+#EXTINF:-1 group-title="卫视",东南卫视
+http://58.62.235.86:10000/rtp/239.77.1.104:5146
+#EXTINF:-1 group-title="卫视",东南卫视
 http://116.235.252.109:8888/udp/239.45.1.121:5140
+#EXTINF:-1 group-title="卫视",东南卫视
+http://218.1.171.151:4022/udp/239.45.1.121:5140
+#EXTINF:-1 group-title="卫视",东南卫视
+http://14.145.141.239:10000/rtp/239.20.0.58:3168
 #EXTINF:-1 group-title="卫视",东方卫视
-http://116.235.252.109:8888/udp/239.45.3.61:5140
+http://116.233.38.0:8888/udp/239.45.3.61:5140
 #EXTINF:-1 group-title="卫视",东方卫视
-http://114.95.208.43:3333/udp/239.45.3.61:5140
+http://116.233.63.217:5555/udp/239.45.3.146:5140
 #EXTINF:-1 group-title="卫视",东方卫视
-http://223.167.202.60:9876/rtp/225.0.0.2:6140
+http://223.167.203.127:9876/rtp/225.0.0.2:6140
 #EXTINF:-1 group-title="卫视",东方卫视
-http://218.1.171.151:4022/udp/239.45.3.61:5140
+http://116.233.63.217:5555/udp/239.45.3.61:5140
+#EXTINF:-1 group-title="卫视",东方卫视
+http://183.7.17.30:8888/rtp/239.77.0.98:5146
+#EXTINF:-1 group-title="卫视",东方卫视
+http://116.237.138.54:10000/udp/239.45.3.146:5140
 #EXTINF:-1 group-title="卫视",东方卫视
 http://58.41.22.161:8880/udp/239.45.3.146:5140
 #EXTINF:-1 group-title="卫视",东方卫视
-http://14.145.141.239:10000/rtp/239.20.0.173:2144
+http://223.167.202.60:9876/rtp/225.0.0.2:6140
 #EXTINF:-1 group-title="卫视",东方卫视
-http://116.227.32.187:11000/rtp/225.0.0.2:6140
+http://223.167.202.60:9876/rtp/225.0.0.2:6140
 #EXTINF:-1 group-title="卫视",东方卫视
-http://116.22.146.21:54321/rtp/239.77.0.98:5146
-#EXTINF:-1 group-title="卫视",东方卫视
-http://58.62.235.86:10000/rtp/239.77.0.98:5146
-#EXTINF:-1 group-title="卫视",东方卫视
-http://116.233.38.0:8888/udp/239.45.3.61:5140
-#EXTINF:-1 group-title="卫视",云南卫视
-http://114.95.208.43:3333/udp/239.45.0.4:5140
-#EXTINF:-1 group-title="卫视",云南卫视
-http://58.41.22.161:8880/udp/239.45.0.4:5140
+http://223.167.203.127:9876/rtp/225.0.0.2:6140
 #EXTINF:-1 group-title="卫视",云南卫视
 http://116.22.146.21:54321/rtp/239.253.43.37:5146
 #EXTINF:-1 group-title="卫视",云南卫视
-http://116.237.148.215:8881/udp/239.45.0.4:5140
-#EXTINF:-1 group-title="卫视",云南卫视
-http://58.62.235.86:10000/rtp/239.253.43.37:5146
-#EXTINF:-1 group-title="卫视",云南卫视
-http://116.237.138.54:10000/udp/239.45.0.4:5140
-#EXTINF:-1 group-title="卫视",云南卫视
-http://116.233.63.217:5555/udp/239.45.0.4:5140
+http://114.95.208.43:3333/udp/239.45.0.4:5140
 #EXTINF:-1 group-title="卫视",云南卫视
 http://119.131.25.78:9003/rtp/239.253.43.37:5146
 #EXTINF:-1 group-title="卫视",云南卫视
-http://218.1.171.151:4022/udp/239.45.0.4:5140
+http://116.233.63.217:5555/udp/239.45.0.4:5140
+#EXTINF:-1 group-title="卫视",云南卫视
+http://116.237.138.54:10000/udp/239.45.0.4:5140
+#EXTINF:-1 group-title="卫视",云南卫视
+http://58.41.22.161:8880/udp/239.45.0.4:5140
 #EXTINF:-1 group-title="卫视",云南卫视
 http://222.68.2.238:4002/udp/239.45.0.4:5140
-#EXTINF:-1 group-title="卫视",北京卫视
-http://116.22.146.21:54321/rtp/239.77.0.91:5146
-#EXTINF:-1 group-title="卫视",北京卫视
-http://58.35.112.73:6666/udp/239.45.3.229:5140
-#EXTINF:-1 group-title="卫视",北京卫视
-http://116.237.148.215:8881/udp/239.45.3.229:5140
-#EXTINF:-1 group-title="卫视",北京卫视
-http://14.145.141.239:10000/rtp/239.20.0.121:2040
+#EXTINF:-1 group-title="卫视",云南卫视
+http://183.7.17.30:8888/rtp/239.253.43.37:5146
+#EXTINF:-1 group-title="卫视",云南卫视
+http://58.62.235.86:10000/rtp/239.253.43.37:5146
+#EXTINF:-1 group-title="卫视",云南卫视
+http://116.237.148.215:8881/udp/239.45.0.4:5140
 #EXTINF:-1 group-title="卫视",北京卫视
 http://116.237.148.215:8881/udp/239.45.3.229:5140
+#EXTINF:-1 group-title="卫视",北京卫视
+http://58.62.235.86:10000/rtp/239.77.0.91:5146
+#EXTINF:-1 group-title="卫视",北京卫视
+http://116.233.38.0:8888/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="卫视",北京卫视
 http://183.7.17.30:8888/rtp/239.77.0.91:5146
 #EXTINF:-1 group-title="卫视",北京卫视
+http://218.1.171.151:4022/udp/239.45.3.229:5140
+#EXTINF:-1 group-title="卫视",北京卫视
+http://14.145.141.239:10000/rtp/239.20.0.121:2040
+#EXTINF:-1 group-title="卫视",北京卫视
 http://116.233.24.27:4022/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="卫视",北京卫视
-http://116.233.38.0:8888/udp/239.45.3.229:5140
+http://114.95.208.43:3333/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="卫视",北京卫视
-http://116.233.38.0:8888/udp/239.45.3.229:5140
+http://58.35.112.73:6666/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="卫视",北京卫视
-http://58.62.235.86:10000/rtp/239.77.0.91:5146
+http://116.237.138.54:10000/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="卫视",南方卫视
 http://14.145.141.239:10000/rtp/239.21.0.84:3676
 #EXTINF:-1 group-title="卫视",吉林卫视
-http://116.22.146.21:54321/rtp/239.77.1.111:5146
-#EXTINF:-1 group-title="卫视",吉林卫视
-http://116.235.252.109:8888/udp/239.45.0.6:5140
-#EXTINF:-1 group-title="卫视",吉林卫视
-http://114.95.208.43:3333/udp/239.45.0.6:5140
-#EXTINF:-1 group-title="卫视",吉林卫视
 http://116.233.38.0:8888/udp/239.45.0.6:5140
 #EXTINF:-1 group-title="卫视",吉林卫视
-http://116.233.63.217:5555/udp/239.45.0.6:5140
+http://58.41.22.161:8880/udp/239.45.0.6:5140
 #EXTINF:-1 group-title="卫视",吉林卫视
 http://116.235.252.109:8888/udp/239.45.0.6:5140
 #EXTINF:-1 group-title="卫视",吉林卫视
-http://222.68.2.238:4002/udp/239.45.0.6:5140
-#EXTINF:-1 group-title="卫视",吉林卫视
-http://58.62.235.86:10000/rtp/239.77.1.111:5146
+http://116.22.146.21:54321/rtp/239.77.1.111:5146
 #EXTINF:-1 group-title="卫视",吉林卫视
 http://116.237.148.215:8881/udp/239.45.0.6:5140
 #EXTINF:-1 group-title="卫视",吉林卫视
-http://58.41.22.161:8880/udp/239.45.0.6:5140
-#EXTINF:-1 group-title="卫视",四川卫视
-http://116.237.148.215:8881/udp/239.45.1.83:5140
-#EXTINF:-1 group-title="卫视",四川卫视
-http://14.145.141.239:10000/rtp/239.20.0.194:2186
-#EXTINF:-1 group-title="卫视",四川卫视
-http://116.22.146.21:54321/rtp/239.77.1.215:5146
-#EXTINF:-1 group-title="卫视",四川卫视
-http://114.95.208.43:3333/udp/239.45.1.83:5140
-#EXTINF:-1 group-title="卫视",四川卫视
-http://116.233.38.0:8888/udp/239.45.1.83:5140
-#EXTINF:-1 group-title="卫视",四川卫视
-http://58.62.235.86:10000/rtp/239.77.1.215:5146
+http://114.95.208.43:3333/udp/239.45.0.6:5140
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://116.237.138.54:10000/udp/239.45.0.6:5140
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://116.235.252.109:8888/udp/239.45.0.6:5140
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://58.62.235.86:10000/rtp/239.77.1.111:5146
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://222.68.2.238:4002/udp/239.45.0.6:5140
 #EXTINF:-1 group-title="卫视",四川卫视
 http://116.235.252.109:8888/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="卫视",四川卫视
-http://58.41.22.161:8880/udp/239.45.1.83:5140
+http://14.145.141.239:10000/rtp/239.20.0.194:2186
+#EXTINF:-1 group-title="卫视",四川卫视
+http://116.233.38.0:8888/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="卫视",四川卫视
 http://116.233.63.217:5555/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="卫视",四川卫视
+http://116.237.148.215:8881/udp/239.45.1.83:5140
+#EXTINF:-1 group-title="卫视",四川卫视
 http://116.233.38.0:8888/udp/239.45.1.83:5140
+#EXTINF:-1 group-title="卫视",四川卫视
+http://116.22.146.21:54321/rtp/239.77.1.215:5146
+#EXTINF:-1 group-title="卫视",四川卫视
+http://58.41.22.161:8880/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="卫视",大湾区卫视
 http://58.62.235.86:10000/rtp/239.77.0.215:5146
 #EXTINF:-1 group-title="卫视",天津卫视
-http://116.22.146.21:54321/rtp/239.77.0.97:5146
-#EXTINF:-1 group-title="卫视",天津卫视
-http://222.68.2.238:4002/udp/239.45.1.124:5140
-#EXTINF:-1 group-title="卫视",天津卫视
-http://116.233.63.217:5555/udp/239.45.1.124:5140
-#EXTINF:-1 group-title="卫视",天津卫视
-http://218.1.171.151:4022/udp/239.45.1.124:5140
-#EXTINF:-1 group-title="卫视",天津卫视
-http://58.41.22.161:8880/udp/239.45.1.124:5140
-#EXTINF:-1 group-title="卫视",天津卫视
 http://14.145.141.239:10000/rtp/239.20.0.171:2140
-#EXTINF:-1 group-title="卫视",天津卫视
-http://116.237.138.54:10000/udp/239.45.1.124:5140
 #EXTINF:-1 group-title="卫视",天津卫视
 http://116.237.148.215:8881/udp/239.45.1.124:5140
 #EXTINF:-1 group-title="卫视",天津卫视
+http://58.41.22.161:8880/udp/239.45.1.124:5140
+#EXTINF:-1 group-title="卫视",天津卫视
+http://218.1.171.151:4022/udp/239.45.1.124:5140
+#EXTINF:-1 group-title="卫视",天津卫视
+http://116.22.146.21:54321/rtp/239.77.0.97:5146
+#EXTINF:-1 group-title="卫视",天津卫视
+http://114.95.208.43:3333/udp/239.45.1.124:5140
+#EXTINF:-1 group-title="卫视",天津卫视
 http://183.7.17.30:8888/rtp/239.77.0.97:5146
+#EXTINF:-1 group-title="卫视",天津卫视
+http://58.62.235.86:10000/rtp/239.77.0.97:5146
+#EXTINF:-1 group-title="卫视",天津卫视
+http://116.233.63.217:5555/udp/239.45.1.124:5140
 #EXTINF:-1 group-title="卫视",天津卫视
 http://116.235.252.109:8888/udp/239.45.1.124:5140
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://116.233.63.217:5555/udp/239.45.1.120:5140
+http://58.62.235.86:10000/rtp/239.77.0.183:5146
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://218.1.171.151:4022/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://58.41.22.161:8880/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://116.226.46.59:4022/udp/239.45.1.120:5140
-#EXTINF:-1 group-title="卫视",安徽卫视
-http://114.95.208.43:3333/udp/239.45.1.120:5140
-#EXTINF:-1 group-title="卫视",安徽卫视
-http://116.237.148.215:8881/udp/239.45.1.120:5140
+http://116.233.38.0:8888/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://116.235.252.109:8888/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://14.145.141.239:10000/rtp/239.20.0.193:2184
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://116.233.38.0:8888/udp/239.45.1.120:5140
+http://116.237.148.215:8881/udp/239.45.1.120:5140
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://116.226.46.59:4022/udp/239.45.1.120:5140
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://114.95.208.43:3333/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://222.68.2.238:4002/udp/239.45.1.120:5140
-#EXTINF:-1 group-title="卫视",安徽卫视
-http://116.22.146.21:54321/rtp/239.77.0.183:5146
 #EXTINF:-1 group-title="卫视",山东卫视
-http://116.237.138.54:10000/udp/239.45.3.238:5140
+http://58.41.22.161:8880/udp/239.45.3.238:5140
 #EXTINF:-1 group-title="卫视",山东卫视
 http://14.145.141.239:10000/rtp/239.20.0.172:2142
-#EXTINF:-1 group-title="卫视",山东卫视
-http://183.7.17.30:8888/rtp/239.77.0.94:5146
 #EXTINF:-1 group-title="卫视",山东卫视
 http://114.95.208.43:3333/udp/239.45.3.238:5140
 #EXTINF:-1 group-title="卫视",山东卫视
 http://183.7.17.30:8888/rtp/239.77.0.94:5146
 #EXTINF:-1 group-title="卫视",山东卫视
-http://116.22.146.21:54321/rtp/239.77.0.94:5146
+http://116.233.63.217:5555/udp/239.45.3.238:5140
 #EXTINF:-1 group-title="卫视",山东卫视
 http://58.62.235.86:10000/rtp/239.77.0.94:5146
 #EXTINF:-1 group-title="卫视",山东卫视
-http://58.41.22.161:8880/udp/239.45.3.238:5140
+http://218.1.171.151:4022/udp/239.45.3.238:5140
 #EXTINF:-1 group-title="卫视",山东卫视
-http://116.233.63.217:5555/udp/239.45.3.238:5140
-#EXTINF:-1 group-title="卫视",山东卫视
-http://222.68.2.238:4002/udp/239.45.3.238:5140
-#EXTINF:-1 group-title="卫视",广东卫视
-http://58.41.22.161:8880/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="卫视",广东卫视
-http://116.233.24.27:4022/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="卫视",广东卫视
-http://116.235.252.109:8888/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="卫视",广东卫视
-http://114.95.208.43:3333/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="卫视",广东卫视
-http://116.237.138.54:10000/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="卫视",广东卫视
-http://222.68.2.238:4002/udp/239.45.3.230:5140
+http://183.7.17.30:8888/rtp/239.77.0.94:5146
 #EXTINF:-1 group-title="卫视",广东卫视
 http://116.237.148.215:8881/udp/239.45.3.230:5140
 #EXTINF:-1 group-title="卫视",广东卫视
 http://14.145.141.239:10000/rtp/239.20.0.101:2000
 #EXTINF:-1 group-title="卫视",广东卫视
-http://58.35.112.73:6666/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="卫视",广东卫视
 http://58.62.235.86:10000/rtp/239.77.0.166:5146
-#EXTINF:-1 group-title="卫视",广西卫视
-http://116.237.148.215:8881/udp/239.45.0.5:5140
-#EXTINF:-1 group-title="卫视",广西卫视
-http://58.62.235.86:10000/rtp/239.253.43.36:5146
-#EXTINF:-1 group-title="卫视",广西卫视
-http://116.233.63.217:5555/udp/239.45.0.5:5140
-#EXTINF:-1 group-title="卫视",广西卫视
-http://58.41.22.161:8880/udp/239.45.0.5:5140
-#EXTINF:-1 group-title="卫视",广西卫视
-http://222.68.2.238:4002/udp/239.45.0.5:5140
-#EXTINF:-1 group-title="卫视",广西卫视
-http://116.22.146.21:54321/rtp/239.253.43.36:5146
-#EXTINF:-1 group-title="卫视",广西卫视
-http://116.233.38.0:8888/udp/239.45.0.5:5140
+#EXTINF:-1 group-title="卫视",广东卫视
+http://222.68.2.238:4002/udp/239.45.3.230:5140
+#EXTINF:-1 group-title="卫视",广东卫视
+http://58.41.22.161:8880/udp/239.45.3.230:5140
+#EXTINF:-1 group-title="卫视",广东卫视
+http://116.235.252.109:8888/udp/239.45.3.230:5140
+#EXTINF:-1 group-title="卫视",广东卫视
+http://114.95.208.43:3333/udp/239.45.3.230:5140
 #EXTINF:-1 group-title="卫视",广西卫视
 http://14.145.141.239:10000/rtp/239.20.0.15:3344
 #EXTINF:-1 group-title="卫视",广西卫视
+http://58.41.22.161:8880/udp/239.45.0.5:5140
+#EXTINF:-1 group-title="卫视",广西卫视
 http://114.95.208.43:3333/udp/239.45.0.5:5140
 #EXTINF:-1 group-title="卫视",广西卫视
+http://222.68.2.238:4002/udp/239.45.0.5:5140
+#EXTINF:-1 group-title="卫视",广西卫视
+http://116.233.38.0:8888/udp/239.45.0.5:5140
+#EXTINF:-1 group-title="卫视",广西卫视
 http://116.235.252.109:8888/udp/239.45.0.5:5140
+#EXTINF:-1 group-title="卫视",广西卫视
+http://58.62.235.86:10000/rtp/239.253.43.36:5146
+#EXTINF:-1 group-title="卫视",广西卫视
+http://116.22.146.21:54321/rtp/239.253.43.36:5146
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://114.95.208.43:3333/udp/239.45.3.177:5140
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://116.237.148.215:8881/udp/239.45.3.177:5140
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://116.233.38.0:8888/udp/239.45.3.177:5140
-#EXTINF:-1 group-title="卫视",江苏卫视
-http://116.233.38.0:8888/udp/239.45.3.177:5140
-#EXTINF:-1 group-title="卫视",江苏卫视
 http://116.22.146.21:54321/rtp/239.77.0.90:5146
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://116.237.138.54:10000/udp/239.45.3.177:5140
-#EXTINF:-1 group-title="卫视",江苏卫视
-http://116.233.63.217:5555/udp/239.45.3.177:5140
-#EXTINF:-1 group-title="卫视",江苏卫视
-http://116.235.252.109:8888/udp/239.45.3.177:5140
-#EXTINF:-1 group-title="卫视",江苏卫视
-http://114.95.208.43:3333/udp/239.45.3.177:5140
+http://58.41.22.161:8880/udp/239.45.3.177:5140
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://116.233.63.217:5555/udp/239.45.3.177:5140
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://222.68.2.238:4002/udp/239.45.3.177:5140
-#EXTINF:-1 group-title="卫视",江西卫视
-http://114.95.208.43:3333/udp/239.45.1.122:5140
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://116.237.148.215:8881/udp/239.45.3.177:5140
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://116.235.252.109:8888/udp/239.45.3.177:5140
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://58.62.235.86:10000/rtp/239.77.0.90:5146
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://116.233.63.217:5555/udp/239.45.3.177:5140
 #EXTINF:-1 group-title="卫视",江西卫视
 http://116.22.146.21:54321/rtp/239.77.1.219:5146
 #EXTINF:-1 group-title="卫视",江西卫视
-http://116.237.148.215:8881/udp/239.45.1.122:5140
-#EXTINF:-1 group-title="卫视",江西卫视
-http://183.7.17.30:8888/rtp/239.77.1.219:5146
-#EXTINF:-1 group-title="卫视",江西卫视
-http://14.145.141.239:10000/rtp/239.20.0.55:3180
-#EXTINF:-1 group-title="卫视",江西卫视
-http://222.68.2.238:4002/udp/239.45.1.122:5140
+http://58.41.22.161:8880/udp/239.45.1.122:5140
 #EXTINF:-1 group-title="卫视",江西卫视
 http://58.62.235.86:10000/rtp/239.77.1.219:5146
 #EXTINF:-1 group-title="卫视",江西卫视
+http://114.95.208.43:3333/udp/239.45.1.122:5140
+#EXTINF:-1 group-title="卫视",江西卫视
+http://218.79.218.40:8899/udp/239.45.1.122:5140
+#EXTINF:-1 group-title="卫视",江西卫视
+http://222.68.2.238:4002/udp/239.45.1.122:5140
+#EXTINF:-1 group-title="卫视",江西卫视
 http://183.7.17.30:8888/rtp/239.77.1.219:5146
 #EXTINF:-1 group-title="卫视",江西卫视
-http://58.41.22.161:8880/udp/239.45.1.122:5140
+http://116.237.138.54:10000/udp/239.45.1.122:5140
 #EXTINF:-1 group-title="卫视",江西卫视
-http://218.1.171.151:4022/udp/239.45.1.122:5140
+http://116.233.63.217:5555/udp/239.45.1.122:5140
+#EXTINF:-1 group-title="卫视",江西卫视
+http://14.145.141.239:10000/rtp/239.20.0.55:3180
 #EXTINF:-1 group-title="卫视",河北卫视
-http://58.41.22.161:8880/udp/239.45.1.44:5140
-#EXTINF:-1 group-title="卫视",河北卫视
-http://116.233.38.0:8888/udp/239.45.1.44:5140
+http://183.7.17.30:8888/rtp/239.77.0.148:5146
 #EXTINF:-1 group-title="卫视",河北卫视
 http://58.62.235.86:10000/rtp/239.77.0.148:5146
 #EXTINF:-1 group-title="卫视",河北卫视
-http://116.235.252.109:8888/udp/239.45.1.44:5140
-#EXTINF:-1 group-title="卫视",河北卫视
-http://116.22.146.21:54321/rtp/239.77.0.148:5146
-#EXTINF:-1 group-title="卫视",河北卫视
-http://116.233.63.217:5555/udp/239.45.1.44:5140
-#EXTINF:-1 group-title="卫视",河北卫视
-http://116.235.252.109:8888/udp/239.45.1.44:5140
+http://58.41.22.161:8880/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="卫视",河北卫视
 http://114.95.208.43:3333/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="卫视",河北卫视
-http://14.145.141.239:10000/rtp/239.20.0.56:3176
+http://116.22.146.21:54321/rtp/239.77.0.148:5146
+#EXTINF:-1 group-title="卫视",河北卫视
+http://116.233.38.0:8888/udp/239.45.1.44:5140
+#EXTINF:-1 group-title="卫视",河北卫视
+http://116.235.252.109:8888/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="卫视",河北卫视
 http://222.68.2.238:4002/udp/239.45.1.44:5140
-#EXTINF:-1 group-title="卫视",河南卫视
-http://116.233.38.0:8888/udp/239.45.0.3:5140
-#EXTINF:-1 group-title="卫视",河南卫视
-http://58.62.235.86:10000/rtp/239.77.1.229:5146
-#EXTINF:-1 group-title="卫视",河南卫视
-http://58.41.22.161:8880/udp/239.45.0.3:5140
-#EXTINF:-1 group-title="卫视",河南卫视
-http://116.235.252.109:8888/udp/239.45.0.3:5140
-#EXTINF:-1 group-title="卫视",河南卫视
-http://116.22.146.21:54321/rtp/239.77.1.229:5146
+#EXTINF:-1 group-title="卫视",河北卫视
+http://183.7.17.30:8888/rtp/239.77.0.148:5146
+#EXTINF:-1 group-title="卫视",河北卫视
+http://116.233.63.217:5555/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="卫视",河南卫视
 http://116.233.63.217:5555/udp/239.45.0.3:5140
 #EXTINF:-1 group-title="卫视",河南卫视
-http://222.68.2.238:4002/udp/239.45.0.3:5140
+http://116.235.252.109:8888/udp/239.45.0.3:5140
 #EXTINF:-1 group-title="卫视",河南卫视
-http://114.95.208.43:3333/udp/239.45.0.3:5140
+http://58.35.112.73:6666/udp/239.45.0.3:5140
+#EXTINF:-1 group-title="卫视",河南卫视
+http://116.22.146.21:54321/rtp/239.77.1.229:5146
+#EXTINF:-1 group-title="卫视",河南卫视
+http://116.233.38.0:8888/udp/239.45.0.3:5140
+#EXTINF:-1 group-title="卫视",河南卫视
+http://116.237.148.215:8881/udp/239.45.0.3:5140
 #EXTINF:-1 group-title="卫视",河南卫视
 http://183.7.17.30:8888/rtp/239.77.1.229:5146
 #EXTINF:-1 group-title="卫视",河南卫视
 http://116.237.138.54:10000/udp/239.45.0.3:5140
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://222.68.2.238:4002/udp/239.45.3.178:5140
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://58.62.235.86:10000/rtp/239.77.0.89:5146
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://183.7.17.30:8888/rtp/239.77.0.89:5146
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://183.7.17.30:8888/rtp/239.77.0.89:5146
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://114.95.208.43:3333/udp/239.45.3.178:5140
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://116.237.148.215:8881/udp/239.45.3.178:5140
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://116.237.138.54:10000/udp/239.45.3.178:5140
+#EXTINF:-1 group-title="卫视",河南卫视
+http://58.41.22.161:8880/udp/239.45.0.3:5140
+#EXTINF:-1 group-title="卫视",河南卫视
+http://58.62.235.86:10000/rtp/239.77.1.229:5146
 #EXTINF:-1 group-title="卫视",浙江卫视
 http://58.41.22.161:8880/udp/239.45.3.178:5140
 #EXTINF:-1 group-title="卫视",浙江卫视
-http://14.145.141.239:10000/rtp/239.20.0.169:2136
-#EXTINF:-1 group-title="卫视",浙江卫视
 http://116.22.146.21:54321/rtp/239.77.0.89:5146
-#EXTINF:-1 group-title="卫视",海南卫视
-http://116.233.63.217:5555/udp/239.45.1.81:5140
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://183.7.17.30:8888/rtp/239.77.0.89:5146
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://183.7.17.30:8888/rtp/239.77.0.89:5146
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://116.237.148.215:8881/udp/239.45.3.178:5140
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://58.62.235.86:10000/rtp/239.77.0.89:5146
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://116.237.138.54:10000/udp/239.45.3.178:5140
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://114.95.208.43:3333/udp/239.45.3.178:5140
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://222.68.2.238:4002/udp/239.45.3.178:5140
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://14.145.141.239:10000/rtp/239.20.0.169:2136
 #EXTINF:-1 group-title="卫视",海南卫视
 http://116.237.148.215:8881/udp/239.45.1.81:5140
 #EXTINF:-1 group-title="卫视",海南卫视
-http://114.95.208.43:3333/udp/239.45.1.81:5140
-#EXTINF:-1 group-title="卫视",海南卫视
 http://116.237.148.215:8881/udp/239.45.1.81:5140
-#EXTINF:-1 group-title="卫视",海南卫视
-http://116.22.146.21:54321/rtp/239.253.43.35:5146
 #EXTINF:-1 group-title="卫视",海南卫视
 http://116.237.138.54:10000/udp/239.45.1.81:5140
 #EXTINF:-1 group-title="卫视",海南卫视
-http://222.68.2.238:4002/udp/239.45.1.81:5140
+http://58.41.22.161:8880/udp/239.45.1.81:5140
+#EXTINF:-1 group-title="卫视",海南卫视
+http://116.233.63.217:5555/udp/239.45.1.81:5140
+#EXTINF:-1 group-title="卫视",海南卫视
+http://58.62.235.86:10000/rtp/239.253.43.35:5146
 #EXTINF:-1 group-title="卫视",海南卫视
 http://116.235.252.109:8888/udp/239.45.1.81:5140
 #EXTINF:-1 group-title="卫视",海南卫视
-http://58.41.22.161:8880/udp/239.45.1.81:5140
+http://116.22.146.21:54321/rtp/239.253.43.35:5146
 #EXTINF:-1 group-title="卫视",海南卫视
-http://58.62.235.86:10000/rtp/239.253.43.35:5146
-#EXTINF:-1 group-title="卫视",深圳卫视
-http://113.65.5.151:85/rtp/239.77.1.3:5146
-#EXTINF:-1 group-title="卫视",深圳卫视
-http://116.237.138.54:10000/udp/239.45.3.231:5140
+http://222.68.2.238:4002/udp/239.45.1.81:5140
+#EXTINF:-1 group-title="卫视",海南卫视
+http://114.95.208.43:3333/udp/239.45.1.81:5140
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://222.68.2.238:4002/udp/239.45.3.231:5140
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://14.145.141.239:10000/rtp/239.20.0.122:2042
 #EXTINF:-1 group-title="卫视",深圳卫视
-http://58.41.22.161:8880/udp/239.45.3.231:5140
+http://114.95.208.43:3333/udp/239.45.3.231:5140
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://116.235.252.109:8888/udp/239.45.3.231:5140
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://58.62.235.86:10000/rtp/239.77.1.3:5146
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://116.22.146.21:54321/rtp/239.77.1.3:5146
 #EXTINF:-1 group-title="卫视",深圳卫视
-http://116.235.252.109:8888/udp/239.45.3.231:5140
-#EXTINF:-1 group-title="卫视",深圳卫视
-http://183.7.17.30:8888/rtp/239.77.1.3:5146
-#EXTINF:-1 group-title="卫视",深圳卫视
-http://116.233.63.217:5555/udp/239.45.3.231:5140
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://116.235.252.109:8888/udp/239.45.3.239:5140
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://116.22.146.21:54321/rtp/239.77.0.95:5146
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://183.7.17.30:8888/rtp/239.77.0.95:5146
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://183.7.17.30:8888/rtp/239.77.0.95:5146
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://58.62.235.86:10000/rtp/239.77.0.95:5146
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://14.145.141.239:10000/rtp/239.20.0.124:2046
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://58.41.22.161:8880/udp/239.45.3.239:5140
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://114.95.208.43:3333/udp/239.45.3.239:5140
+http://58.41.22.161:8880/udp/239.45.3.231:5140
 #EXTINF:-1 group-title="卫视",湖北卫视
 http://222.68.2.238:4002/udp/239.45.3.239:5140
 #EXTINF:-1 group-title="卫视",湖北卫视
-http://116.233.63.217:5555/udp/239.45.3.239:5140
+http://14.145.141.239:10000/rtp/239.20.0.124:2046
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://116.237.138.54:10000/udp/239.45.3.239:5140
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://183.7.17.30:8888/rtp/239.77.0.95:5146
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://116.235.252.109:8888/udp/239.45.3.239:5140
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://116.237.148.215:8881/udp/239.45.3.239:5140
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://116.22.146.21:54321/rtp/239.77.0.95:5146
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://114.95.208.43:3333/udp/239.45.3.239:5140
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://58.62.235.86:10000/rtp/239.77.0.95:5146
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://58.41.22.161:8880/udp/239.45.3.239:5140
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://116.233.38.0:8888/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://58.62.235.86:10000/rtp/239.77.0.127:5146
+http://183.7.17.30:8888/rtp/239.77.0.127:5146
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://114.95.208.43:3333/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://116.237.138.54:10000/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://183.7.17.30:8888/rtp/239.77.0.127:5146
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://183.7.17.30:8888/rtp/239.77.0.127:5146
-#EXTINF:-1 group-title="卫视",湖南卫视
-http://116.235.252.109:8888/udp/239.45.3.228:5140
-#EXTINF:-1 group-title="卫视",湖南卫视
-http://116.235.252.109:8888/udp/239.45.3.228:5140
-#EXTINF:-1 group-title="卫视",湖南卫视
-http://119.131.25.78:9003/rtp/239.77.0.127:5146
-#EXTINF:-1 group-title="卫视",湖南卫视
 http://116.233.38.0:8888/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://14.145.141.239:10000/rtp/239.20.0.105:2008
+http://58.62.235.86:10000/rtp/239.77.0.127:5146
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://116.22.146.21:54321/rtp/239.77.0.127:5146
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://58.41.22.161:8880/udp/239.45.3.228:5140
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://116.235.252.109:8888/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="卫视",甘肃卫视
-http://116.235.252.109:8888/udp/239.45.0.15:5140
+http://116.22.146.21:54321/rtp/239.77.0.189:5146
 #EXTINF:-1 group-title="卫视",甘肃卫视
 http://58.41.22.161:8880/udp/239.45.0.15:5140
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://222.68.2.238:4002/udp/239.45.0.15:5140
 #EXTINF:-1 group-title="卫视",甘肃卫视
 http://58.62.235.86:10000/rtp/239.77.0.189:5146
 #EXTINF:-1 group-title="卫视",甘肃卫视
 http://183.7.17.30:8888/rtp/239.77.0.189:5146
 #EXTINF:-1 group-title="卫视",甘肃卫视
-http://222.68.2.238:4002/udp/239.45.0.15:5140
-#EXTINF:-1 group-title="卫视",甘肃卫视
-http://116.22.146.21:54321/rtp/239.77.0.189:5146
+http://116.235.252.109:8888/udp/239.45.0.15:5140
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://116.235.252.109:8888/udp/239.45.1.80:5140
-#EXTINF:-1 group-title="卫视",贵州卫视
-http://119.131.25.78:9003/rtp/239.77.0.230:5146
-#EXTINF:-1 group-title="卫视",贵州卫视
-http://58.41.22.161:8880/udp/239.45.1.80:5140
+http://116.237.148.215:8881/udp/239.45.1.80:5140
 #EXTINF:-1 group-title="卫视",贵州卫视
 http://114.95.208.43:3333/udp/239.45.1.80:5140
 #EXTINF:-1 group-title="卫视",贵州卫视
+http://58.62.235.86:10000/rtp/239.77.0.230:5146
+#EXTINF:-1 group-title="卫视",贵州卫视
 http://116.237.148.215:8881/udp/239.45.1.80:5140
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://183.7.17.30:8888/rtp/239.77.0.230:5146
 #EXTINF:-1 group-title="卫视",贵州卫视
 http://14.145.141.239:10000/rtp/239.20.0.212:2222
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://222.68.2.238:4002/udp/239.45.1.80:5140
-#EXTINF:-1 group-title="卫视",贵州卫视
 http://116.237.138.54:10000/udp/239.45.1.80:5140
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://222.68.2.238:4002/udp/239.45.1.80:5140
 #EXTINF:-1 group-title="卫视",贵州卫视
 http://218.79.218.40:8899/udp/239.45.1.80:5140
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://116.237.148.215:8881/udp/239.45.1.80:5140
+http://58.41.22.161:8880/udp/239.45.1.80:5140
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://116.237.138.54:10000/udp/239.45.1.123:5140
-#EXTINF:-1 group-title="卫视",辽宁卫视
-http://114.95.208.43:3333/udp/239.45.1.123:5140
-#EXTINF:-1 group-title="卫视",辽宁卫视
-http://14.145.141.239:10000/rtp/239.20.0.175:2148
+http://116.233.63.217:5555/udp/239.45.1.123:5140
 #EXTINF:-1 group-title="卫视",辽宁卫视
 http://116.233.63.217:5555/udp/239.45.1.123:5140
 #EXTINF:-1 group-title="卫视",辽宁卫视
 http://116.237.148.215:8881/udp/239.45.1.123:5140
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://116.233.63.217:5555/udp/239.45.1.123:5140
+http://222.68.2.238:4002/udp/239.45.1.123:5140
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://116.22.146.21:54321/rtp/239.77.1.103:5146
 #EXTINF:-1 group-title="卫视",辽宁卫视
 http://116.233.38.0:8888/udp/239.45.1.123:5140
 #EXTINF:-1 group-title="卫视",辽宁卫视
+http://58.41.22.161:8880/udp/239.45.1.123:5140
+#EXTINF:-1 group-title="卫视",辽宁卫视
 http://58.62.235.86:10000/rtp/239.77.1.103:5146
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://222.68.2.238:4002/udp/239.45.1.123:5140
+http://116.237.138.54:10000/udp/239.45.1.123:5140
 #EXTINF:-1 group-title="卫视",辽宁卫视
 http://116.235.252.109:8888/udp/239.45.1.123:5140
 #EXTINF:-1 group-title="卫视",重庆卫视
-http://222.68.2.238:4002/udp/239.45.1.84:5140
-#EXTINF:-1 group-title="卫视",重庆卫视
-http://116.237.138.54:10000/udp/239.45.1.84:5140
-#EXTINF:-1 group-title="卫视",重庆卫视
-http://116.235.252.109:8888/udp/239.45.1.84:5140
-#EXTINF:-1 group-title="卫视",重庆卫视
 http://114.95.208.43:3333/udp/239.45.1.84:5140
-#EXTINF:-1 group-title="卫视",重庆卫视
-http://14.145.141.239:10000/rtp/239.20.0.195:2188
 #EXTINF:-1 group-title="卫视",重庆卫视
 http://116.233.38.0:8888/udp/239.45.1.84:5140
 #EXTINF:-1 group-title="卫视",重庆卫视
@@ -934,111 +866,117 @@ http://116.22.146.21:54321/rtp/239.77.0.182:5146
 #EXTINF:-1 group-title="卫视",重庆卫视
 http://58.41.22.161:8880/udp/239.45.1.84:5140
 #EXTINF:-1 group-title="卫视",重庆卫视
+http://116.235.252.109:8888/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="卫视",重庆卫视
 http://58.62.235.86:10000/rtp/239.77.0.182:5146
 #EXTINF:-1 group-title="卫视",重庆卫视
-http://116.237.148.215:8881/udp/239.45.1.84:5140
+http://116.233.38.0:8888/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://116.237.138.54:10000/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://222.68.2.238:4002/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://14.145.141.239:10000/rtp/239.20.0.195:2188
+#EXTINF:-1 group-title="卫视",青海卫视
+http://58.62.235.86:10000/rtp/239.253.43.125:5146
 #EXTINF:-1 group-title="卫视",青海卫视
 http://116.22.146.21:54321/rtp/239.253.43.125:5146
 #EXTINF:-1 group-title="卫视",青海卫视
 http://119.131.25.78:9003/rtp/239.253.43.125:5146
-#EXTINF:-1 group-title="卫视",青海卫视
-http://58.62.235.86:10000/rtp/239.253.43.125:5146
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://116.233.63.217:5555/udp/239.45.3.232:5140
 #EXTINF:-1 group-title="卫视",黑龙江卫视
-http://114.95.208.43:3333/udp/239.45.3.232:5140
+http://116.235.252.109:8888/udp/239.45.3.232:5140
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://14.145.141.239:10000/rtp/239.20.0.123:2044
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://222.68.2.238:4002/udp/239.45.3.232:5140
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://58.62.235.86:10000/rtp/239.77.0.93:5146
-#EXTINF:-1 group-title="卫视",黑龙江卫视
-http://116.233.63.217:5555/udp/239.45.3.232:5140
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://116.233.38.0:8888/udp/239.45.3.232:5140
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://116.235.252.109:8888/udp/239.45.3.232:5140
 #EXTINF:-1 group-title="卫视",黑龙江卫视
-http://116.22.146.21:54321/rtp/239.77.0.93:5146
-#EXTINF:-1 group-title="卫视",黑龙江卫视
-http://116.237.138.54:10000/udp/239.45.3.232:5140
-#EXTINF:-1 group-title="卫视",黑龙江卫视
 http://58.41.22.161:8880/udp/239.45.3.232:5140
 #EXTINF:-1 group-title="卫视",黑龙江卫视
-http://183.7.17.30:8888/rtp/239.77.0.93:5146
-#EXTINF:-1 group-title="体育",CCTV5
-http://116.233.38.0:8888/udp/239.45.1.69:5140
-#EXTINF:-1 group-title="体育",CCTV5
-http://119.131.25.78:9003/rtp/239.77.0.170:5146
+http://116.233.63.217:5555/udp/239.45.3.232:5140
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://116.22.146.21:54321/rtp/239.77.0.93:5146
 #EXTINF:-1 group-title="体育",CCTV5
 http://183.7.17.30:8888/rtp/239.77.0.170:5146
 #EXTINF:-1 group-title="体育",CCTV5
-http://183.53.109.67:9090/rtp/239.77.0.170:5146
+http://116.235.252.109:8888/udp/239.45.1.69:5140
 #EXTINF:-1 group-title="体育",CCTV5
-http://116.233.63.217:5555/udp/239.45.1.69:5140
+http://222.68.2.238:4002/udp/239.45.1.69:5140
+#EXTINF:-1 group-title="体育",CCTV5
+http://218.1.171.151:4022/udp/239.45.1.69:5140
+#EXTINF:-1 group-title="体育",CCTV5
+http://183.53.109.67:9090/rtp/239.77.0.170:5146
 #EXTINF:-1 group-title="体育",CCTV5
 http://114.95.208.43:3333/udp/239.45.1.69:5140
 #EXTINF:-1 group-title="体育",CCTV5
-http://116.233.38.0:8888/udp/239.45.1.69:5140
+http://58.62.235.86:10000/rtp/239.77.0.170:5146
+#EXTINF:-1 group-title="体育",CCTV5
+http://116.22.146.21:54321/rtp/239.77.0.170:5146
 #EXTINF:-1 group-title="体育",CCTV5
 http://58.35.112.73:6666/udp/239.45.1.69:5140
 #EXTINF:-1 group-title="体育",CCTV5
-http://58.41.22.161:8880/udp/239.45.1.69:5140
-#EXTINF:-1 group-title="体育",CCTV5
-http://222.68.2.238:4002/udp/239.45.1.69:5140
+http://116.233.38.0:8888/udp/239.45.1.69:5140
+#EXTINF:-1 group-title="体育",CCTV5+
+http://116.233.24.27:4022/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="体育",CCTV5+
 http://58.41.22.161:8880/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="体育",CCTV5+
-http://222.68.2.238:4002/udp/239.45.0.34:5140
-#EXTINF:-1 group-title="体育",CCTV5+
-http://183.7.17.30:8888/rtp/239.77.0.87:5146
-#EXTINF:-1 group-title="体育",CCTV5+
 http://116.233.38.0:8888/udp/239.45.0.34:5140
+#EXTINF:-1 group-title="体育",CCTV5+
+http://58.62.235.86:10000/rtp/239.77.0.87:5146
+#EXTINF:-1 group-title="体育",CCTV5+
+http://222.68.2.238:4002/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="体育",CCTV5+
 http://116.237.148.215:8881/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="体育",CCTV5+
 http://218.1.171.151:4022/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="体育",CCTV5+
+http://183.7.17.30:8888/rtp/239.77.0.87:5146
+#EXTINF:-1 group-title="体育",CCTV5+
 http://114.95.208.43:3333/udp/239.45.0.34:5140
-#EXTINF:-1 group-title="体育",CCTV5+
-http://116.233.24.27:4022/udp/239.45.0.34:5140
-#EXTINF:-1 group-title="体育",CCTV5+
-http://116.22.146.21:54321/rtp/239.77.0.87:5146
 #EXTINF:-1 group-title="体育",CCTV5+
 http://116.233.63.217:5555/udp/239.45.0.34:5140
 #EXTINF:-1 group-title="体育",CCTV风云足球
 http://183.7.17.30:8888/rtp/239.253.43.14:5146
 #EXTINF:-1 group-title="体育",CCTV风云足球
-http://58.62.235.86:10000/rtp/239.253.43.14:5146
-#EXTINF:-1 group-title="体育",CCTV风云足球
 http://14.145.141.239:10000/rtp/239.21.0.70:3620
+#EXTINF:-1 group-title="体育",CCTV风云足球
+http://58.62.235.86:10000/rtp/239.253.43.14:5146
+#EXTINF:-1 group-title="体育",五星体育
+http://223.167.202.60:9876/rtp/225.0.0.8:6140
+#EXTINF:-1 group-title="体育",五星体育
+http://223.167.202.60:9876/rtp/225.0.0.8:6140
+#EXTINF:-1 group-title="体育",五星体育
+http://223.167.202.60:9876/rtp/225.0.0.8:6140
 #EXTINF:-1 group-title="体育",五星体育
 http://223.167.203.127:9876/rtp/225.0.0.8:6140
+#EXTINF:-1 group-title="体育",五星体育
+http://223.167.203.127:9876/rtp/225.0.0.8:6140
+#EXTINF:-1 group-title="体育",五星体育
+http://116.227.32.187:11000/rtp/225.0.0.8:6140
+#EXTINF:-1 group-title="体育",五星体育
+http://116.233.38.0:8888/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="体育",五星体育
 http://223.167.202.60:9876/rtp/225.0.0.8:6140
 #EXTINF:-1 group-title="体育",五星体育
 http://116.237.148.215:8881/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="体育",五星体育
-http://223.167.203.127:9876/rtp/225.0.0.8:6140
-#EXTINF:-1 group-title="体育",五星体育
 http://223.167.202.60:9876/rtp/225.0.0.8:6140
-#EXTINF:-1 group-title="体育",五星体育
-http://116.227.32.187:11000/rtp/225.0.0.8:6140
-#EXTINF:-1 group-title="体育",五星体育
-http://58.41.22.161:8880/udp/239.45.3.210:5140
-#EXTINF:-1 group-title="体育",五星体育
-http://223.167.202.60:9876/rtp/225.0.0.8:6140
-#EXTINF:-1 group-title="体育",五星体育
-http://116.237.138.54:10000/udp/239.45.3.210:5140
-#EXTINF:-1 group-title="体育",五星体育
-http://116.233.38.0:8888/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="体育",广东体育
+http://183.7.17.30:8888/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="体育",广东体育
 http://58.62.235.86:10000/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="体育",广东体育
-http://183.7.17.30:8888/rtp/239.77.0.168:5146
-#EXTINF:-1 group-title="体育",广东体育
-http://183.7.17.30:8888/rtp/239.77.0.168:5146
-#EXTINF:-1 group-title="体育",广东体育
-http://116.22.146.21:54321/rtp/239.77.0.168:5146
-#EXTINF:-1 group-title="体育",广东体育
 http://14.145.141.239:10000/rtp/239.20.0.103:2004
+#EXTINF:-1 group-title="体育",广东体育
+http://183.7.17.30:8888/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="体育",汕头文旅体育
 http://116.22.146.21:54321/rtp/239.77.1.132:5146
 #EXTINF:-1 group-title="体育",汕头文旅体育
@@ -1047,54 +985,40 @@ http://58.62.235.86:10000/rtp/239.77.1.132:5146
 http://58.62.235.86:10000/rtp/239.77.1.140:5146
 #EXTINF:-1 group-title="体育",深圳体育健康
 http://183.7.17.30:8888/rtp/239.77.1.140:5146
-#EXTINF:-1 group-title="体育",深圳体育健康
-http://116.22.146.21:54321/rtp/239.77.1.140:5146
-#EXTINF:-1 group-title="体育",爱体育
-http://183.7.17.30:8888/rtp/239.77.0.176:5146
 #EXTINF:-1 group-title="体育",爱体育
 http://58.62.235.86:10000/rtp/239.77.0.176:5146
 #EXTINF:-1 group-title="体育",爱体育
-http://183.7.17.30:8888/rtp/239.77.0.176:5146
-#EXTINF:-1 group-title="体育",爱体育
 http://116.22.146.21:54321/rtp/239.77.0.176:5146
-#EXTINF:-1 group-title="体育",百事通超级体育
-http://116.237.138.54:10000/udp/239.45.3.139:5140
+#EXTINF:-1 group-title="体育",爱体育
+http://183.7.17.30:8888/rtp/239.77.0.176:5146
 #EXTINF:-1 group-title="体育",百事通超级体育
 http://58.41.22.161:8880/udp/239.45.3.139:5140
 #EXTINF:-1 group-title="体育",百事通超级体育
 http://116.233.24.27:4022/udp/239.45.3.139:5140
 #EXTINF:-1 group-title="体育",百事通超级体育
-http://116.233.38.0:8888/udp/239.45.3.139:5140
-#EXTINF:-1 group-title="体育",百事通超级体育
-http://114.95.208.43:3333/udp/239.45.3.139:5140
-#EXTINF:-1 group-title="体育",百事通超级体育
-http://116.233.63.217:5555/udp/239.45.3.139:5140
-#EXTINF:-1 group-title="体育",百事通超级体育
-http://116.233.38.0:8888/udp/239.45.3.139:5140
+http://116.237.138.54:10000/udp/239.45.3.139:5140
 #EXTINF:-1 group-title="体育",百事通超级体育
 http://222.68.2.238:4002/udp/239.45.3.139:5140
 #EXTINF:-1 group-title="少儿",CCTV14
-http://116.233.38.0:8888/udp/239.45.3.23:5140
+http://218.1.171.151:4022/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="少儿",CCTV14
 http://222.68.2.238:4002/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="少儿",CCTV14
-http://114.95.208.43:3333/udp/239.45.3.23:5140
+http://116.233.63.217:5555/udp/239.45.3.23:5140
+#EXTINF:-1 group-title="少儿",CCTV14
+http://116.22.146.21:54321/rtp/239.77.0.133:5146
 #EXTINF:-1 group-title="少儿",CCTV14
 http://183.7.17.30:8888/rtp/239.77.0.133:5146
 #EXTINF:-1 group-title="少儿",CCTV14
-http://116.237.138.54:10000/udp/239.45.3.23:5140
+http://116.233.38.0:8888/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="少儿",CCTV14
-http://116.233.63.217:5555/udp/239.45.3.23:5140
+http://116.237.138.54:10000/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="少儿",CCTV14
 http://58.41.22.161:8880/udp/239.45.3.23:5140
 #EXTINF:-1 group-title="少儿",CCTV14
-http://218.1.171.151:4022/udp/239.45.3.23:5140
-#EXTINF:-1 group-title="少儿",CCTV14
-http://116.235.252.109:8888/udp/239.45.3.23:5140
-#EXTINF:-1 group-title="少儿",CCTV14
 http://58.62.235.86:10000/rtp/239.77.0.133:5146
-#EXTINF:-1 group-title="少儿",动漫秀场
-http://58.41.22.161:8880/udp/239.45.3.134:5140
+#EXTINF:-1 group-title="少儿",CCTV14
+http://14.145.141.239:10000/rtp/239.20.0.202:2202
 #EXTINF:-1 group-title="少儿",动漫秀场
 http://223.167.202.60:9876/rtp/225.0.0.161:6140
 #EXTINF:-1 group-title="少儿",动漫秀场
@@ -1102,57 +1026,51 @@ http://223.167.202.60:9876/rtp/225.0.0.161:6140
 #EXTINF:-1 group-title="少儿",动漫秀场
 http://116.237.138.54:10000/udp/239.45.3.134:5140
 #EXTINF:-1 group-title="少儿",动漫秀场
-http://223.167.202.60:9876/rtp/225.0.0.161:6140
+http://116.235.252.109:8888/udp/239.45.3.134:5140
 #EXTINF:-1 group-title="少儿",动漫秀场
 http://223.167.202.60:9876/rtp/225.0.0.161:6140
-#EXTINF:-1 group-title="少儿",动漫秀场
-http://116.237.148.215:8881/udp/239.45.3.134:5140
 #EXTINF:-1 group-title="少儿",动漫秀场
 http://116.235.252.109:8888/udp/239.45.3.134:5140
 #EXTINF:-1 group-title="少儿",动漫秀场
 http://223.167.203.127:9876/rtp/225.0.0.161:6140
 #EXTINF:-1 group-title="少儿",动漫秀场
-http://222.68.2.238:4002/udp/239.45.3.134:5140
+http://58.35.112.73:6666/udp/239.45.3.134:5140
+#EXTINF:-1 group-title="少儿",动漫秀场
+http://223.167.203.127:9876/rtp/225.0.0.161:6140
+#EXTINF:-1 group-title="少儿",动漫秀场
+http://58.41.22.161:8880/udp/239.45.3.134:5140
 #EXTINF:-1 group-title="少儿",卡酷少儿
 http://116.235.252.109:8888/udp/239.45.0.8:5140
 #EXTINF:-1 group-title="少儿",卡酷少儿
 http://116.235.252.109:8888/udp/239.45.0.8:5140
-#EXTINF:-1 group-title="少儿",卡酷少儿
-http://58.41.22.161:8880/udp/239.45.0.8:5140
-#EXTINF:-1 group-title="少儿",卡酷少儿
-http://116.237.138.54:10000/udp/239.45.0.8:5140
-#EXTINF:-1 group-title="少儿",卡酷少儿
-http://114.95.208.43:3333/udp/239.45.0.8:5140
 #EXTINF:-1 group-title="少儿",卡酷少儿
 http://222.68.2.238:4002/udp/239.45.0.8:5140
 #EXTINF:-1 group-title="少儿",卡酷少儿
+http://116.237.138.54:10000/udp/239.45.0.8:5140
+#EXTINF:-1 group-title="少儿",卡酷少儿
 http://116.233.38.0:8888/udp/239.45.0.8:5140
-#EXTINF:-1 group-title="少儿",哈哈炫动
-http://116.235.252.109:8888/udp/239.45.1.55:5140
+#EXTINF:-1 group-title="少儿",卡酷少儿
+http://58.41.22.161:8880/udp/239.45.0.8:5140
+#EXTINF:-1 group-title="少儿",卡酷少儿
+http://114.95.208.43:3333/udp/239.45.0.8:5140
 #EXTINF:-1 group-title="少儿",哈哈炫动
 http://222.68.2.238:4002/udp/239.45.1.55:5140
 #EXTINF:-1 group-title="少儿",哈哈炫动
-http://116.235.252.109:8888/udp/239.45.1.55:5140
-#EXTINF:-1 group-title="少儿",哈哈炫动
 http://116.237.138.54:10000/udp/239.45.1.55:5140
 #EXTINF:-1 group-title="少儿",哈哈炫动
-http://58.41.22.161:8880/udp/239.45.1.55:5140
-#EXTINF:-1 group-title="少儿",哈哈炫动
-http://116.233.63.217:5555/udp/239.45.1.55:5140
-#EXTINF:-1 group-title="少儿",哈哈炫动
 http://114.95.208.43:3333/udp/239.45.1.55:5140
+#EXTINF:-1 group-title="少儿",哈哈炫动
+http://58.41.22.161:8880/udp/239.45.1.55:5140
 #EXTINF:-1 group-title="少儿",嘉佳卡通
-http://116.22.146.21:54321/rtp/239.77.0.179:5146
+http://14.145.141.239:10000/rtp/239.21.0.94:3716
 #EXTINF:-1 group-title="少儿",嘉佳卡通
 http://183.7.17.30:8888/rtp/239.77.0.179:5146
 #EXTINF:-1 group-title="少儿",嘉佳卡通
-http://58.62.235.86:10000/rtp/239.77.0.179:5146
+http://116.22.146.21:54321/rtp/239.77.0.179:5146
 #EXTINF:-1 group-title="少儿",嘉佳卡通
-http://14.145.141.239:10000/rtp/239.21.0.94:3716
+http://58.62.235.86:10000/rtp/239.77.0.179:5146
 #EXTINF:-1 group-title="少儿",广东少儿
 http://58.62.235.86:10000/rtp/239.77.0.250:5146
-#EXTINF:-1 group-title="少儿",广东少儿
-http://14.145.141.239:10000/rtp/239.21.0.87:3688
 #EXTINF:-1 group-title="少儿",广东少儿
 http://183.7.17.30:8888/rtp/239.77.0.250:5146
 #EXTINF:-1 group-title="少儿",广东少儿
@@ -1162,31 +1080,25 @@ http://58.62.235.86:10000/rtp/239.77.1.244:5146
 #EXTINF:-1 group-title="少儿",深圳少儿
 http://116.22.146.21:54321/rtp/239.77.1.244:5146
 #EXTINF:-1 group-title="少儿",金鹰卡通
+http://58.41.22.161:8880/udp/239.45.3.233:5140
+#EXTINF:-1 group-title="少儿",金鹰卡通
 http://116.233.63.217:5555/udp/239.45.3.233:5140
 #EXTINF:-1 group-title="少儿",金鹰卡通
-http://183.7.17.30:8888/rtp/239.77.0.164:5146
-#EXTINF:-1 group-title="少儿",金鹰卡通
 http://222.68.2.238:4002/udp/239.45.3.233:5140
+#EXTINF:-1 group-title="少儿",金鹰卡通
+http://218.1.171.151:4022/udp/239.45.3.233:5140
 #EXTINF:-1 group-title="少儿",金鹰卡通
 http://116.233.38.0:8888/udp/239.45.3.233:5140
 #EXTINF:-1 group-title="少儿",金鹰卡通
 http://116.235.252.109:8888/udp/239.45.3.233:5140
 #EXTINF:-1 group-title="少儿",金鹰卡通
-http://119.131.25.78:9003/rtp/239.77.0.164:5146
-#EXTINF:-1 group-title="少儿",金鹰卡通
 http://116.22.146.21:54321/rtp/239.77.0.164:5146
 #EXTINF:-1 group-title="少儿",金鹰卡通
-http://218.1.171.151:4022/udp/239.45.3.233:5140
+http://119.131.25.78:9003/rtp/239.77.0.164:5146
 #EXTINF:-1 group-title="少儿",金鹰卡通
-http://58.41.22.161:8880/udp/239.45.3.233:5140
-#EXTINF:-1 group-title="少儿",金鹰卡通
-http://116.237.148.215:8881/udp/239.45.3.233:5140
+http://183.7.17.30:8888/rtp/239.77.0.164:5146
 #EXTINF:-1 group-title="其它",Best
-http://116.237.148.215:8881/udp/239.45.3.140:5140
-#EXTINF:-1 group-title="其它",Best
-http://222.68.2.238:4002/udp/239.45.3.140:5140
-#EXTINF:-1 group-title="其它",Best
-http://116.233.63.217:5555/udp/239.45.3.140:5140
+http://58.41.22.161:8880/udp/239.45.3.140:5140
 #EXTINF:-1 group-title="其它",Best
 http://116.235.252.109:8888/udp/239.45.3.140:5140
 #EXTINF:-1 group-title="其它",Best
@@ -1194,99 +1106,95 @@ http://116.233.38.0:8888/udp/239.45.3.140:5140
 #EXTINF:-1 group-title="其它",Best
 http://114.95.208.43:3333/udp/239.45.3.140:5140
 #EXTINF:-1 group-title="其它",Best
-http://58.41.22.161:8880/udp/239.45.3.140:5140
-#EXTINF:-1 group-title="其它",Best
 http://116.237.138.54:10000/udp/239.45.3.140:5140
 #EXTINF:-1 group-title="其它",Best
 http://116.233.38.0:8888/udp/239.45.3.140:5140
-#EXTINF:-1 group-title="其它",CETV1
-http://116.233.63.217:5555/udp/239.45.1.125:5140
-#EXTINF:-1 group-title="其它",CETV1
-http://116.235.252.109:8888/udp/239.45.1.125:5140
-#EXTINF:-1 group-title="其它",CETV1
-http://116.22.146.21:54321/rtp/239.77.1.222:5146
-#EXTINF:-1 group-title="其它",CETV1
-http://58.62.235.86:10000/rtp/239.77.1.222:5146
+#EXTINF:-1 group-title="其它",Best
+http://116.237.148.215:8881/udp/239.45.3.140:5140
+#EXTINF:-1 group-title="其它",Best
+http://222.68.2.238:4002/udp/239.45.3.140:5140
 #EXTINF:-1 group-title="其它",CETV1
 http://116.235.252.109:8888/udp/239.45.1.125:5140
 #EXTINF:-1 group-title="其它",CETV1
 http://222.68.2.238:4002/udp/239.45.1.125:5140
 #EXTINF:-1 group-title="其它",CETV1
-http://116.237.138.54:10000/udp/239.45.1.125:5140
+http://58.62.235.86:10000/rtp/239.77.1.222:5146
+#EXTINF:-1 group-title="其它",CETV1
+http://116.235.252.109:8888/udp/239.45.1.125:5140
+#EXTINF:-1 group-title="其它",CETV1
+http://116.235.252.109:8888/udp/239.45.1.125:5140
 #EXTINF:-1 group-title="其它",CETV1
 http://58.41.22.161:8880/udp/239.45.1.125:5140
 #EXTINF:-1 group-title="其它",CETV1
+http://116.22.146.21:54321/rtp/239.77.1.222:5146
+#EXTINF:-1 group-title="其它",CETV1
 http://183.7.17.30:8888/rtp/239.77.1.222:5146
+#EXTINF:-1 group-title="其它",CETV1
+http://116.233.63.217:5555/udp/239.45.1.125:5140
 #EXTINF:-1 group-title="其它",CETV1
 http://116.237.148.215:8881/udp/239.45.1.125:5140
 #EXTINF:-1 group-title="其它",CETV4
-http://116.237.148.215:8881/udp/239.45.0.21:5140
-#EXTINF:-1 group-title="其它",CETV4
-http://116.22.146.21:54321/rtp/239.253.43.40:5146
-#EXTINF:-1 group-title="其它",CETV4
-http://116.235.252.109:8888/udp/239.45.0.21:5140
-#EXTINF:-1 group-title="其它",CETV4
-http://116.237.138.54:10000/udp/239.45.0.21:5140
+http://58.41.22.161:8880/udp/239.45.0.21:5140
 #EXTINF:-1 group-title="其它",CETV4
 http://58.62.235.86:10000/rtp/239.253.43.40:5146
 #EXTINF:-1 group-title="其它",CETV4
+http://116.235.252.109:8888/udp/239.45.0.21:5140
+#EXTINF:-1 group-title="其它",CETV4
+http://116.22.146.21:54321/rtp/239.253.43.40:5146
+#EXTINF:-1 group-title="其它",CETV4
 http://222.68.2.238:4002/udp/239.45.0.21:5140
 #EXTINF:-1 group-title="其它",CETV4
-http://183.7.17.30:8888/rtp/239.253.43.40:5146
+http://116.237.138.54:10000/udp/239.45.0.21:5140
 #EXTINF:-1 group-title="其它",CETV4
 http://114.95.208.43:3333/udp/239.45.0.21:5140
 #EXTINF:-1 group-title="其它",CETV4
-http://58.41.22.161:8880/udp/239.45.0.21:5140
+http://116.237.148.215:8881/udp/239.45.0.21:5140
+#EXTINF:-1 group-title="其它",CETV4
+http://183.7.17.30:8888/rtp/239.253.43.40:5146
 #EXTINF:-1 group-title="其它",CETV4
 http://116.233.38.0:8888/udp/239.45.0.21:5140
 #EXTINF:-1 group-title="其它",CETV早期教育
-http://183.7.17.30:8888/rtp/239.77.0.180:5146
-#EXTINF:-1 group-title="其它",CETV早期教育
-http://183.7.17.30:8888/rtp/239.77.0.180:5146
-#EXTINF:-1 group-title="其它",CETV早期教育
 http://58.62.235.86:10000/rtp/239.77.0.180:5146
 #EXTINF:-1 group-title="其它",CETV早期教育
-http://119.131.25.78:9003/rtp/239.77.0.180:5146
+http://183.7.17.30:8888/rtp/239.77.0.180:5146
+#EXTINF:-1 group-title="其它",CETV早期教育
+http://183.7.17.30:8888/rtp/239.77.0.180:5146
 #EXTINF:-1 group-title="其它",CETV早期教育
 http://116.22.146.21:54321/rtp/239.77.0.180:5146
 #EXTINF:-1 group-title="其它",CGTN俄语
-http://183.7.17.30:8888/rtp/239.253.43.201:5146
-#EXTINF:-1 group-title="其它",CGTN俄语
-http://183.7.17.30:8888/rtp/239.253.43.201:5146
-#EXTINF:-1 group-title="其它",CGTN俄语
 http://58.62.235.86:10000/rtp/239.253.43.201:5146
+#EXTINF:-1 group-title="其它",CGTN俄语
+http://183.7.17.30:8888/rtp/239.253.43.201:5146
+#EXTINF:-1 group-title="其它",CGTN俄语
+http://183.7.17.30:8888/rtp/239.253.43.201:5146
+#EXTINF:-1 group-title="其它",CGTN法语
+http://116.22.146.21:54321/rtp/239.77.0.228:5146
 #EXTINF:-1 group-title="其它",CGTN法语
 http://58.62.235.86:10000/rtp/239.77.0.228:5146
 #EXTINF:-1 group-title="其它",CGTN法语
 http://183.7.17.30:8888/rtp/239.77.0.228:5146
-#EXTINF:-1 group-title="其它",CGTN法语
-http://116.22.146.21:54321/rtp/239.77.0.228:5146
 #EXTINF:-1 group-title="其它",CGTN英语
 http://116.22.146.21:54321/rtp/239.77.0.199:5146
 #EXTINF:-1 group-title="其它",CGTN英语
 http://58.62.235.86:10000/rtp/239.77.0.199:5146
 #EXTINF:-1 group-title="其它",CGTN西班牙语
-http://58.62.235.86:10000/rtp/239.77.0.221:5146
-#EXTINF:-1 group-title="其它",CGTN西班牙语
 http://116.22.146.21:54321/rtp/239.77.0.221:5146
+#EXTINF:-1 group-title="其它",CGTN西班牙语
+http://58.62.235.86:10000/rtp/239.77.0.221:5146
 #EXTINF:-1 group-title="其它",CGTN西班牙语
 http://183.7.17.30:8888/rtp/239.77.0.221:5146
 #EXTINF:-1 group-title="其它",CGTN记录
-http://183.7.17.30:8888/rtp/239.253.43.122:5146
+http://58.62.235.86:10000/rtp/239.253.43.122:5146
 #EXTINF:-1 group-title="其它",CGTN记录
 http://116.22.146.21:54321/rtp/239.253.43.122:5146
 #EXTINF:-1 group-title="其它",CGTN记录
 http://183.7.17.30:8888/rtp/239.253.43.122:5146
-#EXTINF:-1 group-title="其它",CGTN记录
-http://58.62.235.86:10000/rtp/239.253.43.122:5146
 #EXTINF:-1 group-title="其它",CGTN阿拉伯语
 http://58.62.235.86:10000/rtp/239.253.43.200:5146
 #EXTINF:-1 group-title="其它",CGTN阿拉伯语
+http://183.7.17.30:8888/rtp/239.253.43.200:5146
+#EXTINF:-1 group-title="其它",CGTN阿拉伯语
 http://116.22.146.21:54321/rtp/239.253.43.200:5146
-#EXTINF:-1 group-title="其它",CGTN阿拉伯语
-http://183.7.17.30:8888/rtp/239.253.43.200:5146
-#EXTINF:-1 group-title="其它",CGTN阿拉伯语
-http://183.7.17.30:8888/rtp/239.253.43.200:5146
 #EXTINF:-1 group-title="其它",HZTV1
 http://58.62.235.86:10000/rtp/239.77.1.232:5146
 #EXTINF:-1 group-title="其它",HZTV1
@@ -1300,33 +1208,35 @@ http://14.145.141.239:10000/rtp/239.20.0.208:2214
 #EXTINF:-1 group-title="其它",七彩戏剧
 http://223.167.202.60:9876/rtp/225.0.0.225:6140
 #EXTINF:-1 group-title="其它",七彩戏剧
+http://116.235.252.109:8888/udp/239.45.0.16:5140
+#EXTINF:-1 group-title="其它",七彩戏剧
+http://116.233.63.217:5555/udp/239.45.0.16:5140
+#EXTINF:-1 group-title="其它",七彩戏剧
+http://223.167.203.127:9876/rtp/225.0.0.225:6140
+#EXTINF:-1 group-title="其它",七彩戏剧
 http://58.41.22.161:8880/udp/239.45.0.16:5140
 #EXTINF:-1 group-title="其它",七彩戏剧
 http://116.237.148.215:8881/udp/239.45.0.16:5140
 #EXTINF:-1 group-title="其它",七彩戏剧
 http://223.167.202.60:9876/rtp/225.0.0.225:6140
 #EXTINF:-1 group-title="其它",七彩戏剧
-http://116.233.63.217:5555/udp/239.45.0.16:5140
+http://222.68.2.238:4002/udp/239.45.0.16:5140
 #EXTINF:-1 group-title="其它",七彩戏剧
-http://114.95.208.43:3333/udp/239.45.0.16:5140
-#EXTINF:-1 group-title="其它",七彩戏剧
-http://116.235.252.109:8888/udp/239.45.0.16:5140
-#EXTINF:-1 group-title="其它",七彩戏剧
-http://116.227.32.187:11000/rtp/225.0.0.225:6140
+http://116.233.38.0:8888/udp/239.45.0.16:5140
 #EXTINF:-1 group-title="其它",七彩戏剧
 http://223.167.203.127:9876/rtp/225.0.0.225:6140
-#EXTINF:-1 group-title="其它",七彩戏剧
-http://116.237.138.54:10000/udp/239.45.0.16:5140
-#EXTINF:-1 group-title="其它",上海外语
-http://58.41.22.161:8880/udp/239.45.1.127:5140
-#EXTINF:-1 group-title="其它",上海外语
-http://114.95.208.43:3333/udp/239.45.1.127:5140
-#EXTINF:-1 group-title="其它",上海外语
-http://116.233.38.0:8888/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="其它",上海外语
 http://116.233.38.0:8888/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="其它",上海外语
 http://222.68.2.238:4002/udp/239.45.1.127:5140
+#EXTINF:-1 group-title="其它",上海外语
+http://114.95.208.43:3333/udp/239.45.1.127:5140
+#EXTINF:-1 group-title="其它",上海外语
+http://58.41.22.161:8880/udp/239.45.1.127:5140
+#EXTINF:-1 group-title="其它",上海外语
+http://116.233.38.0:8888/udp/239.45.1.127:5140
+#EXTINF:-1 group-title="其它",上海教育
+http://116.237.138.54:10000/udp/239.45.0.13:5140
 #EXTINF:-1 group-title="其它",上海教育
 http://58.41.22.161:8880/udp/239.45.0.13:5140
 #EXTINF:-1 group-title="其它",上海教育
@@ -1334,25 +1244,23 @@ http://116.235.252.109:8888/udp/239.45.0.13:5140
 #EXTINF:-1 group-title="其它",上海教育
 http://116.233.38.0:8888/udp/239.45.0.13:5140
 #EXTINF:-1 group-title="其它",上海教育
-http://114.95.208.43:3333/udp/239.45.0.13:5140
-#EXTINF:-1 group-title="其它",上海教育
-http://116.237.138.54:10000/udp/239.45.0.13:5140
-#EXTINF:-1 group-title="其它",上海教育
 http://116.233.38.0:8888/udp/239.45.0.13:5140
 #EXTINF:-1 group-title="其它",上海教育
-http://116.237.148.215:8881/udp/239.45.0.13:5140
+http://114.95.208.43:3333/udp/239.45.0.13:5140
 #EXTINF:-1 group-title="其它",上海教育
 http://116.233.63.217:5555/udp/239.45.0.13:5140
-#EXTINF:-1 group-title="其它",上海都市
-http://116.237.148.215:8881/udp/239.45.3.236:5140
+#EXTINF:-1 group-title="其它",上海教育
+http://116.237.148.215:8881/udp/239.45.0.13:5140
 #EXTINF:-1 group-title="其它",上海都市
 http://116.235.252.109:8888/udp/239.45.3.236:5140
-#EXTINF:-1 group-title="其它",上海都市
-http://58.41.22.161:8880/udp/239.45.3.236:5140
 #EXTINF:-1 group-title="其它",上海都市
 http://116.233.63.217:5555/udp/239.45.3.236:5140
 #EXTINF:-1 group-title="其它",上海都市
 http://116.233.38.0:8888/udp/239.45.3.236:5140
+#EXTINF:-1 group-title="其它",上海都市
+http://114.95.208.43:3333/udp/239.45.3.236:5140
+#EXTINF:-1 group-title="其它",上海都市
+http://116.237.148.215:8881/udp/239.45.3.236:5140
 #EXTINF:-1 group-title="其它",上海都市
 http://222.68.2.238:4002/udp/239.45.3.236:5140
 #EXTINF:-1 group-title="其它",上海都市
@@ -1362,61 +1270,67 @@ http://116.237.138.54:10000/udp/239.45.3.236:5140
 #EXTINF:-1 group-title="其它",上海都市
 http://116.235.252.109:8888/udp/239.45.3.236:5140
 #EXTINF:-1 group-title="其它",上海都市
-http://114.95.208.43:3333/udp/239.45.3.236:5140
+http://58.41.22.161:8880/udp/239.45.3.236:5140
 #EXTINF:-1 group-title="其它",上视外语
-http://58.41.22.161:8880/udp/239.45.1.127:5140
+http://222.68.2.238:4002/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="其它",上视外语
 http://116.233.63.217:5555/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="其它",上视外语
+http://58.41.22.161:8880/udp/239.45.1.127:5140
+#EXTINF:-1 group-title="其它",上视外语
 http://116.235.252.109:8888/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="其它",上视外语
-http://116.237.138.54:10000/udp/239.45.1.127:5140
+http://116.235.252.109:8888/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="其它",上视外语
 http://114.95.208.43:3333/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="其它",上视外语
-http://116.235.252.109:8888/udp/239.45.1.127:5140
-#EXTINF:-1 group-title="其它",上视外语
-http://222.68.2.238:4002/udp/239.45.1.127:5140
+http://116.237.138.54:10000/udp/239.45.1.127:5140
 #EXTINF:-1 group-title="其它",东方财经
 http://114.95.208.43:3333/udp/239.45.0.17:5140
 #EXTINF:-1 group-title="其它",东方财经
-http://58.41.22.161:8880/udp/239.45.0.17:5140
-#EXTINF:-1 group-title="其它",东方财经
 http://223.167.203.127:9876/rtp/225.0.0.226:6140
-#EXTINF:-1 group-title="其它",东方财经
-http://116.233.63.217:5555/udp/239.45.0.17:5140
 #EXTINF:-1 group-title="其它",东方财经
 http://116.237.148.215:8881/udp/239.45.0.17:5140
 #EXTINF:-1 group-title="其它",东方财经
-http://223.167.202.60:9876/rtp/225.0.0.226:6140
+http://223.167.203.127:9876/rtp/225.0.0.226:6140
+#EXTINF:-1 group-title="其它",东方财经
+http://116.235.252.109:8888/udp/239.45.0.17:5140
 #EXTINF:-1 group-title="其它",东方财经
 http://223.167.202.60:9876/rtp/225.0.0.226:6140
 #EXTINF:-1 group-title="其它",东方财经
-http://116.233.63.217:5555/udp/239.45.0.17:5140
-#EXTINF:-1 group-title="其它",东方财经
 http://223.167.202.60:9876/rtp/225.0.0.226:6140
 #EXTINF:-1 group-title="其它",东方财经
-http://116.227.32.187:11000/rtp/225.0.0.226:6140
+http://116.237.138.54:10000/udp/239.45.0.17:5140
+#EXTINF:-1 group-title="其它",东方财经
+http://222.68.2.238:4002/udp/239.45.0.17:5140
+#EXTINF:-1 group-title="其它",东方财经
+http://223.167.202.60:9876/rtp/225.0.0.226:6140
 #EXTINF:-1 group-title="其它",中国交通
-http://58.62.235.86:10000/rtp/239.77.1.249:5146
-#EXTINF:-1 group-title="其它",中国交通
-http://183.7.17.30:8888/rtp/239.77.1.249:5146
+http://14.145.141.239:10000/rtp/239.20.0.68:3128
 #EXTINF:-1 group-title="其它",中国交通
 http://116.22.146.21:54321/rtp/239.77.1.249:5146
 #EXTINF:-1 group-title="其它",中国交通
 http://183.7.17.30:8888/rtp/239.77.1.249:5146
 #EXTINF:-1 group-title="其它",中国交通
-http://14.145.141.239:10000/rtp/239.20.0.68:3128
+http://183.7.17.30:8888/rtp/239.77.1.249:5146
+#EXTINF:-1 group-title="其它",中国交通
+http://58.62.235.86:10000/rtp/239.77.1.249:5146
 #EXTINF:-1 group-title="其它",中国教育1
 http://58.62.235.86:10000/rtp/239.77.0.200:5146
 #EXTINF:-1 group-title="其它",中国教育1
-http://183.7.17.30:8888/rtp/239.77.0.200:5146
-#EXTINF:-1 group-title="其它",中国教育1
 http://116.22.146.21:54321/rtp/239.77.0.200:5146
+#EXTINF:-1 group-title="其它",中国教育1
+http://183.7.17.30:8888/rtp/239.77.0.200:5146
 #EXTINF:-1 group-title="其它",乐游
-http://222.68.2.238:4002/udp/239.45.3.135:5140
+http://58.41.22.161:8880/udp/239.45.3.135:5140
+#EXTINF:-1 group-title="其它",乐游
+http://116.235.252.109:8888/udp/239.45.3.135:5140
+#EXTINF:-1 group-title="其它",乐游
+http://223.167.202.60:9876/rtp/225.0.0.164:6140
 #EXTINF:-1 group-title="其它",乐游
 http://116.227.32.187:11000/rtp/225.0.0.164:6140
+#EXTINF:-1 group-title="其它",乐游
+http://116.235.252.109:8888/udp/239.45.3.135:5140
 #EXTINF:-1 group-title="其它",乐游
 http://223.167.202.60:9876/rtp/225.0.0.164:6140
 #EXTINF:-1 group-title="其它",乐游
@@ -1424,25 +1338,23 @@ http://223.167.203.127:9876/rtp/225.0.0.164:6140
 #EXTINF:-1 group-title="其它",乐游
 http://223.167.202.60:9876/rtp/225.0.0.164:6140
 #EXTINF:-1 group-title="其它",乐游
-http://116.235.252.109:8888/udp/239.45.3.135:5140
+http://222.68.2.238:4002/udp/239.45.3.135:5140
 #EXTINF:-1 group-title="其它",乐游
-http://114.95.208.43:3333/udp/239.45.3.135:5140
-#EXTINF:-1 group-title="其它",乐游
-http://116.237.138.54:10000/udp/239.45.3.135:5140
-#EXTINF:-1 group-title="其它",乐游
-http://58.41.22.161:8880/udp/239.45.3.135:5140
-#EXTINF:-1 group-title="其它",乐游
-http://116.233.38.0:8888/udp/239.45.3.135:5140
+http://223.167.202.60:9876/rtp/225.0.0.164:6140
 #EXTINF:-1 group-title="其它",九屏同播
-http://58.62.235.86:10000/rtp/239.77.1.234:5146
+http://183.7.17.30:8888/rtp/239.77.1.234:5146
 #EXTINF:-1 group-title="其它",九屏同播
 http://116.22.146.21:54321/rtp/239.77.1.234:5146
 #EXTINF:-1 group-title="其它",九屏同播
-http://183.7.17.30:8888/rtp/239.77.1.234:5146
+http://58.62.235.86:10000/rtp/239.77.1.234:5146
 #EXTINF:-1 group-title="其它",九屏同播
 http://183.7.17.30:8888/rtp/239.77.1.234:5146
 #EXTINF:-1 group-title="其它",外语频道
+http://223.167.203.127:9876/rtp/225.0.0.10:6140
+#EXTINF:-1 group-title="其它",外语频道
 http://223.167.202.60:9876/rtp/225.0.0.10:6140
+#EXTINF:-1 group-title="其它",外语频道
+http://223.167.203.127:9876/rtp/225.0.0.10:6140
 #EXTINF:-1 group-title="其它",外语频道
 http://223.167.202.60:9876/rtp/225.0.0.10:6140
 #EXTINF:-1 group-title="其它",外语频道
@@ -1450,11 +1362,7 @@ http://223.167.202.60:9876/rtp/225.0.0.10:6140
 #EXTINF:-1 group-title="其它",外语频道
 http://116.227.32.187:11000/rtp/225.0.0.10:6140
 #EXTINF:-1 group-title="其它",外语频道
-http://223.167.203.127:9876/rtp/225.0.0.10:6140
-#EXTINF:-1 group-title="其它",外语频道
 http://223.167.202.60:9876/rtp/225.0.0.10:6140
-#EXTINF:-1 group-title="其它",外语频道
-http://223.167.203.127:9876/rtp/225.0.0.10:6140
 #EXTINF:-1 group-title="其它",天元围棋
 http://116.22.146.21:54321/rtp/239.253.43.98:5146
 #EXTINF:-1 group-title="其它",天元围棋
@@ -1462,83 +1370,71 @@ http://183.7.17.30:8888/rtp/239.253.43.98:5146
 #EXTINF:-1 group-title="其它",天元围棋
 http://58.62.235.86:10000/rtp/239.253.43.98:5146
 #EXTINF:-1 group-title="其它",岭南戏曲
-http://183.7.17.30:8888/rtp/239.77.0.122:5146
-#EXTINF:-1 group-title="其它",岭南戏曲
 http://58.62.235.86:10000/rtp/239.77.0.122:5146
 #EXTINF:-1 group-title="其它",岭南戏曲
+http://183.7.17.30:8888/rtp/239.77.0.122:5146
+#EXTINF:-1 group-title="其它",岭南戏曲
 http://116.22.146.21:54321/rtp/239.77.0.122:5146
+#EXTINF:-1 group-title="其它",崇明电视
+http://116.237.148.215:8881/udp/239.45.1.54:5140
 #EXTINF:-1 group-title="其它",崇明电视
 http://58.41.22.161:8880/udp/239.45.1.54:5140
 #EXTINF:-1 group-title="其它",崇明电视
 http://114.95.208.43:3333/udp/239.45.1.54:5140
 #EXTINF:-1 group-title="其它",崇明电视
-http://116.237.138.54:10000/udp/239.45.1.54:5140
-#EXTINF:-1 group-title="其它",崇明电视
-http://116.235.252.109:8888/udp/239.45.1.54:5140
-#EXTINF:-1 group-title="其它",崇明电视
 http://116.233.63.217:5555/udp/239.45.1.54:5140
-#EXTINF:-1 group-title="其它",崇明电视
-http://116.233.38.0:8888/udp/239.45.1.54:5140
 #EXTINF:-1 group-title="其它",崇明电视
 http://222.68.2.238:4002/udp/239.45.1.54:5140
 #EXTINF:-1 group-title="其它",崇明电视
-http://116.237.148.215:8881/udp/239.45.1.54:5140
-#EXTINF:-1 group-title="其它",快乐垂钓
-http://183.7.17.30:8888/rtp/239.77.0.145:5146
-#EXTINF:-1 group-title="其它",快乐垂钓
-http://58.62.235.86:10000/rtp/239.77.0.145:5146
+http://116.233.38.0:8888/udp/239.45.1.54:5140
 #EXTINF:-1 group-title="其它",快乐垂钓
 http://183.7.17.30:8888/rtp/239.77.0.145:5146
 #EXTINF:-1 group-title="其它",快乐垂钓
 http://116.22.146.21:54321/rtp/239.77.0.145:5146
+#EXTINF:-1 group-title="其它",文物宝库
+http://58.62.235.86:10000/rtp/239.77.1.120:5146
 #EXTINF:-1 group-title="其它",文物宝库
 http://183.7.17.30:8888/rtp/239.77.1.120:5146
 #EXTINF:-1 group-title="其它",文物宝库
 http://183.7.17.30:8888/rtp/239.77.1.120:5146
 #EXTINF:-1 group-title="其它",文物宝库
 http://116.22.146.21:54321/rtp/239.77.1.120:5146
-#EXTINF:-1 group-title="其它",文物宝库
-http://58.62.235.86:10000/rtp/239.77.1.120:5146
 #EXTINF:-1 group-title="其它",新闻综合
-http://116.233.63.217:5555/udp/239.45.3.209:5140
+http://223.167.202.60:9876/rtp/225.0.0.1:6140
+#EXTINF:-1 group-title="其它",新闻综合
+http://223.167.202.60:9876/rtp/225.0.0.1:6140
+#EXTINF:-1 group-title="其它",新闻综合
+http://116.237.148.215:8881/udp/239.45.3.209:5140
 #EXTINF:-1 group-title="其它",新闻综合
 http://116.237.138.54:10000/udp/239.45.3.209:5140
 #EXTINF:-1 group-title="其它",新闻综合
 http://223.167.203.127:9876/rtp/225.0.0.1:6140
 #EXTINF:-1 group-title="其它",新闻综合
-http://116.237.148.215:8881/udp/239.45.3.209:5140
-#EXTINF:-1 group-title="其它",新闻综合
-http://58.41.22.161:8880/udp/239.45.3.209:5140
+http://116.233.24.27:4022/udp/239.45.3.209:5140
 #EXTINF:-1 group-title="其它",新闻综合
 http://116.233.38.0:8888/udp/239.45.3.209:5140
 #EXTINF:-1 group-title="其它",新闻综合
+http://58.41.22.161:8880/udp/239.45.3.209:5140
+#EXTINF:-1 group-title="其它",新闻综合
+http://222.68.2.238:4002/udp/239.45.3.209:5140
+#EXTINF:-1 group-title="其它",新闻综合
 http://114.95.208.43:3333/udp/239.45.3.209:5140
-#EXTINF:-1 group-title="其它",新闻综合
-http://223.167.202.60:9876/rtp/225.0.0.1:6140
-#EXTINF:-1 group-title="其它",新闻综合
-http://116.233.24.27:4022/udp/239.45.3.209:5140
-#EXTINF:-1 group-title="其它",新闻综合
-http://223.167.202.60:9876/rtp/225.0.0.1:6140
+#EXTINF:-1 group-title="其它",梨园
+http://58.62.235.86:10000/rtp/239.77.1.100:5146
 #EXTINF:-1 group-title="其它",梨园
 http://116.22.146.21:54321/rtp/239.77.1.100:5146
 #EXTINF:-1 group-title="其它",梨园
 http://183.7.17.30:8888/rtp/239.77.1.100:5146
-#EXTINF:-1 group-title="其它",梨园
-http://58.62.235.86:10000/rtp/239.77.1.100:5146
 #EXTINF:-1 group-title="其它",武术世界
 http://116.22.146.21:54321/rtp/239.77.1.108:5146
 #EXTINF:-1 group-title="其它",武术世界
-http://119.131.25.78:9003/rtp/239.77.1.108:5146
-#EXTINF:-1 group-title="其它",武术世界
 http://58.62.235.86:10000/rtp/239.77.1.108:5146
-#EXTINF:-1 group-title="其它",求索生活
-http://183.7.17.30:8888/rtp/239.77.0.153:5146
-#EXTINF:-1 group-title="其它",求索生活
-http://183.7.17.30:8888/rtp/239.77.0.153:5146
+#EXTINF:-1 group-title="其它",武术世界
+http://119.131.25.78:9003/rtp/239.77.1.108:5146
 #EXTINF:-1 group-title="其它",求索生活
 http://116.22.146.21:54321/rtp/239.77.0.153:5146
-#EXTINF:-1 group-title="其它",求索纪录
-http://183.7.17.30:8888/rtp/239.77.0.21:5146
+#EXTINF:-1 group-title="其它",求索生活
+http://183.7.17.30:8888/rtp/239.77.0.153:5146
 #EXTINF:-1 group-title="其它",求索纪录
 http://58.62.235.86:10000/rtp/239.77.0.21:5146
 #EXTINF:-1 group-title="其它",求索纪录
@@ -1546,165 +1442,155 @@ http://116.22.146.21:54321/rtp/239.77.0.21:5146
 #EXTINF:-1 group-title="其它",江门侨乡生活
 http://183.7.17.30:8888/rtp/239.77.0.202:5146
 #EXTINF:-1 group-title="其它",江门侨乡生活
-http://58.62.235.86:10000/rtp/239.77.0.202:5146
-#EXTINF:-1 group-title="其它",江门侨乡生活
 http://116.22.146.21:54321/rtp/239.77.0.202:5146
-#EXTINF:-1 group-title="其它",江门综合
-http://58.62.235.86:10000/rtp/239.77.0.201:5146
-#EXTINF:-1 group-title="其它",江门综合
-http://183.7.17.30:8888/rtp/239.77.0.201:5146
+#EXTINF:-1 group-title="其它",江门侨乡生活
+http://58.62.235.86:10000/rtp/239.77.0.202:5146
 #EXTINF:-1 group-title="其它",江门综合
 http://116.22.146.21:54321/rtp/239.77.0.201:5146
-#EXTINF:-1 group-title="其它",法治天地
-http://116.237.138.54:10000/udp/239.45.1.46:5140
+#EXTINF:-1 group-title="其它",江门综合
+http://58.62.235.86:10000/rtp/239.77.0.201:5146
 #EXTINF:-1 group-title="其它",法治天地
 http://223.167.203.127:9876/rtp/225.0.0.160:6140
-#EXTINF:-1 group-title="其它",法治天地
-http://223.167.202.60:9876/rtp/225.0.0.160:6140
 #EXTINF:-1 group-title="其它",法治天地
 http://116.235.252.109:8888/udp/239.45.1.46:5140
 #EXTINF:-1 group-title="其它",法治天地
 http://223.167.202.60:9876/rtp/225.0.0.160:6140
 #EXTINF:-1 group-title="其它",法治天地
+http://116.237.138.54:10000/udp/239.45.1.46:5140
+#EXTINF:-1 group-title="其它",法治天地
+http://114.95.208.43:3333/udp/239.45.1.46:5140
+#EXTINF:-1 group-title="其它",法治天地
 http://223.167.203.127:9876/rtp/225.0.0.160:6140
 #EXTINF:-1 group-title="其它",法治天地
+http://223.167.202.60:9876/rtp/225.0.0.160:6140
+#EXTINF:-1 group-title="其它",法治天地
+http://116.237.148.215:8881/udp/239.45.1.46:5140
+#EXTINF:-1 group-title="其它",法治天地
+http://223.167.202.60:9876/rtp/225.0.0.160:6140
+#EXTINF:-1 group-title="其它",法治天地
 http://58.41.22.161:8880/udp/239.45.1.46:5140
-#EXTINF:-1 group-title="其它",法治天地
-http://223.167.202.60:9876/rtp/225.0.0.160:6140
-#EXTINF:-1 group-title="其它",法治天地
-http://223.167.202.60:9876/rtp/225.0.0.160:6140
-#EXTINF:-1 group-title="其它",法治天地
-http://223.167.202.60:9876/rtp/225.0.0.160:6140
 #EXTINF:-1 group-title="其它",游戏风云
-http://223.167.203.127:9876/rtp/225.0.0.162:6140
+http://223.167.202.60:9876/rtp/225.0.0.162:6140
 #EXTINF:-1 group-title="其它",游戏风云
 http://222.68.2.238:4002/udp/239.45.3.131:5140
 #EXTINF:-1 group-title="其它",游戏风云
+http://223.167.202.60:9876/rtp/225.0.0.162:6140
+#EXTINF:-1 group-title="其它",游戏风云
+http://223.167.202.60:9876/rtp/225.0.0.162:6140
+#EXTINF:-1 group-title="其它",游戏风云
+http://116.233.63.217:5555/udp/239.45.3.131:5140
+#EXTINF:-1 group-title="其它",游戏风云
 http://223.167.203.127:9876/rtp/225.0.0.162:6140
-#EXTINF:-1 group-title="其它",游戏风云
-http://223.167.202.60:9876/rtp/225.0.0.162:6140
-#EXTINF:-1 group-title="其它",游戏风云
-http://223.167.202.60:9876/rtp/225.0.0.162:6140
-#EXTINF:-1 group-title="其它",游戏风云
-http://223.167.202.60:9876/rtp/225.0.0.162:6140
 #EXTINF:-1 group-title="其它",游戏风云
 http://223.167.202.60:9876/rtp/225.0.0.162:6140
 #EXTINF:-1 group-title="其它",游戏风云
 http://114.95.208.43:3333/udp/239.45.3.131:5140
 #EXTINF:-1 group-title="其它",游戏风云
-http://116.233.63.217:5555/udp/239.45.3.131:5140
-#EXTINF:-1 group-title="其它",游戏风云
 http://58.41.22.161:8880/udp/239.45.3.131:5140
+#EXTINF:-1 group-title="其它",游戏风云
+http://223.167.203.127:9876/rtp/225.0.0.162:6140
 #EXTINF:-1 group-title="其它",现代教育
 http://58.62.235.86:10000/rtp/239.77.0.213:5146
 #EXTINF:-1 group-title="其它",现代教育
 http://116.22.146.21:54321/rtp/239.77.0.213:5146
 #EXTINF:-1 group-title="其它",生活时尚
-http://116.237.138.54:10000/udp/239.45.3.132:5140
+http://58.41.22.161:8880/udp/239.45.3.132:5140
 #EXTINF:-1 group-title="其它",生活时尚
 http://223.167.202.60:9876/rtp/225.0.0.163:6140
+#EXTINF:-1 group-title="其它",生活时尚
+http://116.233.38.0:8888/udp/239.45.3.132:5140
+#EXTINF:-1 group-title="其它",生活时尚
+http://223.167.202.60:9876/rtp/225.0.0.163:6140
+#EXTINF:-1 group-title="其它",生活时尚
+http://223.167.202.60:9876/rtp/225.0.0.163:6140
+#EXTINF:-1 group-title="其它",生活时尚
+http://223.167.202.60:9876/rtp/225.0.0.163:6140
+#EXTINF:-1 group-title="其它",生活时尚
+http://223.167.203.127:9876/rtp/225.0.0.163:6140
+#EXTINF:-1 group-title="其它",生活时尚
+http://223.167.203.127:9876/rtp/225.0.0.163:6140
 #EXTINF:-1 group-title="其它",生活时尚
 http://223.167.202.60:9876/rtp/225.0.0.163:6140
 #EXTINF:-1 group-title="其它",生活时尚
 http://114.95.208.43:3333/udp/239.45.3.132:5140
-#EXTINF:-1 group-title="其它",生活时尚
-http://116.233.38.0:8888/udp/239.45.3.132:5140
-#EXTINF:-1 group-title="其它",生活时尚
-http://116.233.63.217:5555/udp/239.45.3.132:5140
-#EXTINF:-1 group-title="其它",生活时尚
-http://223.167.203.127:9876/rtp/225.0.0.163:6140
-#EXTINF:-1 group-title="其它",生活时尚
-http://116.233.63.217:5555/udp/239.45.3.132:5140
-#EXTINF:-1 group-title="其它",生活时尚
-http://222.68.2.238:4002/udp/239.45.3.132:5140
-#EXTINF:-1 group-title="其它",生活时尚
-http://223.167.202.60:9876/rtp/225.0.0.163:6140
+#EXTINF:-1 group-title="其它",电视指南
+http://183.7.17.30:8888/rtp/239.253.43.10:5146
 #EXTINF:-1 group-title="其它",电视指南
 http://58.62.235.86:10000/rtp/239.253.43.10:5146
 #EXTINF:-1 group-title="其它",电视指南
 http://116.22.146.21:54321/rtp/239.253.43.10:5146
-#EXTINF:-1 group-title="其它",电视指南
-http://183.7.17.30:8888/rtp/239.253.43.10:5146
-#EXTINF:-1 group-title="其它",百事通
-http://183.7.17.30:8888/rtp/239.253.43.119:5146
-#EXTINF:-1 group-title="其它",百事通
-http://116.22.146.21:54321/rtp/239.253.43.118:5146
-#EXTINF:-1 group-title="其它",百事通
-http://116.22.146.21:54321/rtp/239.253.43.119:5146
-#EXTINF:-1 group-title="其它",百事通
-http://116.22.146.21:54321/rtp/239.253.43.115:5146
-#EXTINF:-1 group-title="其它",百事通
-http://183.7.17.30:8888/rtp/239.253.43.117:5146
-#EXTINF:-1 group-title="其它",百事通
-http://58.62.235.86:10000/rtp/239.253.43.117:5146
 #EXTINF:-1 group-title="其它",百事通
 http://58.62.235.86:10000/rtp/239.253.43.115:5146
 #EXTINF:-1 group-title="其它",百事通
-http://183.7.17.30:8888/rtp/239.253.43.115:5146
+http://116.22.146.21:54321/rtp/239.253.43.117:5146
 #EXTINF:-1 group-title="其它",百事通
-http://58.62.235.86:10000/rtp/239.253.43.119:5146
+http://58.62.235.86:10000/rtp/239.253.43.116:5146
+#EXTINF:-1 group-title="其它",百事通
+http://183.7.17.30:8888/rtp/239.253.43.116:5146
+#EXTINF:-1 group-title="其它",百事通
+http://183.7.17.30:8888/rtp/239.253.43.117:5146
+#EXTINF:-1 group-title="其它",百事通
+http://183.7.17.30:8888/rtp/239.253.43.119:5146
+#EXTINF:-1 group-title="其它",百事通
+http://58.62.235.86:10000/rtp/239.253.43.117:5146
 #EXTINF:-1 group-title="其它",百事通
 http://116.22.146.21:54321/rtp/239.253.43.116:5146
+#EXTINF:-1 group-title="其它",百事通
+http://116.22.146.21:54321/rtp/239.253.43.115:5146
+#EXTINF:-1 group-title="其它",百事通
+http://183.7.17.30:8888/rtp/239.253.43.115:5146
 #EXTINF:-1 group-title="其它",百视通1
 http://14.145.141.239:10000/rtp/239.20.0.42:3236
 #EXTINF:-1 group-title="其它",第一财经
-http://223.167.202.60:9876/rtp/225.0.0.7:6140
-#EXTINF:-1 group-title="其它",第一财经
-http://223.167.203.127:9876/rtp/225.0.0.7:6140
-#EXTINF:-1 group-title="其它",第一财经
-http://223.167.202.60:9876/rtp/225.0.0.7:6140
-#EXTINF:-1 group-title="其它",第一财经
-http://116.233.63.217:5555/udp/239.45.3.211:5140
+http://116.233.38.0:8888/udp/239.45.3.211:5140
 #EXTINF:-1 group-title="其它",第一财经
 http://114.95.208.43:3333/udp/239.45.3.211:5140
+#EXTINF:-1 group-title="其它",第一财经
+http://116.235.252.109:8888/udp/239.45.3.211:5140
 #EXTINF:-1 group-title="其它",第一财经
 http://116.237.138.54:10000/udp/239.45.3.211:5140
 #EXTINF:-1 group-title="其它",第一财经
 http://58.41.22.161:8880/udp/239.45.3.211:5140
 #EXTINF:-1 group-title="其它",第一财经
-http://116.237.148.215:8881/udp/239.45.3.211:5140
+http://223.167.202.60:9876/rtp/225.0.0.7:6140
+#EXTINF:-1 group-title="其它",第一财经
+http://222.68.2.238:4002/udp/239.45.3.211:5140
 #EXTINF:-1 group-title="其它",第一财经
 http://223.167.202.60:9876/rtp/225.0.0.7:6140
 #EXTINF:-1 group-title="其它",第一财经
-http://116.233.38.0:8888/udp/239.45.3.211:5140
+http://223.167.203.127:9876/rtp/225.0.0.7:6140
+#EXTINF:-1 group-title="其它",第一财经
+http://116.227.32.187:11000/rtp/225.0.0.7:6140
 #EXTINF:-1 group-title="其它",纪实人文
-http://116.233.63.217:5555/udp/239.45.3.212:5140
-#EXTINF:-1 group-title="其它",纪实人文
-http://116.233.38.0:8888/udp/239.45.3.212:5140
-#EXTINF:-1 group-title="其它",纪实人文
-http://223.167.203.127:9876/rtp/225.0.0.6:6140
-#EXTINF:-1 group-title="其它",纪实人文
-http://114.95.208.43:3333/udp/239.45.3.212:5140
+http://223.167.202.60:9876/rtp/225.0.0.6:6140
 #EXTINF:-1 group-title="其它",纪实人文
 http://222.68.2.238:4002/udp/239.45.3.212:5140
 #EXTINF:-1 group-title="其它",纪实人文
-http://183.7.17.30:8888/rtp/239.77.0.147:5146
-#EXTINF:-1 group-title="其它",纪实人文
-http://223.167.202.60:9876/rtp/225.0.0.6:6140
-#EXTINF:-1 group-title="其它",纪实人文
-http://116.237.148.215:8881/udp/239.45.3.212:5140
+http://218.1.171.151:4022/udp/239.45.3.212:5140
 #EXTINF:-1 group-title="其它",纪实人文
 http://58.41.22.161:8880/udp/239.45.3.212:5140
 #EXTINF:-1 group-title="其它",纪实人文
+http://58.62.235.86:10000/rtp/239.77.0.147:5146
+#EXTINF:-1 group-title="其它",纪实人文
 http://223.167.202.60:9876/rtp/225.0.0.6:6140
-#EXTINF:-1 group-title="其它",纺织
-http://116.237.138.54:10000/udp/239.45.1.8:5140
+#EXTINF:-1 group-title="其它",纪实人文
+http://223.167.202.60:9876/rtp/225.0.0.6:6140
+#EXTINF:-1 group-title="其它",纪实人文
+http://223.167.202.60:9876/rtp/225.0.0.6:6140
+#EXTINF:-1 group-title="其它",纪实人文
+http://116.233.63.217:5555/udp/239.45.3.212:5140
+#EXTINF:-1 group-title="其它",纪实人文
+http://223.167.203.127:9876/rtp/225.0.0.6:6140
 #EXTINF:-1 group-title="其它",纺织
 http://116.237.148.215:8881/udp/239.45.1.8:5140
-#EXTINF:-1 group-title="其它",纺织
-http://222.68.2.238:4002/udp/239.45.1.8:5140
-#EXTINF:-1 group-title="其它",纺织
-http://114.95.208.43:3333/udp/239.45.1.8:5140
 #EXTINF:-1 group-title="其它",纺织
 http://116.233.63.217:5555/udp/239.45.1.8:5140
 #EXTINF:-1 group-title="其它",纺织
 http://116.233.63.217:5555/udp/239.45.1.8:5140
 #EXTINF:-1 group-title="其它",纺织
 http://58.41.22.161:8880/udp/239.45.1.8:5140
-#EXTINF:-1 group-title="其它",绿色生态
-http://223.167.203.127:9876/rtp/225.0.0.222:6140
-#EXTINF:-1 group-title="其它",绿色生态
-http://223.167.202.60:9876/rtp/225.0.0.222:6140
+#EXTINF:-1 group-title="其它",纺织
+http://116.237.138.54:10000/udp/239.45.1.8:5140
 #EXTINF:-1 group-title="其它",绿色生态
 http://116.227.32.187:11000/rtp/225.0.0.222:6140
 #EXTINF:-1 group-title="其它",绿色生态
@@ -1714,6 +1600,10 @@ http://223.167.202.60:9876/rtp/225.0.0.222:6140
 #EXTINF:-1 group-title="其它",绿色生态
 http://223.167.203.127:9876/rtp/225.0.0.222:6140
 #EXTINF:-1 group-title="其它",绿色生态
+http://223.167.203.127:9876/rtp/225.0.0.222:6140
+#EXTINF:-1 group-title="其它",绿色生态
+http://223.167.202.60:9876/rtp/225.0.0.222:6140
+#EXTINF:-1 group-title="其它",绿色生态
 http://223.167.202.60:9876/rtp/225.0.0.222:6140
 #EXTINF:-1 group-title="其它",都市频道
 http://223.167.203.127:9876/rtp/225.0.0.3:6140
@@ -1724,277 +1614,243 @@ http://223.167.202.60:9876/rtp/225.0.0.3:6140
 #EXTINF:-1 group-title="其它",都市频道
 http://223.167.202.60:9876/rtp/225.0.0.3:6140
 #EXTINF:-1 group-title="其它",都市频道
-http://223.167.202.60:9876/rtp/225.0.0.3:6140
+http://223.167.203.127:9876/rtp/225.0.0.3:6140
 #EXTINF:-1 group-title="其它",都市频道
 http://116.227.32.187:11000/rtp/225.0.0.3:6140
 #EXTINF:-1 group-title="其它",都市频道
-http://223.167.203.127:9876/rtp/225.0.0.3:6140
+http://223.167.202.60:9876/rtp/225.0.0.3:6140
 #EXTINF:-1 group-title="其它",都市频道
 http://223.167.202.60:9876/rtp/225.0.0.3:6140
-#EXTINF:-1 group-title="其它",金色学堂
-http://223.167.203.127:9876/rtp/225.0.0.159:6140
-#EXTINF:-1 group-title="其它",金色学堂
-http://116.227.32.187:11000/rtp/225.0.0.159:6140
-#EXTINF:-1 group-title="其它",金色学堂
-http://223.167.202.60:9876/rtp/225.0.0.159:6140
-#EXTINF:-1 group-title="其它",金色学堂
-http://116.233.63.217:5555/udp/239.45.0.9:5140
-#EXTINF:-1 group-title="其它",金色学堂
-http://116.233.38.0:8888/udp/239.45.0.9:5140
-#EXTINF:-1 group-title="其它",金色学堂
-http://58.41.22.161:8880/udp/239.45.0.9:5140
-#EXTINF:-1 group-title="其它",金色学堂
-http://223.167.202.60:9876/rtp/225.0.0.159:6140
 #EXTINF:-1 group-title="其它",金色学堂
 http://222.68.2.238:4002/udp/239.45.0.9:5140
 #EXTINF:-1 group-title="其它",金色学堂
 http://116.233.38.0:8888/udp/239.45.0.9:5140
 #EXTINF:-1 group-title="其它",金色学堂
+http://223.167.202.60:9876/rtp/225.0.0.159:6140
+#EXTINF:-1 group-title="其它",金色学堂
+http://223.167.202.60:9876/rtp/225.0.0.159:6140
+#EXTINF:-1 group-title="其它",金色学堂
 http://114.95.208.43:3333/udp/239.45.0.9:5140
+#EXTINF:-1 group-title="其它",金色学堂
+http://223.167.203.127:9876/rtp/225.0.0.159:6140
+#EXTINF:-1 group-title="其它",金色学堂
+http://116.233.63.217:5555/udp/239.45.0.9:5140
+#EXTINF:-1 group-title="其它",金色学堂
+http://116.227.32.187:11000/rtp/225.0.0.159:6140
+#EXTINF:-1 group-title="其它",金色学堂
+http://223.167.202.60:9876/rtp/225.0.0.159:6140
+#EXTINF:-1 group-title="其它",金色学堂
+http://116.233.38.0:8888/udp/239.45.0.9:5140
+#EXTINF:-1 group-title="其它",香山文化
+http://183.7.17.30:8888/rtp/239.253.43.63:5146
+#EXTINF:-1 group-title="其它",香山文化
+http://183.7.17.30:8888/rtp/239.253.43.63:5146
 #EXTINF:-1 group-title="其它",香山文化
 http://116.22.146.21:54321/rtp/239.253.43.63:5146
 #EXTINF:-1 group-title="其它",香山文化
 http://58.62.235.86:10000/rtp/239.253.43.63:5146
-#EXTINF:-1 group-title="其它",香山文化
-http://183.7.17.30:8888/rtp/239.253.43.63:5146
-#EXTINF:-1 group-title="其它",香山文化
-http://183.7.17.30:8888/rtp/239.253.43.63:5146
 #EXTINF:-1 group-title="剧场",CCTV怀旧剧场
 http://183.7.17.30:8888/rtp/239.253.43.5:5146
 #EXTINF:-1 group-title="剧场",CCTV怀旧剧场
 http://183.7.17.30:8888/rtp/239.253.43.5:5146
-#EXTINF:-1 group-title="剧场",CCTV怀旧剧场
-http://58.62.235.86:10000/rtp/239.253.43.5:5146
 #EXTINF:-1 group-title="剧场",CCTV怀旧剧场
 http://14.145.141.239:10000/rtp/239.21.0.75:3640
 #EXTINF:-1 group-title="剧场",CCTV第一剧场
 http://14.145.141.239:10000/rtp/239.21.0.78:3652
 #EXTINF:-1 group-title="剧场",CCTV风云剧场
-http://116.22.146.21:54321/rtp/239.253.43.16:5146
+http://183.7.17.30:8888/rtp/239.253.43.16:5146
 #EXTINF:-1 group-title="剧场",CCTV风云剧场
 http://14.145.141.239:10000/rtp/239.21.0.76:3644
 #EXTINF:-1 group-title="剧场",CCTV风云剧场
-http://183.7.17.30:8888/rtp/239.253.43.16:5146
-#EXTINF:-1 group-title="剧场",CCTV风云剧场
-http://58.62.235.86:10000/rtp/239.253.43.16:5146
-#EXTINF:-1 group-title="剧场",CHC影迷电影
-http://183.7.17.30:8888/rtp/239.77.0.27:5146
+http://116.22.146.21:54321/rtp/239.253.43.16:5146
 #EXTINF:-1 group-title="剧场",CHC影迷电影
 http://116.22.146.21:54321/rtp/239.77.0.27:5146
+#EXTINF:-1 group-title="剧场",CHC影迷电影
+http://183.7.17.30:8888/rtp/239.77.0.27:5146
+#EXTINF:-1 group-title="剧场",东方影视
+http://116.235.252.109:8888/udp/239.45.3.237:5140
+#EXTINF:-1 group-title="剧场",东方影视
+http://116.233.63.217:5555/udp/239.45.3.237:5140
 #EXTINF:-1 group-title="剧场",东方影视
 http://222.68.2.238:4002/udp/239.45.3.237:5140
 #EXTINF:-1 group-title="剧场",东方影视
 http://223.167.202.60:9876/rtp/225.0.0.5:6140
 #EXTINF:-1 group-title="剧场",东方影视
-http://223.167.203.127:9876/rtp/225.0.0.5:6140
+http://223.167.202.60:9876/rtp/225.0.0.5:6140
 #EXTINF:-1 group-title="剧场",东方影视
-http://116.227.32.187:11000/rtp/225.0.0.5:6140
+http://223.167.203.127:9876/rtp/225.0.0.5:6140
 #EXTINF:-1 group-title="剧场",东方影视
 http://58.41.22.161:8880/udp/239.45.3.237:5140
 #EXTINF:-1 group-title="剧场",东方影视
-http://116.237.138.54:10000/udp/239.45.3.237:5140
-#EXTINF:-1 group-title="剧场",东方影视
 http://223.167.202.60:9876/rtp/225.0.0.5:6140
 #EXTINF:-1 group-title="剧场",东方影视
-http://116.233.63.217:5555/udp/239.45.3.237:5140
+http://114.95.208.43:3333/udp/239.45.3.237:5140
 #EXTINF:-1 group-title="剧场",东方影视
-http://223.167.203.127:9876/rtp/225.0.0.5:6140
-#EXTINF:-1 group-title="剧场",东方影视
-http://116.233.38.0:8888/udp/239.45.3.237:5140
-#EXTINF:-1 group-title="剧场",佛山影视
-http://183.7.17.30:8888/rtp/239.253.43.56:5146
+http://116.227.32.187:11000/rtp/225.0.0.5:6140
 #EXTINF:-1 group-title="剧场",佛山影视
 http://58.62.235.86:10000/rtp/239.253.43.56:5146
 #EXTINF:-1 group-title="剧场",广东影视
-http://14.145.141.239:10000/rtp/239.21.0.85:3680
-#EXTINF:-1 group-title="剧场",广东影视
 http://183.7.17.30:8888/rtp/239.77.0.217:5146
+#EXTINF:-1 group-title="剧场",广东影视
+http://14.145.141.239:10000/rtp/239.21.0.85:3680
 #EXTINF:-1 group-title="剧场",广东影视
 http://116.22.146.21:54321/rtp/239.77.0.217:5146
 #EXTINF:-1 group-title="剧场",广东影视
 http://58.62.235.86:10000/rtp/239.77.0.217:5146
 #EXTINF:-1 group-title="剧场",广州影视
-http://116.22.146.21:54321/rtp/239.253.43.73:5146
-#EXTINF:-1 group-title="剧场",广州影视
 http://183.7.17.30:8888/rtp/239.253.43.73:5146
-#EXTINF:-1 group-title="剧场",广州影视
-http://58.62.235.86:10000/rtp/239.253.43.73:5146
-#EXTINF:-1 group-title="剧场",欢笑剧场
-http://116.237.148.215:8881/udp/239.45.3.196:5140
-#EXTINF:-1 group-title="剧场",欢笑剧场
-http://116.233.63.217:5555/udp/239.45.3.196:5140
-#EXTINF:-1 group-title="剧场",欢笑剧场
-http://116.233.38.0:8888/udp/239.45.3.196:5140
-#EXTINF:-1 group-title="剧场",欢笑剧场
-http://116.237.138.54:10000/udp/239.45.3.196:5140
-#EXTINF:-1 group-title="剧场",欢笑剧场
-http://116.235.252.109:8888/udp/239.45.3.196:5140
 #EXTINF:-1 group-title="剧场",欢笑剧场
 http://223.167.202.60:9876/rtp/225.0.0.158:6140
+#EXTINF:-1 group-title="剧场",欢笑剧场
+http://223.167.203.127:9876/rtp/225.0.0.158:6140
+#EXTINF:-1 group-title="剧场",欢笑剧场
+http://222.68.2.238:4002/udp/239.45.3.196:5140
 #EXTINF:-1 group-title="剧场",欢笑剧场
 http://58.41.22.161:8880/udp/239.45.3.196:5140
 #EXTINF:-1 group-title="剧场",欢笑剧场
 http://116.237.148.215:8881/udp/239.45.3.196:5140
 #EXTINF:-1 group-title="剧场",欢笑剧场
+http://223.167.203.127:9876/rtp/225.0.0.158:6140
+#EXTINF:-1 group-title="剧场",欢笑剧场
 http://223.167.202.60:9876/rtp/225.0.0.158:6140
 #EXTINF:-1 group-title="剧场",欢笑剧场
-http://114.95.208.43:3333/udp/239.45.3.196:5140
+http://116.233.63.217:5555/udp/239.45.3.196:5140
+#EXTINF:-1 group-title="剧场",欢笑剧场
+http://223.167.202.60:9876/rtp/225.0.0.158:6140
+#EXTINF:-1 group-title="剧场",欢笑剧场
+http://116.237.138.54:10000/udp/239.45.3.196:5140
 #EXTINF:-1 group-title="剧场",第一剧场
 http://183.7.17.30:8888/rtp/239.253.43.28:5146
 #EXTINF:-1 group-title="剧场",第一剧场
-http://116.22.146.21:54321/rtp/239.253.43.28:5146
+http://183.7.17.30:8888/rtp/239.253.43.28:5146
 #EXTINF:-1 group-title="剧场",第一剧场
 http://58.62.235.86:10000/rtp/239.253.43.28:5146
 #EXTINF:-1 group-title="剧场",第一剧场
-http://113.65.5.151:85/rtp/239.253.43.28:5146
-#EXTINF:-1 group-title="剧场",第一剧场
-http://183.7.17.30:8888/rtp/239.253.43.28:5146
+http://116.22.146.21:54321/rtp/239.253.43.28:5146
 #EXTINF:-1 group-title="剧场",都市剧场
-http://116.227.32.187:11000/rtp/225.0.0.157:6140
+http://114.95.208.43:3333/udp/239.45.3.136:5140
+#EXTINF:-1 group-title="剧场",都市剧场
+http://116.235.252.109:8888/udp/239.45.3.136:5140
+#EXTINF:-1 group-title="剧场",都市剧场
+http://116.233.63.217:5555/udp/239.45.3.136:5140
+#EXTINF:-1 group-title="剧场",都市剧场
+http://223.167.202.60:9876/rtp/225.0.0.157:6140
+#EXTINF:-1 group-title="剧场",都市剧场
+http://116.237.138.54:10000/udp/239.45.3.136:5140
 #EXTINF:-1 group-title="剧场",都市剧场
 http://223.167.202.60:9876/rtp/225.0.0.157:6140
 #EXTINF:-1 group-title="剧场",都市剧场
 http://223.167.203.127:9876/rtp/225.0.0.157:6140
 #EXTINF:-1 group-title="剧场",都市剧场
-http://116.227.32.187:11000/rtp/225.0.0.157:6140
-#EXTINF:-1 group-title="剧场",都市剧场
-http://116.237.138.54:10000/udp/239.45.3.136:5140
-#EXTINF:-1 group-title="剧场",都市剧场
-http://222.68.2.238:4002/udp/239.45.3.136:5140
-#EXTINF:-1 group-title="剧场",都市剧场
 http://223.167.202.60:9876/rtp/225.0.0.157:6140
 #EXTINF:-1 group-title="剧场",都市剧场
-http://116.233.63.217:5555/udp/239.45.3.136:5140
+http://116.227.32.187:11000/rtp/225.0.0.157:6140
 #EXTINF:-1 group-title="剧场",都市剧场
-http://58.41.22.161:8880/udp/239.45.3.136:5140
-#EXTINF:-1 group-title="剧场",都市剧场
-http://116.235.252.109:8888/udp/239.45.3.136:5140
+http://223.167.202.60:9876/rtp/225.0.0.157:6140
 #EXTINF:-1 group-title="广东",东莞新闻综合
 http://116.22.146.21:54321/rtp/239.253.43.104:5146
 #EXTINF:-1 group-title="广东",东莞新闻综合
-http://119.131.25.78:9003/rtp/239.253.43.104:5146
+http://183.7.17.30:8888/rtp/239.253.43.104:5146
 #EXTINF:-1 group-title="广东",东莞新闻综合
 http://58.62.235.86:10000/rtp/239.253.43.104:5146
 #EXTINF:-1 group-title="广东",东莞新闻综合
-http://183.7.17.30:8888/rtp/239.253.43.104:5146
-#EXTINF:-1 group-title="广东",东莞生活资讯
-http://58.62.235.86:10000/rtp/239.253.43.105:5146
+http://119.131.25.78:9003/rtp/239.253.43.104:5146
 #EXTINF:-1 group-title="广东",东莞生活资讯
 http://116.22.146.21:54321/rtp/239.253.43.105:5146
+#EXTINF:-1 group-title="广东",东莞生活资讯
+http://58.62.235.86:10000/rtp/239.253.43.105:5146
 #EXTINF:-1 group-title="广东",中山综合
 http://116.22.146.21:54321/rtp/239.253.43.62:5146
 #EXTINF:-1 group-title="广东",中山综合
-http://58.62.235.86:10000/rtp/239.253.43.62:5146
-#EXTINF:-1 group-title="广东",中山综合
 http://183.7.17.30:8888/rtp/239.253.43.62:5146
-#EXTINF:-1 group-title="广东",云浮文旅
-http://183.7.17.30:8888/rtp/239.77.0.254:5146
+#EXTINF:-1 group-title="广东",中山综合
+http://58.62.235.86:10000/rtp/239.253.43.62:5146
 #EXTINF:-1 group-title="广东",云浮文旅
 http://58.62.235.86:10000/rtp/239.77.0.254:5146
 #EXTINF:-1 group-title="广东",云浮文旅
 http://183.7.17.30:8888/rtp/239.77.0.254:5146
 #EXTINF:-1 group-title="广东",云浮文旅
 http://116.22.146.21:54321/rtp/239.77.0.254:5146
+#EXTINF:-1 group-title="广东",云浮文旅
+http://183.7.17.30:8888/rtp/239.77.0.254:5146
 #EXTINF:-1 group-title="广东",云浮综合
 http://116.22.146.21:54321/rtp/239.77.0.253:5146
 #EXTINF:-1 group-title="广东",云浮综合
 http://183.7.17.30:8888/rtp/239.77.0.253:5146
-#EXTINF:-1 group-title="广东",云浮综合
-http://183.7.17.30:8888/rtp/239.77.0.253:5146
-#EXTINF:-1 group-title="广东",佛山公共
-http://116.22.146.21:54321/rtp/239.253.43.53:5146
 #EXTINF:-1 group-title="广东",佛山公共
 http://183.7.17.30:8888/rtp/239.253.43.53:5146
 #EXTINF:-1 group-title="广东",佛山公共
 http://58.62.235.86:10000/rtp/239.253.43.53:5146
 #EXTINF:-1 group-title="广东",佛山公共
 http://119.131.25.78:9003/rtp/239.253.43.53:5146
-#EXTINF:-1 group-title="广东",佛山南海
-http://58.62.235.86:10000/rtp/239.253.43.54:5146
+#EXTINF:-1 group-title="广东",佛山公共
+http://116.22.146.21:54321/rtp/239.253.43.53:5146
 #EXTINF:-1 group-title="广东",佛山南海
 http://116.22.146.21:54321/rtp/239.253.43.54:5146
-#EXTINF:-1 group-title="广东",佛山影视
-http://183.7.17.30:8888/rtp/239.253.43.56:5146
+#EXTINF:-1 group-title="广东",佛山南海
+http://58.62.235.86:10000/rtp/239.253.43.54:5146
 #EXTINF:-1 group-title="广东",佛山影视
 http://58.62.235.86:10000/rtp/239.253.43.56:5146
 #EXTINF:-1 group-title="广东",佛山综合
 http://183.7.17.30:8888/rtp/239.253.43.57:5146
 #EXTINF:-1 group-title="广东",佛山综合
-http://116.22.146.21:54321/rtp/239.253.43.57:5146
-#EXTINF:-1 group-title="广东",佛山综合
 http://183.7.17.30:8888/rtp/239.253.43.57:5146
 #EXTINF:-1 group-title="广东",佛山综合
 http://58.62.235.86:10000/rtp/239.253.43.57:5146
 #EXTINF:-1 group-title="广东",佛山顺德
-http://116.22.146.21:54321/rtp/239.253.43.55:5146
+http://183.7.17.30:8888/rtp/239.253.43.55:5146
 #EXTINF:-1 group-title="广东",佛山顺德
 http://58.62.235.86:10000/rtp/239.253.43.55:5146
 #EXTINF:-1 group-title="广东",佛山顺德
-http://183.7.17.30:8888/rtp/239.253.43.55:5146
+http://116.22.146.21:54321/rtp/239.253.43.55:5146
 #EXTINF:-1 group-title="广东",客家生活
 http://116.22.146.21:54321/rtp/239.253.43.124:5146
 #EXTINF:-1 group-title="广东",客家生活
-http://183.7.17.30:8888/rtp/239.253.43.124:5146
-#EXTINF:-1 group-title="广东",客家生活
 http://58.62.235.86:10000/rtp/239.253.43.124:5146
+#EXTINF:-1 group-title="广东",客家生活
+http://183.7.17.30:8888/rtp/239.253.43.124:5146
+#EXTINF:-1 group-title="广东",广东体育
+http://183.7.17.30:8888/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东",广东体育
 http://58.62.235.86:10000/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东",广东体育
-http://183.7.17.30:8888/rtp/239.77.0.168:5146
-#EXTINF:-1 group-title="广东",广东体育
-http://183.7.17.30:8888/rtp/239.77.0.168:5146
-#EXTINF:-1 group-title="广东",广东体育
-http://116.22.146.21:54321/rtp/239.77.0.168:5146
-#EXTINF:-1 group-title="广东",广东体育
 http://14.145.141.239:10000/rtp/239.20.0.103:2004
-#EXTINF:-1 group-title="广东",广东公共
-http://14.145.141.239:10000/rtp/239.21.0.86:3684
-#EXTINF:-1 group-title="广东",广东卫视
-http://58.41.22.161:8880/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="广东",广东卫视
-http://116.233.24.27:4022/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="广东",广东卫视
-http://116.235.252.109:8888/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="广东",广东卫视
-http://114.95.208.43:3333/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="广东",广东卫视
-http://116.237.138.54:10000/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="广东",广东卫视
-http://222.68.2.238:4002/udp/239.45.3.230:5140
+#EXTINF:-1 group-title="广东",广东体育
+http://183.7.17.30:8888/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东",广东卫视
 http://116.237.148.215:8881/udp/239.45.3.230:5140
 #EXTINF:-1 group-title="广东",广东卫视
 http://14.145.141.239:10000/rtp/239.20.0.101:2000
 #EXTINF:-1 group-title="广东",广东卫视
-http://58.35.112.73:6666/udp/239.45.3.230:5140
-#EXTINF:-1 group-title="广东",广东卫视
 http://58.62.235.86:10000/rtp/239.77.0.166:5146
+#EXTINF:-1 group-title="广东",广东卫视
+http://222.68.2.238:4002/udp/239.45.3.230:5140
+#EXTINF:-1 group-title="广东",广东卫视
+http://58.41.22.161:8880/udp/239.45.3.230:5140
+#EXTINF:-1 group-title="广东",广东卫视
+http://116.235.252.109:8888/udp/239.45.3.230:5140
+#EXTINF:-1 group-title="广东",广东卫视
+http://114.95.208.43:3333/udp/239.45.3.230:5140
 #EXTINF:-1 group-title="广东",广东少儿
 http://58.62.235.86:10000/rtp/239.77.0.250:5146
-#EXTINF:-1 group-title="广东",广东少儿
-http://14.145.141.239:10000/rtp/239.21.0.87:3688
 #EXTINF:-1 group-title="广东",广东少儿
 http://183.7.17.30:8888/rtp/239.77.0.250:5146
 #EXTINF:-1 group-title="广东",广东少儿
 http://116.22.146.21:54321/rtp/239.77.0.250:5146
 #EXTINF:-1 group-title="广东",广东影视
-http://14.145.141.239:10000/rtp/239.21.0.85:3680
-#EXTINF:-1 group-title="广东",广东影视
 http://183.7.17.30:8888/rtp/239.77.0.217:5146
+#EXTINF:-1 group-title="广东",广东影视
+http://14.145.141.239:10000/rtp/239.21.0.85:3680
 #EXTINF:-1 group-title="广东",广东影视
 http://116.22.146.21:54321/rtp/239.77.0.217:5146
 #EXTINF:-1 group-title="广东",广东影视
 http://58.62.235.86:10000/rtp/239.77.0.217:5146
 #EXTINF:-1 group-title="广东",广东新闻
-http://58.62.235.86:10000/rtp/239.77.0.173:5146
-#EXTINF:-1 group-title="广东",广东新闻
-http://183.7.17.30:8888/rtp/239.77.0.173:5146
+http://14.145.141.239:10000/rtp/239.21.0.93:3712
 #EXTINF:-1 group-title="广东",广东新闻
 http://116.22.146.21:54321/rtp/239.77.0.173:5146
 #EXTINF:-1 group-title="广东",广东新闻
-http://14.145.141.239:10000/rtp/239.21.0.93:3712
-#EXTINF:-1 group-title="广东",广东新闻
-http://183.7.17.30:8888/rtp/239.77.0.173:5146
+http://58.62.235.86:10000/rtp/239.77.0.173:5146
 #EXTINF:-1 group-title="广东",广东民生
 http://116.22.146.21:54321/rtp/239.77.0.225:5146
 #EXTINF:-1 group-title="广东",广东民生
@@ -2007,74 +1863,54 @@ http://58.62.235.86:10000/rtp/239.77.0.1:5146
 http://116.22.146.21:54321/rtp/239.77.0.1:5146
 #EXTINF:-1 group-title="广东",广东珠江
 http://116.22.146.21:54321/rtp/239.77.0.1:5146
-#EXTINF:-1 group-title="广东",广东珠江
-http://14.145.141.239:10000/rtp/239.20.0.64:3144
-#EXTINF:-1 group-title="广东",广东珠江
-http://14.145.141.239:10000/rtp/239.20.0.64:3144
-#EXTINF:-1 group-title="广东",广州影视
-http://116.22.146.21:54321/rtp/239.253.43.73:5146
 #EXTINF:-1 group-title="广东",广州影视
 http://183.7.17.30:8888/rtp/239.253.43.73:5146
-#EXTINF:-1 group-title="广东",广州影视
-http://58.62.235.86:10000/rtp/239.253.43.73:5146
 #EXTINF:-1 group-title="广东",广州新闻
-http://183.7.17.30:8888/rtp/239.253.43.72:5146
+http://116.22.146.21:54321/rtp/239.253.43.72:5146
 #EXTINF:-1 group-title="广东",广州新闻
 http://119.131.25.78:9003/rtp/239.253.43.72:5146
 #EXTINF:-1 group-title="广东",广州新闻
-http://58.62.235.86:10000/rtp/239.253.43.72:5146
+http://183.7.17.30:8888/rtp/239.253.43.72:5146
 #EXTINF:-1 group-title="广东",广州新闻
-http://116.22.146.21:54321/rtp/239.253.43.72:5146
-#EXTINF:-1 group-title="广东",广州法治
-http://58.62.235.86:10000/rtp/239.253.43.74:5146
+http://58.62.235.86:10000/rtp/239.253.43.72:5146
 #EXTINF:-1 group-title="广东",广州法治
 http://183.7.17.30:8888/rtp/239.253.43.74:5146
 #EXTINF:-1 group-title="广东",广州法治
-http://116.22.146.21:54321/rtp/239.253.43.74:5146
+http://58.62.235.86:10000/rtp/239.253.43.74:5146
+#EXTINF:-1 group-title="广东",广州综合
+http://58.62.235.86:10000/rtp/239.253.43.71:5146
 #EXTINF:-1 group-title="广东",广州综合
 http://116.22.146.21:54321/rtp/239.253.43.71:5146
 #EXTINF:-1 group-title="广东",广州综合
 http://183.7.17.30:8888/rtp/239.253.43.71:5146
-#EXTINF:-1 group-title="广东",广州综合
-http://58.62.235.86:10000/rtp/239.253.43.71:5146
-#EXTINF:-1 group-title="广东",徐闻综合
-http://58.62.235.86:10000/rtp/239.253.43.112:5146
 #EXTINF:-1 group-title="广东",徐闻综合
 http://116.22.146.21:54321/rtp/239.253.43.112:5146
-#EXTINF:-1 group-title="广东",惠州公共
-http://14.145.141.239:10000/rtp/239.21.0.28:3452
-#EXTINF:-1 group-title="广东",惠州综合
-http://14.145.141.239:10000/rtp/239.21.0.27:3448
-#EXTINF:-1 group-title="广东",揭阳公共
-http://14.145.141.239:10000/rtp/239.21.0.92:3708
-#EXTINF:-1 group-title="广东",揭阳生活
-http://58.62.235.86:10000/rtp/239.77.0.251:5146
-#EXTINF:-1 group-title="广东",揭阳生活
-http://116.22.146.21:54321/rtp/239.77.0.251:5146
+#EXTINF:-1 group-title="广东",徐闻综合
+http://58.62.235.86:10000/rtp/239.253.43.112:5146
 #EXTINF:-1 group-title="广东",揭阳生活
 http://183.7.17.30:8888/rtp/239.77.0.251:5146
-#EXTINF:-1 group-title="广东",揭阳综合
-http://58.62.235.86:10000/rtp/239.77.0.229:5146
+#EXTINF:-1 group-title="广东",揭阳生活
+http://116.22.146.21:54321/rtp/239.77.0.251:5146
 #EXTINF:-1 group-title="广东",揭阳综合
 http://116.22.146.21:54321/rtp/239.77.0.229:5146
 #EXTINF:-1 group-title="广东",揭阳综合
+http://58.62.235.86:10000/rtp/239.77.0.229:5146
+#EXTINF:-1 group-title="广东",揭阳综合
 http://14.145.141.239:10000/rtp/239.21.0.91:3704
 #EXTINF:-1 group-title="广东",梅州1
-http://183.7.17.30:8888/rtp/239.253.43.123:5146
+http://116.22.146.21:54321/rtp/239.253.43.123:5146
 #EXTINF:-1 group-title="广东",梅州1
 http://58.62.235.86:10000/rtp/239.253.43.123:5146
-#EXTINF:-1 group-title="广东",梅州1
-http://116.22.146.21:54321/rtp/239.253.43.123:5146
 #EXTINF:-1 group-title="广东",汕头文旅体育
 http://116.22.146.21:54321/rtp/239.77.1.132:5146
 #EXTINF:-1 group-title="广东",汕头文旅体育
 http://58.62.235.86:10000/rtp/239.77.1.132:5146
 #EXTINF:-1 group-title="广东",汕头经济生活
+http://116.22.146.21:54321/rtp/239.77.1.131:5146
+#EXTINF:-1 group-title="广东",汕头经济生活
 http://119.131.25.78:9003/rtp/239.77.1.131:5146
 #EXTINF:-1 group-title="广东",汕头经济生活
 http://58.62.235.86:10000/rtp/239.77.1.131:5146
-#EXTINF:-1 group-title="广东",汕头经济生活
-http://116.22.146.21:54321/rtp/239.77.1.131:5146
 #EXTINF:-1 group-title="广东",汕头综合
 http://116.22.146.21:54321/rtp/239.77.1.130:5146
 #EXTINF:-1 group-title="广东",汕头综合
@@ -2082,85 +1918,67 @@ http://58.62.235.86:10000/rtp/239.77.1.130:5146
 #EXTINF:-1 group-title="广东",汕尾公共
 http://14.145.141.239:10000/rtp/239.21.0.90:3700
 #EXTINF:-1 group-title="广东",汕尾文化生活
-http://183.7.17.30:8888/rtp/239.77.0.187:5146
-#EXTINF:-1 group-title="广东",汕尾文化生活
 http://58.62.235.86:10000/rtp/239.77.0.187:5146
 #EXTINF:-1 group-title="广东",汕尾文化生活
 http://116.22.146.21:54321/rtp/239.77.0.187:5146
+#EXTINF:-1 group-title="广东",汕尾文化生活
+http://183.7.17.30:8888/rtp/239.77.0.187:5146
 #EXTINF:-1 group-title="广东",汕尾新闻综合
 http://58.62.235.86:10000/rtp/239.77.0.25:5146
 #EXTINF:-1 group-title="广东",汕尾新闻综合
 http://116.22.146.21:54321/rtp/239.77.0.25:5146
-#EXTINF:-1 group-title="广东",汕尾综合
-http://14.145.141.239:10000/rtp/239.21.0.89:3696
-#EXTINF:-1 group-title="广东",河源公共
-http://14.145.141.239:10000/rtp/239.21.0.49:3536
-#EXTINF:-1 group-title="广东",河源公共
-http://58.62.235.86:10000/rtp/239.253.43.214:5146
-#EXTINF:-1 group-title="广东",河源公共
-http://119.131.25.78:9003/rtp/239.253.43.214:5146
-#EXTINF:-1 group-title="广东",河源公共
-http://183.7.17.30:8888/rtp/239.253.43.214:5146
 #EXTINF:-1 group-title="广东",河源公共
 http://183.7.17.30:8888/rtp/239.253.43.214:5146
 #EXTINF:-1 group-title="广东",河源公共
 http://116.22.146.21:54321/rtp/239.253.43.214:5146
+#EXTINF:-1 group-title="广东",河源公共
+http://14.145.141.239:10000/rtp/239.21.0.49:3536
+#EXTINF:-1 group-title="广东",河源公共
+http://183.7.17.30:8888/rtp/239.253.43.214:5146
 #EXTINF:-1 group-title="广东",河源新闻综合
 http://14.145.141.239:10000/rtp/239.21.0.48:3532
 #EXTINF:-1 group-title="广东",河源综合
-http://116.22.146.21:54321/rtp/239.253.43.213:5146
+http://58.62.235.86:10000/rtp/239.253.43.213:5146
 #EXTINF:-1 group-title="广东",河源综合
 http://183.7.17.30:8888/rtp/239.253.43.213:5146
 #EXTINF:-1 group-title="广东",河源综合
-http://58.62.235.86:10000/rtp/239.253.43.213:5146
-#EXTINF:-1 group-title="广东",深圳众创TV
-http://116.22.146.21:54321/rtp/239.77.1.247:5146
+http://116.22.146.21:54321/rtp/239.253.43.213:5146
 #EXTINF:-1 group-title="广东",深圳众创TV
 http://183.7.17.30:8888/rtp/239.77.1.247:5146
+#EXTINF:-1 group-title="广东",深圳众创TV
+http://116.22.146.21:54321/rtp/239.77.1.247:5146
 #EXTINF:-1 group-title="广东",深圳体育健康
 http://58.62.235.86:10000/rtp/239.77.1.140:5146
 #EXTINF:-1 group-title="广东",深圳体育健康
 http://183.7.17.30:8888/rtp/239.77.1.140:5146
-#EXTINF:-1 group-title="广东",深圳体育健康
-http://116.22.146.21:54321/rtp/239.77.1.140:5146
 #EXTINF:-1 group-title="广东",深圳公共
 http://58.62.235.86:10000/rtp/239.77.1.126:5146
 #EXTINF:-1 group-title="广东",深圳公共
 http://116.22.146.21:54321/rtp/239.77.1.126:5146
-#EXTINF:-1 group-title="广东",深圳公共
-http://183.7.17.30:8888/rtp/239.77.1.126:5146
-#EXTINF:-1 group-title="广东",深圳卫视
-http://113.65.5.151:85/rtp/239.77.1.3:5146
-#EXTINF:-1 group-title="广东",深圳卫视
-http://116.237.138.54:10000/udp/239.45.3.231:5140
 #EXTINF:-1 group-title="广东",深圳卫视
 http://222.68.2.238:4002/udp/239.45.3.231:5140
 #EXTINF:-1 group-title="广东",深圳卫视
 http://14.145.141.239:10000/rtp/239.20.0.122:2042
 #EXTINF:-1 group-title="广东",深圳卫视
-http://58.41.22.161:8880/udp/239.45.3.231:5140
+http://114.95.208.43:3333/udp/239.45.3.231:5140
+#EXTINF:-1 group-title="广东",深圳卫视
+http://116.235.252.109:8888/udp/239.45.3.231:5140
 #EXTINF:-1 group-title="广东",深圳卫视
 http://58.62.235.86:10000/rtp/239.77.1.3:5146
 #EXTINF:-1 group-title="广东",深圳卫视
 http://116.22.146.21:54321/rtp/239.77.1.3:5146
 #EXTINF:-1 group-title="广东",深圳卫视
-http://116.235.252.109:8888/udp/239.45.3.231:5140
-#EXTINF:-1 group-title="广东",深圳卫视
-http://183.7.17.30:8888/rtp/239.77.1.3:5146
-#EXTINF:-1 group-title="广东",深圳卫视
-http://116.233.63.217:5555/udp/239.45.3.231:5140
-#EXTINF:-1 group-title="广东",深圳娱乐
-http://58.62.235.86:10000/rtp/239.77.1.243:5146
+http://58.41.22.161:8880/udp/239.45.3.231:5140
 #EXTINF:-1 group-title="广东",深圳娱乐
 http://183.7.17.30:8888/rtp/239.77.1.243:5146
 #EXTINF:-1 group-title="广东",深圳娱乐
 http://116.22.146.21:54321/rtp/239.77.1.243:5146
+#EXTINF:-1 group-title="广东",深圳娱乐
+http://58.62.235.86:10000/rtp/239.77.1.243:5146
+#EXTINF:-1 group-title="广东",深圳宝安
+http://183.7.17.30:8888/rtp/239.77.1.67:5146
 #EXTINF:-1 group-title="广东",深圳宝安
 http://116.22.146.21:54321/rtp/239.77.1.67:5146
-#EXTINF:-1 group-title="广东",深圳宝安
-http://183.7.17.30:8888/rtp/239.77.1.67:5146
-#EXTINF:-1 group-title="广东",深圳宝安
-http://183.7.17.30:8888/rtp/239.77.1.67:5146
 #EXTINF:-1 group-title="广东",深圳宝安
 http://58.62.235.86:10000/rtp/239.77.1.67:5146
 #EXTINF:-1 group-title="广东",深圳少儿
@@ -2171,40 +1989,30 @@ http://116.22.146.21:54321/rtp/239.77.1.244:5146
 http://58.62.235.86:10000/rtp/239.77.1.177:5146
 #EXTINF:-1 group-title="广东",深圳电视剧
 http://183.7.17.30:8888/rtp/239.77.1.177:5146
-#EXTINF:-1 group-title="广东",深圳电视剧
-http://116.22.146.21:54321/rtp/239.77.1.177:5146
-#EXTINF:-1 group-title="广东",深圳财经生活
-http://58.62.235.86:10000/rtp/239.77.1.242:5146
 #EXTINF:-1 group-title="广东",深圳财经生活
 http://116.22.146.21:54321/rtp/239.77.1.242:5146
+#EXTINF:-1 group-title="广东",深圳财经生活
+http://58.62.235.86:10000/rtp/239.77.1.242:5146
+#EXTINF:-1 group-title="广东",深圳都市
+http://116.22.146.21:54321/rtp/239.77.1.176:5146
 #EXTINF:-1 group-title="广东",深圳都市
 http://58.62.235.86:10000/rtp/239.77.1.176:5146
 #EXTINF:-1 group-title="广东",深圳都市
 http://183.7.17.30:8888/rtp/239.77.1.176:5146
-#EXTINF:-1 group-title="广东",深圳都市
-http://183.7.17.30:8888/rtp/239.77.1.176:5146
-#EXTINF:-1 group-title="广东",深圳都市
-http://116.22.146.21:54321/rtp/239.77.1.176:5146
 #EXTINF:-1 group-title="广东",深圳龙岗
 http://116.22.146.21:54321/rtp/239.77.1.223:5146
-#EXTINF:-1 group-title="广东",深圳龙岗
-http://58.62.235.86:10000/rtp/239.77.1.223:5146
-#EXTINF:-1 group-title="广东",深圳龙岗
-http://183.7.17.30:8888/rtp/239.77.1.223:5146
 #EXTINF:-1 group-title="广东",清远文旅生活
 http://183.7.17.30:8888/rtp/239.253.43.34:5146
 #EXTINF:-1 group-title="广东",清远文旅生活
-http://116.22.146.21:54321/rtp/239.253.43.34:5146
-#EXTINF:-1 group-title="广东",清远文旅生活
 http://183.7.17.30:8888/rtp/239.253.43.34:5146
-#EXTINF:-1 group-title="广东",清远新闻综合
-http://116.22.146.21:54321/rtp/239.253.43.33:5146
 #EXTINF:-1 group-title="广东",清远新闻综合
 http://58.62.235.86:10000/rtp/239.253.43.33:5146
-#EXTINF:-1 group-title="广东",湛江公共
-http://116.22.146.21:54321/rtp/239.77.0.140:5146
+#EXTINF:-1 group-title="广东",清远新闻综合
+http://116.22.146.21:54321/rtp/239.253.43.33:5146
 #EXTINF:-1 group-title="广东",湛江公共
 http://58.62.235.86:10000/rtp/239.77.0.140:5146
+#EXTINF:-1 group-title="广东",湛江公共
+http://116.22.146.21:54321/rtp/239.77.0.140:5146
 #EXTINF:-1 group-title="广东",湛江新闻综合
 http://116.22.146.21:54321/rtp/239.77.0.141:5146
 #EXTINF:-1 group-title="广东",湛江新闻综合
@@ -2218,121 +2026,109 @@ http://183.7.17.30:8888/rtp/239.253.43.70:5146
 #EXTINF:-1 group-title="广东",潮州综合
 http://58.62.235.86:10000/rtp/239.253.43.70:5146
 #EXTINF:-1 group-title="广东",珠海1
-http://58.62.235.86:10000/rtp/239.77.0.155:5146
-#EXTINF:-1 group-title="广东",珠海1
 http://183.7.17.30:8888/rtp/239.77.0.155:5146
 #EXTINF:-1 group-title="广东",珠海1
+http://58.62.235.86:10000/rtp/239.77.0.155:5146
+#EXTINF:-1 group-title="广东",珠海1
 http://116.22.146.21:54321/rtp/239.77.0.155:5146
-#EXTINF:-1 group-title="广东",珠海2
-http://58.62.235.86:10000/rtp/239.77.0.154:5146
 #EXTINF:-1 group-title="广东",珠海2
 http://183.7.17.30:8888/rtp/239.77.0.154:5146
 #EXTINF:-1 group-title="广东",珠海2
 http://116.22.146.21:54321/rtp/239.77.0.154:5146
 #EXTINF:-1 group-title="广东",珠海2
 http://183.7.17.30:8888/rtp/239.77.0.154:5146
-#EXTINF:-1 group-title="广东",肇庆生活服务
-http://116.22.146.21:54321/rtp/239.253.43.2:5146
+#EXTINF:-1 group-title="广东",珠海2
+http://58.62.235.86:10000/rtp/239.77.0.154:5146
 #EXTINF:-1 group-title="广东",肇庆生活服务
 http://183.7.17.30:8888/rtp/239.253.43.2:5146
-#EXTINF:-1 group-title="广东",肇庆综合
-http://116.22.146.21:54321/rtp/239.253.43.1:5146
+#EXTINF:-1 group-title="广东",肇庆生活服务
+http://116.22.146.21:54321/rtp/239.253.43.2:5146
 #EXTINF:-1 group-title="广东",肇庆综合
 http://58.62.235.86:10000/rtp/239.253.43.1:5146
 #EXTINF:-1 group-title="广东",肇庆综合
 http://113.65.5.151:85/rtp/239.253.43.1:5146
 #EXTINF:-1 group-title="广东",茂名公共
-http://116.22.146.21:54321/rtp/239.77.0.207:5146
-#EXTINF:-1 group-title="广东",茂名公共
 http://183.7.17.30:8888/rtp/239.77.0.207:5146
+#EXTINF:-1 group-title="广东",茂名公共
+http://116.22.146.21:54321/rtp/239.77.0.207:5146
 #EXTINF:-1 group-title="广东",茂名公共
 http://183.7.17.30:8888/rtp/239.77.0.207:5146
 #EXTINF:-1 group-title="广东",茂名综合
 http://116.22.146.21:54321/rtp/239.77.0.206:5146
-#EXTINF:-1 group-title="广东",茂名综合
-http://58.62.235.86:10000/rtp/239.77.0.206:5146
 #EXTINF:-1 group-title="广东",韶关新闻综合
 http://116.22.146.21:54321/rtp/239.77.0.117:5146
 #EXTINF:-1 group-title="湖南",湖南卫视
 http://116.233.38.0:8888/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="湖南",湖南卫视
-http://58.62.235.86:10000/rtp/239.77.0.127:5146
+http://183.7.17.30:8888/rtp/239.77.0.127:5146
+#EXTINF:-1 group-title="湖南",湖南卫视
+http://114.95.208.43:3333/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="湖南",湖南卫视
 http://116.237.138.54:10000/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="湖南",湖南卫视
 http://183.7.17.30:8888/rtp/239.77.0.127:5146
 #EXTINF:-1 group-title="湖南",湖南卫视
-http://183.7.17.30:8888/rtp/239.77.0.127:5146
-#EXTINF:-1 group-title="湖南",湖南卫视
-http://116.235.252.109:8888/udp/239.45.3.228:5140
-#EXTINF:-1 group-title="湖南",湖南卫视
-http://116.235.252.109:8888/udp/239.45.3.228:5140
-#EXTINF:-1 group-title="湖南",湖南卫视
-http://119.131.25.78:9003/rtp/239.77.0.127:5146
-#EXTINF:-1 group-title="湖南",湖南卫视
 http://116.233.38.0:8888/udp/239.45.3.228:5140
 #EXTINF:-1 group-title="湖南",湖南卫视
-http://14.145.141.239:10000/rtp/239.20.0.105:2008
+http://58.62.235.86:10000/rtp/239.77.0.127:5146
+#EXTINF:-1 group-title="湖南",湖南卫视
+http://116.22.146.21:54321/rtp/239.77.0.127:5146
+#EXTINF:-1 group-title="湖南",湖南卫视
+http://58.41.22.161:8880/udp/239.45.3.228:5140
+#EXTINF:-1 group-title="湖南",湖南卫视
+http://116.235.252.109:8888/udp/239.45.3.228:5140
+#EXTINF:-1 group-title="湖南",茶频道
+http://114.95.208.43:3333/udp/239.45.3.18:5140
+#EXTINF:-1 group-title="湖南",茶频道
+http://183.7.17.30:8888/rtp/239.77.0.15:5146
 #EXTINF:-1 group-title="湖南",茶频道
 http://116.233.38.0:8888/udp/239.45.3.18:5140
-#EXTINF:-1 group-title="湖南",茶频道
-http://58.62.235.86:10000/rtp/239.77.0.15:5146
-#EXTINF:-1 group-title="湖南",茶频道
-http://116.237.148.215:8881/udp/239.45.3.18:5140
 #EXTINF:-1 group-title="湖南",茶频道
 http://58.41.22.161:8880/udp/239.45.3.18:5140
 #EXTINF:-1 group-title="湖南",茶频道
 http://222.68.2.238:4002/udp/239.45.3.18:5140
 #EXTINF:-1 group-title="湖南",茶频道
-http://116.237.138.54:10000/udp/239.45.3.18:5140
-#EXTINF:-1 group-title="湖南",茶频道
-http://116.233.63.217:5555/udp/239.45.3.18:5140
-#EXTINF:-1 group-title="湖南",茶频道
 http://116.22.146.21:54321/rtp/239.77.0.15:5146
 #EXTINF:-1 group-title="湖南",茶频道
-http://114.95.208.43:3333/udp/239.45.3.18:5140
-#EXTINF:-1 group-title="湖南",茶频道
-http://183.7.17.30:8888/rtp/239.77.0.15:5146
+http://116.233.63.217:5555/udp/239.45.3.18:5140
+#EXTINF:-1 group-title="湖南",金鹰卡通
+http://58.41.22.161:8880/udp/239.45.3.233:5140
 #EXTINF:-1 group-title="湖南",金鹰卡通
 http://116.233.63.217:5555/udp/239.45.3.233:5140
 #EXTINF:-1 group-title="湖南",金鹰卡通
-http://183.7.17.30:8888/rtp/239.77.0.164:5146
-#EXTINF:-1 group-title="湖南",金鹰卡通
 http://222.68.2.238:4002/udp/239.45.3.233:5140
+#EXTINF:-1 group-title="湖南",金鹰卡通
+http://218.1.171.151:4022/udp/239.45.3.233:5140
 #EXTINF:-1 group-title="湖南",金鹰卡通
 http://116.233.38.0:8888/udp/239.45.3.233:5140
 #EXTINF:-1 group-title="湖南",金鹰卡通
 http://116.235.252.109:8888/udp/239.45.3.233:5140
 #EXTINF:-1 group-title="湖南",金鹰卡通
-http://119.131.25.78:9003/rtp/239.77.0.164:5146
-#EXTINF:-1 group-title="湖南",金鹰卡通
 http://116.22.146.21:54321/rtp/239.77.0.164:5146
 #EXTINF:-1 group-title="湖南",金鹰卡通
-http://218.1.171.151:4022/udp/239.45.3.233:5140
+http://119.131.25.78:9003/rtp/239.77.0.164:5146
 #EXTINF:-1 group-title="湖南",金鹰卡通
-http://58.41.22.161:8880/udp/239.45.3.233:5140
-#EXTINF:-1 group-title="湖南",金鹰卡通
-http://116.237.148.215:8881/udp/239.45.3.233:5140
+http://183.7.17.30:8888/rtp/239.77.0.164:5146
 #EXTINF:-1 group-title="湖南",金鹰纪实
 http://222.68.2.238:4002/udp/239.45.1.45:5140
 #EXTINF:-1 group-title="湖南",金鹰纪实
-http://58.62.235.86:10000/rtp/239.77.1.217:5146
-#EXTINF:-1 group-title="湖南",金鹰纪实
-http://114.95.208.43:3333/udp/239.45.1.45:5140
-#EXTINF:-1 group-title="湖南",金鹰纪实
 http://116.233.38.0:8888/udp/239.45.1.45:5140
 #EXTINF:-1 group-title="湖南",金鹰纪实
 http://116.233.38.0:8888/udp/239.45.1.45:5140
-#EXTINF:-1 group-title="湖南",金鹰纪实
-http://116.22.146.21:54321/rtp/239.77.1.217:5146
 #EXTINF:-1 group-title="湖南",金鹰纪实
 http://116.237.138.54:10000/udp/239.45.1.45:5140
 #EXTINF:-1 group-title="湖南",金鹰纪实
-http://14.145.141.239:10000/rtp/239.20.0.196:2190
+http://114.95.208.43:3333/udp/239.45.1.45:5140
+#EXTINF:-1 group-title="湖南",金鹰纪实
+http://58.41.22.161:8880/udp/239.45.1.45:5140
+#EXTINF:-1 group-title="湖南",金鹰纪实
+http://116.22.146.21:54321/rtp/239.77.1.217:5146
+#EXTINF:-1 group-title="湖南",金鹰纪实
+http://58.62.235.86:10000/rtp/239.77.1.217:5146
 #EXTINF:-1 group-title="湖南",金鹰纪实
 http://116.235.252.109:8888/udp/239.45.1.45:5140
 #EXTINF:-1 group-title="湖南",金鹰纪实
-http://58.41.22.161:8880/udp/239.45.1.45:5140
+http://116.233.38.0:8888/udp/239.45.1.45:5140
 #EXTINF:-1 group-title="湖南",金鹰纪实测试
 http://116.22.146.21:54321/rtp/239.77.0.160:5146
 #EXTINF:-1 group-title="湖南",金鹰纪实测试
@@ -2340,135 +2136,115 @@ http://183.7.17.30:8888/rtp/239.77.0.160:5146
 #EXTINF:-1 group-title="湖南",金鹰纪实测试
 http://58.62.235.86:10000/rtp/239.77.0.160:5146
 #EXTINF:-1 group-title="浙江",浙江卫视
-http://222.68.2.238:4002/udp/239.45.3.178:5140
+http://58.41.22.161:8880/udp/239.45.3.178:5140
 #EXTINF:-1 group-title="浙江",浙江卫视
-http://58.62.235.86:10000/rtp/239.77.0.89:5146
-#EXTINF:-1 group-title="浙江",浙江卫视
-http://183.7.17.30:8888/rtp/239.77.0.89:5146
+http://116.22.146.21:54321/rtp/239.77.0.89:5146
 #EXTINF:-1 group-title="浙江",浙江卫视
 http://183.7.17.30:8888/rtp/239.77.0.89:5146
 #EXTINF:-1 group-title="浙江",浙江卫视
-http://114.95.208.43:3333/udp/239.45.3.178:5140
+http://183.7.17.30:8888/rtp/239.77.0.89:5146
 #EXTINF:-1 group-title="浙江",浙江卫视
 http://116.237.148.215:8881/udp/239.45.3.178:5140
 #EXTINF:-1 group-title="浙江",浙江卫视
+http://58.62.235.86:10000/rtp/239.77.0.89:5146
+#EXTINF:-1 group-title="浙江",浙江卫视
 http://116.237.138.54:10000/udp/239.45.3.178:5140
 #EXTINF:-1 group-title="浙江",浙江卫视
-http://58.41.22.161:8880/udp/239.45.3.178:5140
+http://114.95.208.43:3333/udp/239.45.3.178:5140
+#EXTINF:-1 group-title="浙江",浙江卫视
+http://222.68.2.238:4002/udp/239.45.3.178:5140
 #EXTINF:-1 group-title="浙江",浙江卫视
 http://14.145.141.239:10000/rtp/239.20.0.169:2136
-#EXTINF:-1 group-title="浙江",浙江卫视
-http://116.22.146.21:54321/rtp/239.77.0.89:5146
 #EXTINF:-1 group-title="河北",河北卫视
-http://58.41.22.161:8880/udp/239.45.1.44:5140
-#EXTINF:-1 group-title="河北",河北卫视
-http://116.233.38.0:8888/udp/239.45.1.44:5140
+http://183.7.17.30:8888/rtp/239.77.0.148:5146
 #EXTINF:-1 group-title="河北",河北卫视
 http://58.62.235.86:10000/rtp/239.77.0.148:5146
 #EXTINF:-1 group-title="河北",河北卫视
-http://116.235.252.109:8888/udp/239.45.1.44:5140
-#EXTINF:-1 group-title="河北",河北卫视
-http://116.22.146.21:54321/rtp/239.77.0.148:5146
-#EXTINF:-1 group-title="河北",河北卫视
-http://116.233.63.217:5555/udp/239.45.1.44:5140
-#EXTINF:-1 group-title="河北",河北卫视
-http://116.235.252.109:8888/udp/239.45.1.44:5140
+http://58.41.22.161:8880/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="河北",河北卫视
 http://114.95.208.43:3333/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="河北",河北卫视
-http://14.145.141.239:10000/rtp/239.20.0.56:3176
+http://116.22.146.21:54321/rtp/239.77.0.148:5146
+#EXTINF:-1 group-title="河北",河北卫视
+http://116.233.38.0:8888/udp/239.45.1.44:5140
+#EXTINF:-1 group-title="河北",河北卫视
+http://116.235.252.109:8888/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="河北",河北卫视
 http://222.68.2.238:4002/udp/239.45.1.44:5140
-#EXTINF:-1 group-title="河南",河南卫视
-http://116.233.38.0:8888/udp/239.45.0.3:5140
-#EXTINF:-1 group-title="河南",河南卫视
-http://58.62.235.86:10000/rtp/239.77.1.229:5146
-#EXTINF:-1 group-title="河南",河南卫视
-http://58.41.22.161:8880/udp/239.45.0.3:5140
-#EXTINF:-1 group-title="河南",河南卫视
-http://116.235.252.109:8888/udp/239.45.0.3:5140
-#EXTINF:-1 group-title="河南",河南卫视
-http://116.22.146.21:54321/rtp/239.77.1.229:5146
+#EXTINF:-1 group-title="河北",河北卫视
+http://183.7.17.30:8888/rtp/239.77.0.148:5146
+#EXTINF:-1 group-title="河北",河北卫视
+http://116.233.63.217:5555/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="河南",河南卫视
 http://116.233.63.217:5555/udp/239.45.0.3:5140
 #EXTINF:-1 group-title="河南",河南卫视
-http://222.68.2.238:4002/udp/239.45.0.3:5140
+http://116.235.252.109:8888/udp/239.45.0.3:5140
 #EXTINF:-1 group-title="河南",河南卫视
-http://114.95.208.43:3333/udp/239.45.0.3:5140
+http://58.35.112.73:6666/udp/239.45.0.3:5140
+#EXTINF:-1 group-title="河南",河南卫视
+http://116.22.146.21:54321/rtp/239.77.1.229:5146
+#EXTINF:-1 group-title="河南",河南卫视
+http://116.233.38.0:8888/udp/239.45.0.3:5140
+#EXTINF:-1 group-title="河南",河南卫视
+http://116.237.148.215:8881/udp/239.45.0.3:5140
 #EXTINF:-1 group-title="河南",河南卫视
 http://183.7.17.30:8888/rtp/239.77.1.229:5146
 #EXTINF:-1 group-title="河南",河南卫视
 http://116.237.138.54:10000/udp/239.45.0.3:5140
+#EXTINF:-1 group-title="河南",河南卫视
+http://58.41.22.161:8880/udp/239.45.0.3:5140
+#EXTINF:-1 group-title="河南",河南卫视
+http://58.62.235.86:10000/rtp/239.77.1.229:5146
 #EXTINF:-1 group-title="山东",山东卫视
-http://116.237.138.54:10000/udp/239.45.3.238:5140
+http://58.41.22.161:8880/udp/239.45.3.238:5140
 #EXTINF:-1 group-title="山东",山东卫视
 http://14.145.141.239:10000/rtp/239.20.0.172:2142
-#EXTINF:-1 group-title="山东",山东卫视
-http://183.7.17.30:8888/rtp/239.77.0.94:5146
 #EXTINF:-1 group-title="山东",山东卫视
 http://114.95.208.43:3333/udp/239.45.3.238:5140
 #EXTINF:-1 group-title="山东",山东卫视
 http://183.7.17.30:8888/rtp/239.77.0.94:5146
 #EXTINF:-1 group-title="山东",山东卫视
-http://116.22.146.21:54321/rtp/239.77.0.94:5146
+http://116.233.63.217:5555/udp/239.45.3.238:5140
 #EXTINF:-1 group-title="山东",山东卫视
 http://58.62.235.86:10000/rtp/239.77.0.94:5146
 #EXTINF:-1 group-title="山东",山东卫视
-http://58.41.22.161:8880/udp/239.45.3.238:5140
+http://218.1.171.151:4022/udp/239.45.3.238:5140
 #EXTINF:-1 group-title="山东",山东卫视
-http://116.233.63.217:5555/udp/239.45.3.238:5140
-#EXTINF:-1 group-title="山东",山东卫视
-http://222.68.2.238:4002/udp/239.45.3.238:5140
-#EXTINF:-1 group-title="广西",广西卫视
-http://116.237.148.215:8881/udp/239.45.0.5:5140
-#EXTINF:-1 group-title="广西",广西卫视
-http://58.62.235.86:10000/rtp/239.253.43.36:5146
-#EXTINF:-1 group-title="广西",广西卫视
-http://116.233.63.217:5555/udp/239.45.0.5:5140
-#EXTINF:-1 group-title="广西",广西卫视
-http://58.41.22.161:8880/udp/239.45.0.5:5140
-#EXTINF:-1 group-title="广西",广西卫视
-http://222.68.2.238:4002/udp/239.45.0.5:5140
-#EXTINF:-1 group-title="广西",广西卫视
-http://116.22.146.21:54321/rtp/239.253.43.36:5146
-#EXTINF:-1 group-title="广西",广西卫视
-http://116.233.38.0:8888/udp/239.45.0.5:5140
+http://183.7.17.30:8888/rtp/239.77.0.94:5146
 #EXTINF:-1 group-title="广西",广西卫视
 http://14.145.141.239:10000/rtp/239.20.0.15:3344
 #EXTINF:-1 group-title="广西",广西卫视
+http://58.41.22.161:8880/udp/239.45.0.5:5140
+#EXTINF:-1 group-title="广西",广西卫视
 http://114.95.208.43:3333/udp/239.45.0.5:5140
 #EXTINF:-1 group-title="广西",广西卫视
+http://222.68.2.238:4002/udp/239.45.0.5:5140
+#EXTINF:-1 group-title="广西",广西卫视
+http://116.233.38.0:8888/udp/239.45.0.5:5140
+#EXTINF:-1 group-title="广西",广西卫视
 http://116.235.252.109:8888/udp/239.45.0.5:5140
-#EXTINF:-1 group-title="四川",四川卫视
-http://116.237.148.215:8881/udp/239.45.1.83:5140
-#EXTINF:-1 group-title="四川",四川卫视
-http://14.145.141.239:10000/rtp/239.20.0.194:2186
-#EXTINF:-1 group-title="四川",四川卫视
-http://116.22.146.21:54321/rtp/239.77.1.215:5146
-#EXTINF:-1 group-title="四川",四川卫视
-http://114.95.208.43:3333/udp/239.45.1.83:5140
-#EXTINF:-1 group-title="四川",四川卫视
-http://116.233.38.0:8888/udp/239.45.1.83:5140
-#EXTINF:-1 group-title="四川",四川卫视
-http://58.62.235.86:10000/rtp/239.77.1.215:5146
+#EXTINF:-1 group-title="广西",广西卫视
+http://58.62.235.86:10000/rtp/239.253.43.36:5146
+#EXTINF:-1 group-title="广西",广西卫视
+http://116.22.146.21:54321/rtp/239.253.43.36:5146
 #EXTINF:-1 group-title="四川",四川卫视
 http://116.235.252.109:8888/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="四川",四川卫视
-http://58.41.22.161:8880/udp/239.45.1.83:5140
+http://14.145.141.239:10000/rtp/239.20.0.194:2186
+#EXTINF:-1 group-title="四川",四川卫视
+http://116.233.38.0:8888/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="四川",四川卫视
 http://116.233.63.217:5555/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="四川",四川卫视
+http://116.237.148.215:8881/udp/239.45.1.83:5140
+#EXTINF:-1 group-title="四川",四川卫视
 http://116.233.38.0:8888/udp/239.45.1.83:5140
-#EXTINF:-1 group-title="重庆",重庆卫视
-http://222.68.2.238:4002/udp/239.45.1.84:5140
-#EXTINF:-1 group-title="重庆",重庆卫视
-http://116.237.138.54:10000/udp/239.45.1.84:5140
-#EXTINF:-1 group-title="重庆",重庆卫视
-http://116.235.252.109:8888/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="四川",四川卫视
+http://116.22.146.21:54321/rtp/239.77.1.215:5146
+#EXTINF:-1 group-title="四川",四川卫视
+http://58.41.22.161:8880/udp/239.45.1.83:5140
 #EXTINF:-1 group-title="重庆",重庆卫视
 http://114.95.208.43:3333/udp/239.45.1.84:5140
-#EXTINF:-1 group-title="重庆",重庆卫视
-http://14.145.141.239:10000/rtp/239.20.0.195:2188
 #EXTINF:-1 group-title="重庆",重庆卫视
 http://116.233.38.0:8888/udp/239.45.1.84:5140
 #EXTINF:-1 group-title="重庆",重庆卫视
@@ -2476,82 +2252,86 @@ http://116.22.146.21:54321/rtp/239.77.0.182:5146
 #EXTINF:-1 group-title="重庆",重庆卫视
 http://58.41.22.161:8880/udp/239.45.1.84:5140
 #EXTINF:-1 group-title="重庆",重庆卫视
+http://116.235.252.109:8888/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="重庆",重庆卫视
 http://58.62.235.86:10000/rtp/239.77.0.182:5146
 #EXTINF:-1 group-title="重庆",重庆卫视
-http://116.237.148.215:8881/udp/239.45.1.84:5140
-#EXTINF:-1 group-title="北京",北京卫视
-http://116.22.146.21:54321/rtp/239.77.0.91:5146
-#EXTINF:-1 group-title="北京",北京卫视
-http://58.35.112.73:6666/udp/239.45.3.229:5140
-#EXTINF:-1 group-title="北京",北京卫视
-http://116.237.148.215:8881/udp/239.45.3.229:5140
-#EXTINF:-1 group-title="北京",北京卫视
-http://14.145.141.239:10000/rtp/239.20.0.121:2040
+http://116.233.38.0:8888/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="重庆",重庆卫视
+http://116.237.138.54:10000/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="重庆",重庆卫视
+http://222.68.2.238:4002/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="重庆",重庆卫视
+http://14.145.141.239:10000/rtp/239.20.0.195:2188
 #EXTINF:-1 group-title="北京",北京卫视
 http://116.237.148.215:8881/udp/239.45.3.229:5140
+#EXTINF:-1 group-title="北京",北京卫视
+http://58.62.235.86:10000/rtp/239.77.0.91:5146
+#EXTINF:-1 group-title="北京",北京卫视
+http://116.233.38.0:8888/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="北京",北京卫视
 http://183.7.17.30:8888/rtp/239.77.0.91:5146
 #EXTINF:-1 group-title="北京",北京卫视
+http://218.1.171.151:4022/udp/239.45.3.229:5140
+#EXTINF:-1 group-title="北京",北京卫视
+http://14.145.141.239:10000/rtp/239.20.0.121:2040
+#EXTINF:-1 group-title="北京",北京卫视
 http://116.233.24.27:4022/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="北京",北京卫视
-http://116.233.38.0:8888/udp/239.45.3.229:5140
+http://114.95.208.43:3333/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="北京",北京卫视
-http://116.233.38.0:8888/udp/239.45.3.229:5140
+http://58.35.112.73:6666/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="北京",北京卫视
-http://58.62.235.86:10000/rtp/239.77.0.91:5146
+http://116.237.138.54:10000/udp/239.45.3.229:5140
 #EXTINF:-1 group-title="北京",北京纪实科教
-http://116.233.63.217:5555/udp/239.45.1.14:5140
-#EXTINF:-1 group-title="北京",北京纪实科教
-http://116.237.138.54:10000/udp/239.45.1.14:5140
+http://116.233.38.0:8888/udp/239.45.1.14:5140
 #EXTINF:-1 group-title="北京",北京纪实科教
 http://114.95.208.43:3333/udp/239.45.1.14:5140
 #EXTINF:-1 group-title="北京",北京纪实科教
-http://116.237.148.215:8881/udp/239.45.1.14:5140
-#EXTINF:-1 group-title="北京",北京纪实科教
-http://116.233.38.0:8888/udp/239.45.1.14:5140
-#EXTINF:-1 group-title="北京",北京纪实科教
 http://222.68.2.238:4002/udp/239.45.1.14:5140
 #EXTINF:-1 group-title="北京",北京纪实科教
+http://58.41.22.161:8880/udp/239.45.1.14:5140
+#EXTINF:-1 group-title="北京",北京纪实科教
 http://116.233.38.0:8888/udp/239.45.1.14:5140
 #EXTINF:-1 group-title="北京",北京纪实科教
-http://58.41.22.161:8880/udp/239.45.1.14:5140
+http://116.233.63.217:5555/udp/239.45.1.14:5140
 #EXTINF:-1 group-title="安徽",安徽卫视
-http://116.233.63.217:5555/udp/239.45.1.120:5140
+http://58.62.235.86:10000/rtp/239.77.0.183:5146
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://218.1.171.151:4022/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="安徽",安徽卫视
 http://58.41.22.161:8880/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="安徽",安徽卫视
-http://116.226.46.59:4022/udp/239.45.1.120:5140
-#EXTINF:-1 group-title="安徽",安徽卫视
-http://114.95.208.43:3333/udp/239.45.1.120:5140
-#EXTINF:-1 group-title="安徽",安徽卫视
-http://116.237.148.215:8881/udp/239.45.1.120:5140
+http://116.233.38.0:8888/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="安徽",安徽卫视
 http://116.235.252.109:8888/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="安徽",安徽卫视
 http://14.145.141.239:10000/rtp/239.20.0.193:2184
 #EXTINF:-1 group-title="安徽",安徽卫视
-http://116.233.38.0:8888/udp/239.45.1.120:5140
+http://116.237.148.215:8881/udp/239.45.1.120:5140
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://116.226.46.59:4022/udp/239.45.1.120:5140
+#EXTINF:-1 group-title="安徽",安徽卫视
+http://114.95.208.43:3333/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="安徽",安徽卫视
 http://222.68.2.238:4002/udp/239.45.1.120:5140
-#EXTINF:-1 group-title="安徽",安徽卫视
-http://116.22.146.21:54321/rtp/239.77.0.183:5146
-#EXTINF:-1 group-title="湖北",湖北卫视
-http://116.235.252.109:8888/udp/239.45.3.239:5140
-#EXTINF:-1 group-title="湖北",湖北卫视
-http://116.22.146.21:54321/rtp/239.77.0.95:5146
-#EXTINF:-1 group-title="湖北",湖北卫视
-http://183.7.17.30:8888/rtp/239.77.0.95:5146
-#EXTINF:-1 group-title="湖北",湖北卫视
-http://183.7.17.30:8888/rtp/239.77.0.95:5146
-#EXTINF:-1 group-title="湖北",湖北卫视
-http://58.62.235.86:10000/rtp/239.77.0.95:5146
-#EXTINF:-1 group-title="湖北",湖北卫视
-http://14.145.141.239:10000/rtp/239.20.0.124:2046
-#EXTINF:-1 group-title="湖北",湖北卫视
-http://58.41.22.161:8880/udp/239.45.3.239:5140
-#EXTINF:-1 group-title="湖北",湖北卫视
-http://114.95.208.43:3333/udp/239.45.3.239:5140
 #EXTINF:-1 group-title="湖北",湖北卫视
 http://222.68.2.238:4002/udp/239.45.3.239:5140
 #EXTINF:-1 group-title="湖北",湖北卫视
-http://116.233.63.217:5555/udp/239.45.3.239:5140
+http://14.145.141.239:10000/rtp/239.20.0.124:2046
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://116.237.138.54:10000/udp/239.45.3.239:5140
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://183.7.17.30:8888/rtp/239.77.0.95:5146
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://116.235.252.109:8888/udp/239.45.3.239:5140
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://116.237.148.215:8881/udp/239.45.3.239:5140
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://116.22.146.21:54321/rtp/239.77.0.95:5146
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://114.95.208.43:3333/udp/239.45.3.239:5140
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://58.62.235.86:10000/rtp/239.77.0.95:5146
+#EXTINF:-1 group-title="湖北",湖北卫视
+http://58.41.22.161:8880/udp/239.45.3.239:5140
