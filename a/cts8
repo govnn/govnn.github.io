@@ -2,15 +2,15 @@
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://183.236.43.98:4013/rtp/239.77.0.129:5146
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://113.67.181.217:10000/rtp/239.77.0.129:5146
-#EXTINF:-1 group-title="央视频道",CCTV1
 http://183.236.43.98:4013/rtp/239.77.0.129:5146
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://183.236.43.98:4013/rtp/239.77.0.137:5146
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://183.236.43.98:4013/rtp/239.77.0.137:5146
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://113.67.181.217:10000/rtp/239.77.0.129:5146
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://113.67.181.217:10000/rtp/239.77.0.137:5146
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://183.236.43.98:4013/rtp/239.77.0.137:5146
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://183.236.43.98:4013/rtp/239.77.0.137:5146
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://183.236.43.98:4013/rtp/239.77.0.169:5146
 #EXTINF:-1 group-title="央视频道",CCTV3
@@ -25,8 +25,6 @@ http://61.145.208.162:8333/rtp/239.253.43.120:5146
 http://183.236.43.98:4013/rtp/239.253.43.120:5146
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://59.35.185.47:8188/rtp/239.253.43.120:5146
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://113.67.181.217:10000/rtp/239.253.43.120:5146
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://183.236.43.98:4013/rtp/239.253.43.121:5146
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
@@ -70,9 +68,9 @@ http://183.236.43.98:4013/rtp/239.77.0.136:5146
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://183.236.43.98:4013/rtp/239.253.43.196:5146
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://113.67.181.217:10000/rtp/239.253.43.196:5146
-#EXTINF:-1 group-title="央视频道",CCTV13
 http://183.236.43.98:4013/rtp/239.253.43.196:5146
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://113.67.181.217:10000/rtp/239.253.43.196:5146
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://183.236.43.98:4013/rtp/239.77.0.133:5146
 #EXTINF:-1 group-title="央视频道",CCTV14
@@ -82,19 +80,17 @@ http://61.145.208.162:8333/rtp/239.77.1.239:5146
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://183.236.43.98:4013/rtp/239.77.1.239:5146
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://113.67.181.217:10000/rtp/239.77.1.239:5146
-#EXTINF:-1 group-title="央视频道",CCTV15
 http://183.236.43.98:4013/rtp/239.77.1.239:5146
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://113.67.181.217:10000/rtp/239.77.1.76:5146
+http://183.236.43.98:4013/rtp/239.77.1.76:5146
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://183.236.43.98:4013/rtp/239.77.1.76:5146
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://59.35.185.47:8188/rtp/239.77.1.76:5146
 #EXTINF:-1 group-title="央视频道",CCTV16
+http://113.67.181.217:10000/rtp/239.77.1.76:5146
+#EXTINF:-1 group-title="央视频道",CCTV16
 http://61.145.208.162:8333/rtp/239.77.1.76:5146
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://183.236.43.98:4013/rtp/239.77.1.76:5146
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://183.236.43.98:4013/rtp/239.77.1.76:5146
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://183.236.43.98:4013/rtp/239.77.0.198:5146
 #EXTINF:-1 group-title="央视频道",CCTV17
@@ -118,9 +114,9 @@ http://183.236.43.98:4013/rtp/239.253.43.8:5146
 #EXTINF:-1 group-title="央视频道",CCTV女性时尚
 http://183.236.43.98:4013/rtp/239.253.43.8:5146
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
-http://183.236.43.98:4013/rtp/239.253.43.5:5146
-#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://61.145.208.162:8333/rtp/239.253.43.5:5146
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://183.236.43.98:4013/rtp/239.253.43.5:5146
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://183.236.43.98:4013/rtp/239.253.43.5:5146
 #EXTINF:-1 group-title="央视频道",CCTV文化精品
@@ -144,6 +140,6 @@ http://183.236.43.98:4013/rtp/239.253.43.6:5146
 #EXTINF:-1 group-title="央视频道",CCTV高尔夫网球
 http://183.236.43.98:4013/rtp/239.253.43.22:5146
 #EXTINF:-1 group-title="央视频道",CCTV高尔夫网球
-http://59.35.185.47:8188/rtp/239.253.43.22:5146
-#EXTINF:-1 group-title="央视频道",CCTV高尔夫网球
 http://183.236.43.98:4013/rtp/239.253.43.22:5146
+#EXTINF:-1 group-title="央视频道",CCTV高尔夫网球
+http://59.35.185.47:8188/rtp/239.253.43.22:5146
